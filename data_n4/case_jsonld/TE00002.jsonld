@@ -1,0 +1,6073 @@
+{
+ "@context": {
+  "kb": "http://example.org/kb/",
+  "case-investigation": "https://ontology.caseontology.org/case/investigation/",
+  "core": "https://ontology.unifiedcyberontology.org/uco/core/",
+  "observable": "https://ontology.unifiedcyberontology.org/uco/observable/",
+  "xsd": "http://www.w3.org/2001/XMLSchema#"
+ },
+ "@graph": [
+  {
+   "@id": "kb:investigation-31f7478a-9099-5ae0-a40d-71cd905f5ef7",
+   "@type": "case-investigation:Investigation",
+   "core:name": "TE00002",
+   "core:object": [
+    {
+     "@id": "kb:artifact-47539c8c-410f-507a-944e-953e82900adb"
+    },
+    {
+     "@id": "kb:artifact-aee4f991-7f55-5c29-9564-1fae1d55b593"
+    },
+    {
+     "@id": "kb:artifact-2b9ff04f-fafe-54aa-a49b-5b71257bf419"
+    },
+    {
+     "@id": "kb:artifact-73198532-979e-5bd1-abb6-58b5b4e2a36f"
+    },
+    {
+     "@id": "kb:artifact-c9fa18d9-9c90-5d9c-8742-4110780d3a60"
+    },
+    {
+     "@id": "kb:artifact-e8e792f3-cd3d-5150-b971-c9dea953e2cd"
+    },
+    {
+     "@id": "kb:artifact-9cd792c8-9e6a-529b-a206-b16144dbfcb2"
+    },
+    {
+     "@id": "kb:artifact-b4346526-39f3-588b-9f31-4437a454c456"
+    },
+    {
+     "@id": "kb:artifact-40e25c66-af51-54e8-855e-949d865b1ebf"
+    },
+    {
+     "@id": "kb:artifact-f07d25a0-971c-515a-8a25-1b84f9fc113a"
+    },
+    {
+     "@id": "kb:artifact-e824f0cc-a816-50a6-93f1-4155753e6232"
+    },
+    {
+     "@id": "kb:artifact-a5e2b4e8-ae69-5cce-94e8-cd3728d83912"
+    },
+    {
+     "@id": "kb:artifact-cf766058-b985-52a7-b96b-a3d961a89fba"
+    },
+    {
+     "@id": "kb:artifact-16f000ee-eb0f-5183-8a86-d22ac7609c8d"
+    },
+    {
+     "@id": "kb:artifact-baac7991-6063-5a8d-85eb-7eb9dfe81ffc"
+    },
+    {
+     "@id": "kb:artifact-b8993044-b6d9-5d29-9571-2d675f95187e"
+    },
+    {
+     "@id": "kb:artifact-ea72167d-e741-5ae0-96e7-05f6fd469928"
+    },
+    {
+     "@id": "kb:artifact-bdae2bf3-7631-5f11-be75-80a80c1e78da"
+    },
+    {
+     "@id": "kb:artifact-acab4174-134c-5b38-be59-5b5c6099f2ea"
+    },
+    {
+     "@id": "kb:artifact-0f98e05b-347f-57c6-af63-66ce4132b29a"
+    },
+    {
+     "@id": "kb:artifact-40477fe9-b88c-50cb-93e1-34b8c3466725"
+    },
+    {
+     "@id": "kb:artifact-5425b83b-9a7f-552d-858a-d3681068dcc3"
+    },
+    {
+     "@id": "kb:artifact-d738b22e-ff3f-5bd4-8630-62d17d557dae"
+    },
+    {
+     "@id": "kb:artifact-61436485-59b0-5530-8e98-4a804b505e8e"
+    },
+    {
+     "@id": "kb:artifact-347e9ef0-f7ce-5319-9f22-91c203e65c60"
+    },
+    {
+     "@id": "kb:artifact-22a2bf0b-a636-52e9-8bca-db2d771cf7fc"
+    },
+    {
+     "@id": "kb:artifact-5004c93c-148e-50ea-94de-afa3545d778d"
+    },
+    {
+     "@id": "kb:artifact-8b9193d1-1128-504b-94b8-6c459aa46956"
+    },
+    {
+     "@id": "kb:artifact-b50e326f-9bd8-52a4-9a97-684a351b37fa"
+    },
+    {
+     "@id": "kb:artifact-07ef7f3f-6f31-532d-975d-6e100fcd3073"
+    },
+    {
+     "@id": "kb:artifact-5b722174-923c-5d0c-81e1-9447a288edcf"
+    },
+    {
+     "@id": "kb:artifact-5df21943-1de9-59a5-b5e7-4e216ddbe877"
+    },
+    {
+     "@id": "kb:artifact-834291b6-5f36-5230-ba95-c5006bf52305"
+    },
+    {
+     "@id": "kb:artifact-6b9b8b17-39fa-5f75-b031-e262e6c12193"
+    },
+    {
+     "@id": "kb:artifact-66058177-a213-5393-8bed-3a38f399003f"
+    },
+    {
+     "@id": "kb:artifact-b50849e5-16b5-54b9-9d2c-d9957f27a2e6"
+    },
+    {
+     "@id": "kb:artifact-a43feb3b-7311-5e6a-ae10-1ae4c773f565"
+    },
+    {
+     "@id": "kb:artifact-1e8d728e-05b4-5869-be78-cc9849959e39"
+    },
+    {
+     "@id": "kb:artifact-5d3e393b-a5ec-5108-816e-ccc34d01bada"
+    },
+    {
+     "@id": "kb:artifact-a0c59364-f1ec-50bb-8824-0dd1e126e54f"
+    },
+    {
+     "@id": "kb:artifact-9d701a23-5104-517b-89ab-740286f23ab2"
+    },
+    {
+     "@id": "kb:artifact-f2c8441e-ebcd-5e0c-99cb-74684f27a811"
+    },
+    {
+     "@id": "kb:artifact-cb9b8020-1542-551f-a3ee-6c4d83dad875"
+    },
+    {
+     "@id": "kb:artifact-5547ad07-ed8a-5c96-a8ee-fcc9cc87a872"
+    },
+    {
+     "@id": "kb:artifact-22e70763-4a7a-5646-ab81-4b0c3a6fe71d"
+    },
+    {
+     "@id": "kb:artifact-8976541e-fd78-5e3c-993a-99e35cdf4659"
+    },
+    {
+     "@id": "kb:artifact-5201ca49-27d6-538e-bbdd-0e5bfc49a5ae"
+    },
+    {
+     "@id": "kb:artifact-0f8a4bc5-e9e7-5f5e-9141-e5d4e1b9ba1f"
+    },
+    {
+     "@id": "kb:artifact-f4fca0ca-078c-55b0-8965-ae808ae656ef"
+    },
+    {
+     "@id": "kb:artifact-6e8c125d-0ec5-55b6-adce-495381503154"
+    },
+    {
+     "@id": "kb:artifact-b84cfa9e-8afe-57da-9696-76031338918e"
+    },
+    {
+     "@id": "kb:artifact-312e946d-a8cf-5163-9731-645fee8a814a"
+    },
+    {
+     "@id": "kb:artifact-7e84c224-3046-5a0c-8864-e9b9743d6c35"
+    },
+    {
+     "@id": "kb:artifact-3d526b2c-9c38-558f-bfe8-095c63551b1a"
+    },
+    {
+     "@id": "kb:artifact-54950607-94f5-5312-bee6-ea0b255d4bfc"
+    },
+    {
+     "@id": "kb:artifact-98d40d09-2fb3-5861-869d-57f1e7cfdc21"
+    },
+    {
+     "@id": "kb:artifact-1c760e4f-a937-5a0d-86de-45d867035058"
+    },
+    {
+     "@id": "kb:artifact-d520cfc9-ec98-5f63-bf50-10aad85120b6"
+    },
+    {
+     "@id": "kb:artifact-6791e688-1440-5a19-a01d-d8572ffa8948"
+    },
+    {
+     "@id": "kb:artifact-17f851a3-70cf-5747-ac86-c6b0b41d8ca4"
+    },
+    {
+     "@id": "kb:artifact-d67689c5-7b18-5f4d-8872-4f536ed345f4"
+    },
+    {
+     "@id": "kb:artifact-fe59f1d1-2227-5bd6-980e-59a973a3fe22"
+    },
+    {
+     "@id": "kb:artifact-e598ca4c-2f12-5472-b7cb-f4a2874c8d64"
+    },
+    {
+     "@id": "kb:artifact-4d722d7d-f547-54c5-97a1-9ef38df7a282"
+    },
+    {
+     "@id": "kb:artifact-9fff8811-7272-5ae1-b921-d3b953a6123d"
+    },
+    {
+     "@id": "kb:artifact-695eb5ef-0682-5dc7-afe2-8fcdc3a9278b"
+    },
+    {
+     "@id": "kb:artifact-1c6ba686-eaab-5274-b6ac-1ac233c3d8f5"
+    },
+    {
+     "@id": "kb:artifact-6ac04c7e-dd0d-507a-8357-079fe2345e86"
+    },
+    {
+     "@id": "kb:artifact-da9970f4-1079-5704-8aac-98e992c6fa68"
+    },
+    {
+     "@id": "kb:artifact-5f193a80-8b57-5e90-92cf-e2f7bfecd37e"
+    },
+    {
+     "@id": "kb:artifact-2fc9a1a5-5898-59f9-a259-fae1ae6fd143"
+    },
+    {
+     "@id": "kb:artifact-2135b16e-6a32-58eb-927c-a5d763bec61c"
+    },
+    {
+     "@id": "kb:artifact-1d329e30-1af4-5f4d-88ed-90a2733838f5"
+    },
+    {
+     "@id": "kb:artifact-eae6b338-5abb-5b05-a33b-f6eceae95d09"
+    },
+    {
+     "@id": "kb:artifact-87b3384a-b762-5a6d-814e-f872207f46e3"
+    },
+    {
+     "@id": "kb:artifact-c2aea97f-4582-524d-9cae-951131356978"
+    },
+    {
+     "@id": "kb:artifact-81c78b4f-a107-5fdf-b11b-ad0786c83ab0"
+    },
+    {
+     "@id": "kb:artifact-2324d320-0b84-5073-a0e9-c03e7c9411a5"
+    },
+    {
+     "@id": "kb:artifact-c9ba6c31-32ab-5982-87ba-1a35f0c692f6"
+    },
+    {
+     "@id": "kb:artifact-464cb1bc-982b-555e-9862-257bf6de0d25"
+    },
+    {
+     "@id": "kb:artifact-1637a0f8-713e-509f-a92a-0b4ed581063b"
+    },
+    {
+     "@id": "kb:artifact-d18d2e73-9995-58b4-95ef-5a1db56b4af1"
+    },
+    {
+     "@id": "kb:artifact-b5acd760-3cc4-57b1-a105-f033ba8de501"
+    },
+    {
+     "@id": "kb:artifact-3cef2bb1-84a3-59d0-8860-0324954cb09b"
+    },
+    {
+     "@id": "kb:artifact-d0fae470-f059-5bab-b1d8-74bf17ffe1bb"
+    },
+    {
+     "@id": "kb:artifact-93246170-3481-5579-8058-bd16824830df"
+    },
+    {
+     "@id": "kb:artifact-28e7b9a4-6aa1-5b7d-a320-182905d0db68"
+    },
+    {
+     "@id": "kb:artifact-1a00e7a9-3f2b-556d-b816-b6937f09752b"
+    },
+    {
+     "@id": "kb:artifact-cd9c1e28-395d-5f15-a1ac-b32e152a1538"
+    },
+    {
+     "@id": "kb:artifact-406b0011-8e2d-5797-a824-032e8455b5df"
+    },
+    {
+     "@id": "kb:artifact-5ad14624-176f-54d0-8f72-0cc8ca30e6c2"
+    },
+    {
+     "@id": "kb:artifact-46366335-a654-53c8-b618-8b5548f52177"
+    },
+    {
+     "@id": "kb:artifact-7707c5e0-cb5d-5e55-a581-40b61ba72aa6"
+    },
+    {
+     "@id": "kb:artifact-2f15d470-f3a0-5cb6-a59d-321a9d395fbf"
+    },
+    {
+     "@id": "kb:artifact-94561132-9537-5aef-9dc0-dbb2a18ca528"
+    },
+    {
+     "@id": "kb:artifact-7e624fb8-dbde-57b4-b367-0896cf195168"
+    },
+    {
+     "@id": "kb:artifact-46f9d4b0-0bdb-5a8c-a146-d0545cea30b1"
+    },
+    {
+     "@id": "kb:artifact-e5287a4d-a3ec-5315-85b9-c316abf5395e"
+    },
+    {
+     "@id": "kb:artifact-5d5b44af-9635-5fdb-be47-f39b8942b2c8"
+    },
+    {
+     "@id": "kb:artifact-90b46163-9d2d-5289-b59c-c2701e48d595"
+    },
+    {
+     "@id": "kb:artifact-2aababc7-19dc-5411-b19a-bd4e8031f12e"
+    },
+    {
+     "@id": "kb:artifact-3f90124c-b6c0-5879-a7a3-4677f4a9239d"
+    },
+    {
+     "@id": "kb:artifact-026851e6-c948-5e8e-89f9-d60d9807baee"
+    },
+    {
+     "@id": "kb:artifact-fc12f10a-ad33-5215-98f7-b90c3a6f4744"
+    },
+    {
+     "@id": "kb:artifact-ebdb7f43-2504-5781-b014-d690906387a9"
+    },
+    {
+     "@id": "kb:artifact-9590ca94-0b8e-5048-9958-9622be75c52a"
+    },
+    {
+     "@id": "kb:artifact-08e4a7ee-9c79-5a7a-aef7-b01b7e503fbf"
+    },
+    {
+     "@id": "kb:artifact-fc0425f5-1e68-50f9-aec0-e2ec9a2cac0d"
+    },
+    {
+     "@id": "kb:artifact-3335960d-3eef-55ac-b48a-615ad32af717"
+    },
+    {
+     "@id": "kb:artifact-28c72a94-5f13-5115-9cc8-22d9eb3835f2"
+    },
+    {
+     "@id": "kb:artifact-c02702ae-4c7e-5360-b8f0-31a1c1480e4b"
+    },
+    {
+     "@id": "kb:artifact-16adee17-48f5-594e-9441-082724890917"
+    },
+    {
+     "@id": "kb:artifact-2af009ff-afc0-55b6-b3bb-9e1b890f76db"
+    },
+    {
+     "@id": "kb:artifact-db87dfad-d8cc-5a28-9692-370939134ac4"
+    },
+    {
+     "@id": "kb:artifact-4155e82f-3546-523a-b1fe-6618f3c7741c"
+    },
+    {
+     "@id": "kb:artifact-e05ae2c5-b4c3-553b-b8a4-b8f538b18411"
+    },
+    {
+     "@id": "kb:artifact-c8277eba-7b1e-5f12-b558-443a69e0b8ec"
+    },
+    {
+     "@id": "kb:artifact-468b4ab7-f431-5c30-89e6-9133ffafb66c"
+    },
+    {
+     "@id": "kb:artifact-c9b4b2ef-eb18-5ba6-aba8-4767cb2c5196"
+    },
+    {
+     "@id": "kb:artifact-f1fc3d94-fc29-5f08-b5a5-c652f1eff973"
+    },
+    {
+     "@id": "kb:artifact-780d7be7-cd17-5578-aaa9-0f4c4a6ef51a"
+    },
+    {
+     "@id": "kb:artifact-1230af8c-f36c-59de-8431-1d733dec7af0"
+    },
+    {
+     "@id": "kb:artifact-9c83dff9-9b72-59e3-bf9c-31b23ce97965"
+    },
+    {
+     "@id": "kb:artifact-98a27815-f72b-5b85-8ea2-b3e30e1a2519"
+    },
+    {
+     "@id": "kb:artifact-11b8bf32-eff2-550d-83c4-346ed45ba144"
+    },
+    {
+     "@id": "kb:artifact-0b8fac83-a98c-5ac6-9f74-d96af080884f"
+    },
+    {
+     "@id": "kb:artifact-44c559d2-1eb7-5783-8550-d97614f218d1"
+    },
+    {
+     "@id": "kb:artifact-0de01c50-8390-5a8d-8300-58bf728246b8"
+    },
+    {
+     "@id": "kb:artifact-0e5b9ff3-3068-5259-bb5a-4383b96cf316"
+    },
+    {
+     "@id": "kb:artifact-e41f330d-94e0-5142-80ff-889a1495191f"
+    },
+    {
+     "@id": "kb:artifact-7caf29a4-4a65-5e60-8233-cac288ccdf18"
+    },
+    {
+     "@id": "kb:artifact-696b3ade-ae7d-5c1c-bfdb-233dfb26136e"
+    },
+    {
+     "@id": "kb:artifact-678c40d3-a451-5de0-8349-d85b3655badd"
+    },
+    {
+     "@id": "kb:artifact-97025e9d-252c-5c36-88bb-5110aaccd169"
+    },
+    {
+     "@id": "kb:artifact-ccbc63d1-73e5-567d-a6cb-25e4db63dd3b"
+    },
+    {
+     "@id": "kb:artifact-54b3e34a-07d5-5fc7-88e5-a942b6ea2a76"
+    },
+    {
+     "@id": "kb:artifact-95543031-20d5-5f27-a9d9-004046540b52"
+    },
+    {
+     "@id": "kb:artifact-4f726a2d-96ae-541b-ac70-971c2b2f19b2"
+    },
+    {
+     "@id": "kb:artifact-071c1fc4-aa60-555b-a155-cc05a60da5de"
+    },
+    {
+     "@id": "kb:artifact-cc8642c0-ab5b-5b6e-971d-adff235c01b6"
+    },
+    {
+     "@id": "kb:artifact-b4e14f95-9cf1-57e1-a46c-b6dc518b30ce"
+    },
+    {
+     "@id": "kb:artifact-1344205d-ee7a-5f5a-84cc-db5779157e53"
+    },
+    {
+     "@id": "kb:artifact-e774cbde-2c86-500c-bdf9-5c12660bec70"
+    },
+    {
+     "@id": "kb:artifact-6aafc6d5-b928-5e3b-af4b-8b76d5a4a5b0"
+    },
+    {
+     "@id": "kb:artifact-4b7c3628-c36a-5085-a237-ffba8ba375ac"
+    },
+    {
+     "@id": "kb:artifact-257fd5fc-49c9-5b3f-a5e8-c6434141f3e3"
+    },
+    {
+     "@id": "kb:artifact-fb2ec254-a7f5-5a06-851a-d7b33cd999a7"
+    },
+    {
+     "@id": "kb:artifact-3c7aaffb-0a93-5950-a26d-c73124bd77ed"
+    },
+    {
+     "@id": "kb:artifact-50207e46-a562-5d21-8790-4767f8a46a5c"
+    },
+    {
+     "@id": "kb:artifact-a1a58ad2-d89a-52cd-a5a3-8ca68b413a3c"
+    },
+    {
+     "@id": "kb:artifact-32e945d6-74cc-5fb8-b18a-9c69ae2d7606"
+    },
+    {
+     "@id": "kb:artifact-cd03b697-50f7-54cf-a014-99ee37b74f99"
+    },
+    {
+     "@id": "kb:artifact-7c2832e3-7adc-5fc6-8428-35f272854a48"
+    },
+    {
+     "@id": "kb:artifact-c2b57bf6-1854-5810-8422-c4b040713b1b"
+    },
+    {
+     "@id": "kb:artifact-70accad6-3a35-50e5-bdcb-a378815b6ec6"
+    },
+    {
+     "@id": "kb:artifact-93781e83-92d1-547f-b740-a9617302f73e"
+    },
+    {
+     "@id": "kb:artifact-8753097a-0a2b-58fa-8adb-9fc9a3586166"
+    },
+    {
+     "@id": "kb:artifact-74d447b4-20c4-5678-9346-9234db611fa3"
+    },
+    {
+     "@id": "kb:artifact-3e3457d8-a92d-5123-93db-0cbcdbee71fa"
+    },
+    {
+     "@id": "kb:artifact-16179417-9f18-58c0-bf88-e3cf06ac244e"
+    },
+    {
+     "@id": "kb:artifact-cf11f832-7a8f-5c23-850d-f1714759cbbe"
+    },
+    {
+     "@id": "kb:artifact-dc9c57d7-b805-55c2-a2ad-21f88a7bda8c"
+    },
+    {
+     "@id": "kb:artifact-47c8107c-8bd8-560a-a8a2-d92ed4efc33e"
+    },
+    {
+     "@id": "kb:artifact-ef9c4937-31bd-591c-880c-ad09400d3170"
+    },
+    {
+     "@id": "kb:artifact-00f28282-a6ab-5c68-a2d4-8a6e95ecee78"
+    },
+    {
+     "@id": "kb:artifact-2003e41a-230d-585e-822e-78c12901ca48"
+    },
+    {
+     "@id": "kb:artifact-798dbfd4-9f4b-55e4-a1c1-0ff97e41550a"
+    },
+    {
+     "@id": "kb:artifact-97fb9ebd-066d-56a9-8396-1f4b21d54757"
+    },
+    {
+     "@id": "kb:artifact-025cf115-ee3e-579c-a846-fb5c8515b4ef"
+    },
+    {
+     "@id": "kb:artifact-ac1654ce-3752-5b2f-90bd-7bef40217986"
+    },
+    {
+     "@id": "kb:artifact-4218fc6e-1925-5471-b334-85f080e3ceb9"
+    },
+    {
+     "@id": "kb:artifact-b3003b20-54d4-5eb4-b0fd-cdcb48959322"
+    },
+    {
+     "@id": "kb:artifact-bfb6098e-0394-5bd1-ac6c-6179e05433f2"
+    },
+    {
+     "@id": "kb:artifact-5349df90-a71b-56c5-9815-2756872c701f"
+    },
+    {
+     "@id": "kb:artifact-e1f9368f-95ec-5739-9a59-8678f9e156ab"
+    },
+    {
+     "@id": "kb:artifact-f8c73187-8be1-563e-9384-2bb260624a63"
+    },
+    {
+     "@id": "kb:artifact-f1531ca1-33a8-5fab-9e0d-097cd7afd3a1"
+    },
+    {
+     "@id": "kb:artifact-bda9ec80-9d55-52c8-a7b6-3abb0324a5fa"
+    },
+    {
+     "@id": "kb:artifact-6ca5578b-46c2-502d-845f-375e71144352"
+    },
+    {
+     "@id": "kb:artifact-3f41e467-a9f2-5677-8ef4-23113a113059"
+    },
+    {
+     "@id": "kb:artifact-9b7c750f-4196-5605-b3b8-a86f8fad3d99"
+    },
+    {
+     "@id": "kb:artifact-659273e3-2777-5a03-b439-6be3ac972eaf"
+    },
+    {
+     "@id": "kb:artifact-c7b44c1f-fe4d-5b0e-8b0c-3ef8c9494ec8"
+    },
+    {
+     "@id": "kb:artifact-807a8f14-9493-52ba-aa89-d1a44be91090"
+    },
+    {
+     "@id": "kb:artifact-71a87adf-e582-56f1-abc3-fd56befb55ac"
+    },
+    {
+     "@id": "kb:artifact-a16b5a2d-fbe5-55c1-801d-fa3e4d3c336c"
+    },
+    {
+     "@id": "kb:artifact-80353778-90a0-5da2-8dd2-4e29490c2478"
+    },
+    {
+     "@id": "kb:artifact-a73a04d3-bf47-5056-afdd-465d5f5f40c4"
+    },
+    {
+     "@id": "kb:artifact-6eca4cc8-f07c-5854-a13e-84477033e6e2"
+    },
+    {
+     "@id": "kb:artifact-61bf72ff-0dde-5b9f-939e-90eaffc749bb"
+    },
+    {
+     "@id": "kb:artifact-6c6ebe27-2167-5cce-816d-de9e46754cc3"
+    },
+    {
+     "@id": "kb:artifact-89da991f-bc53-57f8-a88c-426de7df12ca"
+    },
+    {
+     "@id": "kb:artifact-ed07b775-cdf5-5a4f-9556-db2893cf004b"
+    },
+    {
+     "@id": "kb:artifact-bdd08343-1750-5814-a81b-a9a905077b7b"
+    },
+    {
+     "@id": "kb:artifact-310dfd92-e3ef-5800-935d-6daf2a622553"
+    },
+    {
+     "@id": "kb:artifact-1cb6d31c-fda5-579a-8af2-10964cd7641a"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-729696da-ecf6-5ebf-a269-5d01f8ee8b25",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "OWNER-DEVICE"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d9222ad8-37b6-5c6f-9c23-922f3e87ede6",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+918371437864"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-47539c8c-410f-507a-944e-953e82900adb",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-52452726-fb16-5a4a-8414-9c1f16720851",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Did you eat?",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-15T01:28:10"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-28af2387-e882-5554-8580-a3bce16ef67b",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "VM-SHOPMRT"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-aee4f991-7f55-5c29-9564-1fae1d55b593",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-8afd5afa-b902-58b3-abd9-b288b53b08d4",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Flat 50% off today only",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-29T12:05:25"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-e45910bc-b6f6-5cca-8717-e38b364a9184",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-403f97c6-5e23-5031-92ac-1070cd956982",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+918017853738"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2b9ff04f-fafe-54aa-a49b-5b71257bf419",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d9988fab-ada9-5d96-bf89-2c9079ece9a1",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-e45910bc-b6f6-5cca-8717-e38b364a9184"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Can we push the call?",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-13T11:09:03"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6168ffe2-d2e7-5c58-9912-c2c992907e67",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+916480892563"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-73198532-979e-5bd1-abb6-58b5b4e2a36f",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-cfe9f60c-8b91-5071-b557-c84bbff2004f",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Thanks a lot",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-29T18:37:28"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c9fa18d9-9c90-5d9c-8742-4110780d3a60",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2fdfe49e-f20a-50a4-a2a2-ffd4ee9721d1",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Happy birthday!",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-15T10:29:42"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-059383c4-c18a-5188-ad59-fdb02e699405",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-000d4723-df7a-52b0-b36d-d7c537a3931e",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+917271104032"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e8e792f3-cd3d-5150-b971-c9dea953e2cd",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-992c030e-1b54-5b8b-83e6-255dc7c01657",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-059383c4-c18a-5188-ad59-fdb02e699405"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Let's meet at 6",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-17T13:15:44"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-5ba2083a-0d90-5d66-86ca-745fea8604a2",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-e7931eef-1e2d-5231-8b75-01b7f36b409c",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+916431658367"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-9cd792c8-9e6a-529b-a206-b16144dbfcb2",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-fcf3d74f-2d50-535f-844d-53ff5789dab6",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-5ba2083a-0d90-5d66-86ca-745fea8604a2"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Reached home",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-15T22:30:16"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b4346526-39f3-588b-9f31-4437a454c456",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2b4ee251-ee67-5216-b98e-1352a217d0f2",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-059383c4-c18a-5188-ad59-fdb02e699405"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Call me when free",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-07T19:37:10"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-40e25c66-af51-54e8-855e-949d865b1ebf",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0f6801ff-4d04-519f-b2c2-081ba6363bec",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Your order has shipped",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T09:58:43"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-5b848b84-c265-5a84-b11a-1ad2ef8cec1e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d7dcef3f-593c-5282-ba76-e6037222c917",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+918612879515"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-f07d25a0-971c-515a-8a25-1b84f9fc113a",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-1aa96fdf-416d-5eea-9da7-f59c8e7fa61a",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-5b848b84-c265-5a84-b11a-1ad2ef8cec1e"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Thanks a lot",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-21T10:19:22"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e824f0cc-a816-50a6-93f1-4155753e6232",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6014637b-cfe6-55a1-a447-faf2f4ccb8b8",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "New offers inside",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-04T11:47:45"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-a5e2b4e8-ae69-5cce-94e8-cd3728d83912",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-dea21fc1-4e0c-56e0-8f85-e855a247e7ad",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd"
+      }
+     ],
+     "observable:messageText": "Did you eat?",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-03T20:48:38"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-b090e092-d888-52ff-bee8-300d2e143551",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "AD-BANKXX"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-cf766058-b985-52a7-b96b-a3d961a89fba",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-53b87244-4f25-5880-ab92-2c76dc512dc8",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Rs 28173 credited to a/c XX8595",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-27T06:21:28"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-16f000ee-eb0f-5183-8a86-d22ac7609c8d",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-b4e31290-a065-5efa-97f8-35684bb80217",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Your order has shipped",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-21T16:58:11"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-eb80165f-106c-5004-96f8-dc8a1585f0b4",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-8af6dd37-f574-5875-8df8-7febbd79c69d",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+918082228040"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-baac7991-6063-5a8d-85eb-7eb9dfe81ffc",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-3562d4fd-d6ab-564c-a95c-bfa5491cb3e7",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-eb80165f-106c-5004-96f8-dc8a1585f0b4"
+      }
+     ],
+     "observable:messageText": "Call me when free",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-18T15:52:34"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b8993044-b6d9-5d29-9571-2d675f95187e",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-54c9fbcf-21e6-5145-ad22-fcb12fb0867d",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Flat 50% off today only",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-01T15:09:29"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-ea72167d-e741-5ae0-96e7-05f6fd469928",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c8d6b73d-5abb-52aa-8aab-855734082b0a",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Meeting moved to 3pm",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-19T14:43:33"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-bdae2bf3-7631-5f11-be75-80a80c1e78da",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f58d79b4-d64e-5de1-a908-3d1632747b61",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-eb80165f-106c-5004-96f8-dc8a1585f0b4"
+      }
+     ],
+     "observable:messageText": "Did you eat?",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-11T16:55:31"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-acab4174-134c-5b38-be59-5b5c6099f2ea",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-e0e49f70-7039-5d05-91a1-5dc09b170a22",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-059383c4-c18a-5188-ad59-fdb02e699405"
+      }
+     ],
+     "observable:messageText": "Happy birthday!",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-02T22:31:55"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-0f98e05b-347f-57c6-af63-66ce4132b29a",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a4e3116a-17db-554b-979d-26d9e0ed3ad1",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+      }
+     ],
+     "observable:messageText": "Reached home",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T04:27:02"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-40477fe9-b88c-50cb-93e1-34b8c3466725",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-78ec282f-91f2-5290-9024-804f4b9c86ee",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd"
+      }
+     ],
+     "observable:messageText": "Let's meet at 6",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-18T18:00:07"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-e6f25132-cce9-5dfe-9198-fee43fdc87e5",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2fc8c495-c883-5db9-bb1d-d1662ef67d4e",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+919278029292"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5425b83b-9a7f-552d-858a-d3681068dcc3",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-93ad0463-7d9a-5b4b-91ba-5b602f6e8522",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-e6f25132-cce9-5dfe-9198-fee43fdc87e5"
+      }
+     ],
+     "observable:messageText": "Send me the notes",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-26T19:20:45"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-d738b22e-ff3f-5bd4-8630-62d17d557dae",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2f9b294a-ddac-5908-9ae7-bd6b51d7ad0b",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Your OTP is 263510. Do not share it with anyone.",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-17T06:13:34"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-61436485-59b0-5530-8e98-4a804b505e8e",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7cbe449a-d8e1-5043-a9ce-06cd0d8c385e",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Win a prize on every purchase",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-16T13:49:59"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-347e9ef0-f7ce-5319-9f22-91c203e65c60",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-20481c00-1cdd-5dc1-b5f1-e2a5b2bfc769",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Invoice sent by mail",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-07T18:49:10"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-d3f1050a-ed93-58aa-ac21-ec4e94c84893",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-272ad320-4005-5db6-b833-1404443d864a",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+918844294067"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-22a2bf0b-a636-52e9-8bca-db2d771cf7fc",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-631e85a6-c029-557a-b3ec-5938d6bd8397",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-d3f1050a-ed93-58aa-ac21-ec4e94c84893"
+      }
+     ],
+     "observable:messageText": "Approved, go ahead",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-29T15:09:42"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-e2991fc8-95d8-5ce9-9d61-186905d54195",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7780fa0a-4b06-5e8f-a8d9-702a09368d4e",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+919469138163"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5004c93c-148e-50ea-94de-afa3545d778d",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-affce54b-d821-5f0c-bd4a-0609996daa15",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-e2991fc8-95d8-5ce9-9d61-186905d54195"
+      }
+     ],
+     "observable:messageText": "Ok see you",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-21T21:42:11"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-8b9193d1-1128-504b-94b8-6c459aa46956",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-64ad85c4-7ead-5c50-8a8f-a54884f12565",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Your OTP is 782024. Do not share it with anyone.",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-21T21:34:57"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b50e326f-9bd8-52a4-9a97-684a351b37fa",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-05e72c30-11c9-5d8a-a128-6bdbaa60a16c",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Good night",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-31T12:38:03"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-07ef7f3f-6f31-532d-975d-6e100fcd3073",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-e900b1ca-9c01-5926-8881-8a0147a18f64",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Rs 39752 debited from a/c XX8026",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T11:43:57"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5b722174-923c-5d0c-81e1-9447a288edcf",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9b15a806-f50c-573b-949a-301784be4989",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd"
+      }
+     ],
+     "observable:messageText": "Good night",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-03T16:14:51"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5df21943-1de9-59a5-b5e7-4e216ddbe877",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-60130933-9bf9-5d10-8a5f-e193ab6e25cd",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Flat 50% off today only",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-26T19:28:45"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-834291b6-5f36-5230-ba95-c5006bf52305",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-56976836-4980-5787-b248-76d714e4d099",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+      }
+     ],
+     "observable:messageText": "Happy birthday!",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T10:17:50"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6b9b8b17-39fa-5f75-b031-e262e6c12193",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-5c4d35ba-ca96-5cdf-be2e-59cd07a2a3db",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-d3f1050a-ed93-58aa-ac21-ec4e94c84893"
+      }
+     ],
+     "observable:messageText": "Call me when free",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-31T09:01:59"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-66058177-a213-5393-8bed-3a38f399003f",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-73c6cc2d-3408-55c5-ac94-d65d51835172",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "New offers inside",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-14T13:36:09"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b50849e5-16b5-54b9-9d2c-d9957f27a2e6",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6af05972-6193-5946-81ed-4181a24d4c35",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+      }
+     ],
+     "observable:messageText": "Where are you?",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-02T01:39:24"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-a43feb3b-7311-5e6a-ae10-1ae4c773f565",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d70724c7-dcca-5f84-bf57-d779635cbf36",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-e2991fc8-95d8-5ce9-9d61-186905d54195"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Happy birthday!",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-28T18:10:52"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1e8d728e-05b4-5869-be78-cc9849959e39",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f933f3b1-9500-5cf4-8687-400c6a23d939",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Invoice sent by mail",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-03T19:32:01"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-d72963bf-17b0-59ad-b5a5-dff1af891380",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6faca478-8849-5477-9901-e66bf6237ecf",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+919659669545"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5d3e393b-a5ec-5108-816e-ccc34d01bada",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6c6c85b2-c620-5514-a0e0-a51bf849ce42",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-d72963bf-17b0-59ad-b5a5-dff1af891380"
+      }
+     ],
+     "observable:messageText": "Reached home",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-02T15:45:35"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-a0c59364-f1ec-50bb-8824-0dd1e126e54f",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c42292b2-aa67-5d8c-824a-8d7b572b9ea0",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-e45910bc-b6f6-5cca-8717-e38b364a9184"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Good night",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-11T07:11:07"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-9d701a23-5104-517b-89ab-740286f23ab2",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-384bf887-681e-53ef-8e2a-f3542da7e09f",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Win a prize on every purchase",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-02T20:19:59"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-f2c8441e-ebcd-5e0c-99cb-74684f27a811",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2f3c53fe-ab48-5147-9dbc-24abdfd9492b",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-e6f25132-cce9-5dfe-9198-fee43fdc87e5"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Where are you?",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T11:02:56"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-cb9b8020-1542-551f-a3ee-6c4d83dad875",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6ab6e591-1590-5b47-96da-88530214b861",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd"
+      }
+     ],
+     "observable:messageText": "Meeting moved to 3pm",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-13T20:22:24"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5547ad07-ed8a-5c96-a8ee-fcc9cc87a872",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f33a5b73-83a3-5555-9f0f-e76b33f2959a",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Running late, 10 mins",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T05:33:18"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-22e70763-4a7a-5646-ab81-4b0c3a6fe71d",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7f13f951-cfe5-5e40-9156-3d8fb086ead1",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-9f064aad-4c95-5c5b-a42d-768009f4e8dd"
+      }
+     ],
+     "observable:messageText": "Where are you?",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-10T16:40:50"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-664941fe-3ec4-509d-9b03-66ad4d6dc4e4",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-00b97be0-af51-5121-b2a6-e9f59e7eb162",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+916223731763"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-8976541e-fd78-5e3c-993a-99e35cdf4659",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-354792e1-980d-5ddb-9c11-2fd210d0a4bd",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-664941fe-3ec4-509d-9b03-66ad4d6dc4e4"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Thanks a lot",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-20T13:02:15"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5201ca49-27d6-538e-bbdd-0e5bfc49a5ae",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2a5c3f3d-f1ea-5963-a728-fe0f6a78cf75",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Rs 42960 credited to a/c XX2627",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-06T07:29:34"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-0f8a4bc5-e9e7-5f5e-9141-e5d4e1b9ba1f",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-49efb04c-d0d9-5459-a043-650a4498e9a6",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+      }
+     ],
+     "observable:messageText": "Call me when free",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-11T08:43:37"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-f4fca0ca-078c-55b0-8965-ae808ae656ef",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ac7e096d-0613-54b5-ab2c-133bac6fed5a",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-0bcf11d1-983b-56e3-9109-9beaf1a1044f"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Win a prize on every purchase",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-06T19:25:16"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6e8c125d-0ec5-55b6-adce-495381503154",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0a7cdb52-f210-5bb2-9934-3af82b092635",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-059383c4-c18a-5188-ad59-fdb02e699405"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Please share the report",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-26T08:59:56"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b84cfa9e-8afe-57da-9696-76031338918e",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-880680e6-e2a8-58b4-a378-39c93e32085d",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Rs 3485 credited to a/c XX7732",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-19T14:16:58"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-312e946d-a8cf-5163-9731-645fee8a814a",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-47343336-2b94-5b95-8f64-0b2b8d51d1c7",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-c4b360d1-45ba-516e-b77c-9d664b5f1ee7"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Call me when free",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-15T13:24:37"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-7e84c224-3046-5a0c-8864-e9b9743d6c35",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-681b38cc-f86c-5c98-9058-5fb55c6216f0",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-05e9bf43-6090-59cd-a075-59719c20255d"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Your OTP is 122889. Do not share it with anyone.",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-11T11:43:16"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-3d526b2c-9c38-558f-bfe8-095c63551b1a",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a5816deb-a26e-592e-994b-3b8e89ce2171",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-5b848b84-c265-5a84-b11a-1ad2ef8cec1e"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Reached home",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-13T08:53:18"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-54950607-94f5-5312-bee6-ea0b255d4bfc",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ec01341f-a7a1-5bf2-a2d9-f95d0a9e0cfb",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-d3f1050a-ed93-58aa-ac21-ec4e94c84893"
+      }
+     ],
+     "observable:messageText": "Happy birthday!",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-25T14:58:39"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-88808324-3a7e-5353-a2d2-53082169391e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-74529bd8-334b-55d4-85fe-e37a0b4833cc",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "+918038813700"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-98d40d09-2fb3-5861-869d-57f1e7cfdc21",
+   "@type": "observable:Message",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-774493af-1d77-5fbf-b2a9-09a820c50f24",
+     "@type": "observable:MessageFacet",
+     "observable:from": {
+      "@id": "kb:phone-88808324-3a7e-5353-a2d2-53082169391e"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:messageText": "Call me when free",
+     "observable:sentTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-07T11:02:13"
+     },
+     "observable:messageType": "SMS"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-37f9f563-7333-5c69-99f7-b5098fc29683",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-44ae275d-7d60-5215-a000-cb28ba0c433d",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "919089536185"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1c760e4f-a937-5a0d-86de-45d867035058",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-24fd7e36-9ed7-55cf-81ce-881271edf884",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-37f9f563-7333-5c69-99f7-b5098fc29683"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-25T10:03:14"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 153
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-db7354ec-0bea-565d-adec-df408608dd63",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-25fe5be7-61b9-5ee6-9b9e-19d9bb8d7d0e",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "916480892563"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-d520cfc9-ec98-5f63-bf50-10aad85120b6",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-68ffa4e3-9d1e-597a-b1e6-cc8a554a6b9d",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-db7354ec-0bea-565d-adec-df408608dd63"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T06:02:39"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 0
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6791e688-1440-5a19-a01d-d8572ffa8948",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9ad30e83-3ab9-512c-b552-a715c054bd85",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-db7354ec-0bea-565d-adec-df408608dd63"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-02T03:21:53"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 56
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-17f851a3-70cf-5747-ac86-c6b0b41d8ca4",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7c26343d-4024-50b1-b080-c20de479de52",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-db7354ec-0bea-565d-adec-df408608dd63"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-12T12:50:37"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 23
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-3b6d42d0-d4d6-5f2f-9935-4791ad22ada1",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "918371437864"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-d67689c5-7b18-5f4d-8872-4f536ed345f4",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-629d8dad-32e7-5507-a386-fc0102827e34",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-08T14:32:25"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 109
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-fe59f1d1-2227-5bd6-980e-59a973a3fe22",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-83656579-cdac-5737-a547-f626c9bb54a2",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-37f9f563-7333-5c69-99f7-b5098fc29683"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-07T01:11:56"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 19
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-19986c85-9084-5e0e-bfd1-814acb83898c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-acb453e9-05f7-5c88-a161-5b0644a98ff2",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "919469138163"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e598ca4c-2f12-5472-b7cb-f4a2874c8d64",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a5e2dc05-6951-566a-b185-dd5e196d446b",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-19986c85-9084-5e0e-bfd1-814acb83898c"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-28T13:26:55"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 77
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-df86337b-9de0-5d6c-a15b-d918dca42e17",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9e188092-c13f-51ea-9690-46cfc69f0ecc",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "918612879515"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-4d722d7d-f547-54c5-97a1-9ef38df7a282",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d8b36335-dc33-54b6-b76d-7088f7894013",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-df86337b-9de0-5d6c-a15b-d918dca42e17"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-11T15:14:19"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 192
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-9fff8811-7272-5ae1-b921-d3b953a6123d",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-5e54b81d-86ae-5e05-8127-e5c1e1aa4fea",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-21T06:31:14"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 29
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-c993346c-24cb-5dca-a373-c4e207b1066b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-93182af0-04a3-5881-b506-9960ada2b29b",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "918844294067"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-695eb5ef-0682-5dc7-afe2-8fcdc3a9278b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ea3d3581-62b6-5748-8696-2ec6d60d8973",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-c993346c-24cb-5dca-a373-c4e207b1066b"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-17T17:54:54"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 21
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1c6ba686-eaab-5274-b6ac-1ac233c3d8f5",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-60c0bdc2-a4ae-5aab-a343-501187403498",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-11T13:28:17"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 86
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6ac04c7e-dd0d-507a-8357-079fe2345e86",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-fe9a1d0b-5f3b-5ef2-aa7b-26c1b0fd9087",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-15T07:55:50"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 172
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-da9970f4-1079-5704-8aac-98e992c6fa68",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-06e95f22-97c5-5f8d-ae97-799ed46b70e3",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-28T13:11:24"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 79
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5f193a80-8b57-5e90-92cf-e2f7bfecd37e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a9cc292a-1859-5df8-a102-a45ff4436a1f",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-28T17:04:42"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 110
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-b90ce316-5cc8-5538-86df-b4ddcdbcc36b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-91c3ec32-8bda-55be-ba62-05a8be6875a7",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "916223731763"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2fc9a1a5-5898-59f9-a259-fae1ae6fd143",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9772b3f3-2c00-5520-b135-349c2a6959cb",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-b90ce316-5cc8-5538-86df-b4ddcdbcc36b"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-15T19:56:52"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 341
+     },
+     "observable:callType": "outgoing"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2135b16e-6a32-58eb-927c-a5d763bec61c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-3c0f2db2-6ab9-54d0-8a42-cab288edbe55",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-b90ce316-5cc8-5538-86df-b4ddcdbcc36b"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-07T01:27:12"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 94
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:phone-7d91c259-bc17-5acf-a5b5-a876399d4e19",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-225b2b92-6ce6-56a0-be29-653440b05407",
+     "@type": "observable:PhoneAccountFacet",
+     "observable:phoneNumber": "918017853738"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1d329e30-1af4-5f4d-88ed-90a2733838f5",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-83e8aa7b-0b91-5fa3-ba9a-c2dba1bdc23f",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-7d91c259-bc17-5acf-a5b5-a876399d4e19"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-16T20:13:37"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 98
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-eae6b338-5abb-5b05-a33b-f6eceae95d09",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-035a3707-d0c7-5f4e-bbe1-22da6ad15cdc",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-519fc670-3f72-57be-bc47-0709d80981cc"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-12T08:58:02"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 32
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-87b3384a-b762-5a6d-814e-f872207f46e3",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-645e0e28-34d1-5cd5-ba5b-1f1ffce2ae41",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-df86337b-9de0-5d6c-a15b-d918dca42e17"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-18T16:08:38"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 0
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c2aea97f-4582-524d-9cae-951131356978",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a723a1d6-7a46-5d7c-9ccc-c01bc0825cda",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-b90ce316-5cc8-5538-86df-b4ddcdbcc36b"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-07T15:47:32"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 183
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-81c78b4f-a107-5fdf-b11b-ad0786c83ab0",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ee89fcfd-054e-5796-b148-48fe9025d890",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-b90ce316-5cc8-5538-86df-b4ddcdbcc36b"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-17T09:34:33"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 0
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2324d320-0b84-5073-a0e9-c03e7c9411a5",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ae85a48e-390a-535d-8d9f-2055d52e3029",
+     "@type": "observable:CallFacet",
+     "observable:from": {
+      "@id": "kb:phone-7d91c259-bc17-5acf-a5b5-a876399d4e19"
+     },
+     "observable:to": [
+      {
+       "@id": "kb:phone-a0cfe1c1-7494-5058-8d5f-153666ed0f65"
+      }
+     ],
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-28T15:10:48"
+     },
+     "observable:duration": {
+      "@type": "xsd:integer",
+      "@value": 123
+     },
+     "observable:callType": "incoming"
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-fa50dfe0-8a3f-5339-b39e-03638c638896",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://chatgram.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c9ba6c31-32ab-5982-87ba-1a35f0c692f6",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f3ca18eb-fb1e-52c4-9cc2-8a74c8384da7",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-c9ba6c31-32ab-5982-87ba-1a35f0c692f6",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-14T21:16:34"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-14T21:16:34"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-464cb1bc-982b-555e-9862-257bf6de0d25",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-5f3cf45d-e0dd-59ef-9c8e-562b4d14dc49",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-464cb1bc-982b-555e-9862-257bf6de0d25",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-06T10:04:41"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-06T10:04:41"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9d4faff6-9e85-55a6-bb5a-b6445fcf2e90",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://news-daily.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1637a0f8-713e-509f-a92a-0b4ed581063b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-bc72bde1-6d6c-50cb-b7ac-3dcdabecebe6",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-1637a0f8-713e-509f-a92a-0b4ed581063b",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-27T14:51:49"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-27T14:51:49"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-4a355d7e-b6ff-54b3-b4c1-a2f8edc9d46a",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://recipes.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-d18d2e73-9995-58b4-95ef-5a1db56b4af1",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a5a9fe2e-b6d7-5360-b8df-e570aa96bc84",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-d18d2e73-9995-58b4-95ef-5a1db56b4af1",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T12:02:06"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T12:02:06"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-efdb9715-1a5f-5956-a6dc-f7d260e67af0",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-844dff8f-07d6-5054-8058-8b3325ba4b97",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://mailhub.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b5acd760-3cc4-57b1-a105-f033ba8de501",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c0a0fcf1-41c3-5248-a9e6-6e6f57dd2476",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-b5acd760-3cc4-57b1-a105-f033ba8de501",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-efdb9715-1a5f-5956-a6dc-f7d260e67af0"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-25T08:47:46"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-25T08:47:46"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-66ee001d-317d-5cd8-b079-2d9869a46a5d",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9aaca277-c735-55e7-b710-5a8b59dca724",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://socialbook.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-3cef2bb1-84a3-59d0-8860-0324954cb09b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9b909761-d5cd-5a33-857a-3b0aa53bbfe6",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-3cef2bb1-84a3-59d0-8860-0324954cb09b",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-66ee001d-317d-5cd8-b079-2d9869a46a5d"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T08:06:27"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T08:06:27"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-e5467566-9033-5df7-af26-84b1514ffd2a",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ce1208db-fd89-5d0a-9045-2de7dbb3415e",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://edu-portal.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-d0fae470-f059-5bab-b1d8-74bf17ffe1bb",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9a2e3959-1c73-55fe-926b-b24ab0e1a78e",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-d0fae470-f059-5bab-b1d8-74bf17ffe1bb",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-e5467566-9033-5df7-af26-84b1514ffd2a"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-03T15:39:55"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-03T15:39:55"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-661665dc-6bbb-5cee-8527-1d421d055aab",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-960a5908-be47-53c2-8ef4-708026c3d338",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://vidstream.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-93246170-3481-5579-8058-bd16824830df",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-18fd5c80-16b9-564a-abfa-1ccef1511981",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-93246170-3481-5579-8058-bd16824830df",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-661665dc-6bbb-5cee-8527-1d421d055aab"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-16T07:31:53"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-16T07:31:53"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-28e7b9a4-6aa1-5b7d-a320-182905d0db68",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-83ec07ee-9134-5969-b62f-69486ad5e693",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-28e7b9a4-6aa1-5b7d-a320-182905d0db68",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-30T07:45:06"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-30T07:45:06"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-17315fba-45f9-5be8-8025-f1e628a49082",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ff350296-4c8a-5594-8edb-1ca81162ab35",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://shopmart.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1a00e7a9-3f2b-556d-b816-b6937f09752b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0270034b-6df5-5621-a0b9-bbd49fdfe3c1",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-1a00e7a9-3f2b-556d-b816-b6937f09752b",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-17315fba-45f9-5be8-8025-f1e628a49082"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T11:06:18"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T11:06:18"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-cd9c1e28-395d-5f15-a1ac-b32e152a1538",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c0e3647e-add2-581d-befb-7438b2fb26c5",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-cd9c1e28-395d-5f15-a1ac-b32e152a1538",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-66ee001d-317d-5cd8-b079-2d9869a46a5d"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-21T11:27:50"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-21T11:27:50"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-406b0011-8e2d-5797-a824-032e8455b5df",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2fb8a9b5-2916-52fb-a817-2f0ff803d64e",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-406b0011-8e2d-5797-a824-032e8455b5df",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-17315fba-45f9-5be8-8025-f1e628a49082"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-15T11:26:19"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-15T11:26:19"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5ad14624-176f-54d0-8f72-0cc8ca30e6c2",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c14a5362-e235-54cc-80e6-e2a5f42a8f16",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-5ad14624-176f-54d0-8f72-0cc8ca30e6c2",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-efdb9715-1a5f-5956-a6dc-f7d260e67af0"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T22:58:42"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T22:58:42"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:url-9402fbc1-7035-5465-979c-8d6504475f3e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-4cdbad9a-513b-54b4-8301-fb7acb32c490",
+     "@type": "observable:URLFacet",
+     "observable:fullValue": "https://travelhub.example/"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-46366335-a654-53c8-b618-8b5548f52177",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-4b0ab08a-c6e0-5c08-b45a-56e44237aff0",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-46366335-a654-53c8-b618-8b5548f52177",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-9402fbc1-7035-5465-979c-8d6504475f3e"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-20T18:20:28"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-20T18:20:28"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-7707c5e0-cb5d-5e55-a581-40b61ba72aa6",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-bb169adf-db6c-5efb-ae9e-ff27fad80842",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-7707c5e0-cb5d-5e55-a581-40b61ba72aa6",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-66ee001d-317d-5cd8-b079-2d9869a46a5d"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T08:39:36"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T08:39:36"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2f15d470-f3a0-5cb6-a59d-321a9d395fbf",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9b6518a6-76ef-526c-94a7-4401fb635391",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-2f15d470-f3a0-5cb6-a59d-321a9d395fbf",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-efdb9715-1a5f-5956-a6dc-f7d260e67af0"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T00:39:02"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T00:39:02"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-94561132-9537-5aef-9dc0-dbb2a18ca528",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-8032ec8a-f67c-58f6-a9c5-302be6d05f54",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-94561132-9537-5aef-9dc0-dbb2a18ca528",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-66ee001d-317d-5cd8-b079-2d9869a46a5d"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-06T04:18:50"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-06T04:18:50"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-7e624fb8-dbde-57b4-b367-0896cf195168",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d9b07235-01d4-5037-a671-99f91037ef70",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-7e624fb8-dbde-57b4-b367-0896cf195168",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-13T22:10:49"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-13T22:10:49"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-46f9d4b0-0bdb-5a8c-a146-d0545cea30b1",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-60096c0c-a7cc-5953-8db5-72bf8f9f2f18",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-46f9d4b0-0bdb-5a8c-a146-d0545cea30b1",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-17315fba-45f9-5be8-8025-f1e628a49082"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-16T09:45:48"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-16T09:45:48"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e5287a4d-a3ec-5315-85b9-c316abf5395e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a7d4521e-1562-5f1b-a08e-fa01cb3075ef",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-e5287a4d-a3ec-5315-85b9-c316abf5395e",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-17315fba-45f9-5be8-8025-f1e628a49082"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-24T09:47:02"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-24T09:47:02"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5d5b44af-9635-5fdb-be47-f39b8942b2c8",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2dd44f7e-659d-5b18-a968-ec7c3a6d223f",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-5d5b44af-9635-5fdb-be47-f39b8942b2c8",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-17315fba-45f9-5be8-8025-f1e628a49082"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T05:22:20"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T05:22:20"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-90b46163-9d2d-5289-b59c-c2701e48d595",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-be94a120-4f5c-5d8e-a55a-d64a2a669b51",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-90b46163-9d2d-5289-b59c-c2701e48d595",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-efdb9715-1a5f-5956-a6dc-f7d260e67af0"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-04T20:16:38"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-04T20:16:38"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2aababc7-19dc-5411-b19a-bd4e8031f12e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-077ca925-6cbc-5cab-9f51-4fc4a702e0da",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-2aababc7-19dc-5411-b19a-bd4e8031f12e",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-66ee001d-317d-5cd8-b079-2d9869a46a5d"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-23T23:35:25"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-23T23:35:25"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-3f90124c-b6c0-5879-a7a3-4677f4a9239d",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7b5dec7b-4f4b-5798-8750-51254913fd84",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-3f90124c-b6c0-5879-a7a3-4677f4a9239d",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-17315fba-45f9-5be8-8025-f1e628a49082"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-04T08:05:35"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-04T08:05:35"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-026851e6-c948-5e8e-89f9-d60d9807baee",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-3d9b2c62-1aea-579b-9425-1c068d61c4c2",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-026851e6-c948-5e8e-89f9-d60d9807baee",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-e5467566-9033-5df7-af26-84b1514ffd2a"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-19T03:09:20"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-19T03:09:20"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-fc12f10a-ad33-5215-98f7-b90c3a6f4744",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2308d89a-8ea6-50bc-8bb6-d5706c6c56b2",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-fc12f10a-ad33-5215-98f7-b90c3a6f4744",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-10T19:04:57"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-10T19:04:57"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-ebdb7f43-2504-5781-b014-d690906387a9",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-250aa72c-4ed6-5ded-b880-5d8277446e61",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-ebdb7f43-2504-5781-b014-d690906387a9",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-661665dc-6bbb-5cee-8527-1d421d055aab"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-12T08:42:38"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-12T08:42:38"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-9590ca94-0b8e-5048-9958-9622be75c52a",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a993277f-230c-56aa-a544-b675ecc345bd",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-9590ca94-0b8e-5048-9958-9622be75c52a",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-19T21:09:00"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-19T21:09:00"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-08e4a7ee-9c79-5a7a-aef7-b01b7e503fbf",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c7f5a7de-1092-5c52-b835-90b9b9ddb661",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-08e4a7ee-9c79-5a7a-aef7-b01b7e503fbf",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-e5467566-9033-5df7-af26-84b1514ffd2a"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-19T17:51:55"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-19T17:51:55"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-fc0425f5-1e68-50f9-aec0-e2ec9a2cac0d",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-284ee393-401e-5848-8be2-6a9bbc781738",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-fc0425f5-1e68-50f9-aec0-e2ec9a2cac0d",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-24T15:01:01"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-24T15:01:01"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-3335960d-3eef-55ac-b48a-615ad32af717",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-fb4cc799-953c-567f-9467-1d090e47be3e",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-3335960d-3eef-55ac-b48a-615ad32af717",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-efdb9715-1a5f-5956-a6dc-f7d260e67af0"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-12T15:54:46"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-12T15:54:46"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-28c72a94-5f13-5115-9cc8-22d9eb3835f2",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-32f696ec-f2ac-5c69-b295-a059524dae91",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-28c72a94-5f13-5115-9cc8-22d9eb3835f2",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-9402fbc1-7035-5465-979c-8d6504475f3e"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T02:55:22"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T02:55:22"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c02702ae-4c7e-5360-b8f0-31a1c1480e4b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2c657ce8-1a86-5425-865f-42a7c3310cd9",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-c02702ae-4c7e-5360-b8f0-31a1c1480e4b",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-30T20:36:07"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-30T20:36:07"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-16adee17-48f5-594e-9441-082724890917",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-03dace03-d4ac-5c3c-9b59-0e26110e1e2f",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-16adee17-48f5-594e-9441-082724890917",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-08T22:49:23"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-08T22:49:23"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2af009ff-afc0-55b6-b3bb-9e1b890f76db",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0c123409-33d0-5734-be37-4b6e2c9c1999",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-2af009ff-afc0-55b6-b3bb-9e1b890f76db",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-25T09:36:11"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-25T09:36:11"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-db87dfad-d8cc-5a28-9692-370939134ac4",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-8c9aff2a-2ec7-58af-aedc-35f0eadef8d4",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-db87dfad-d8cc-5a28-9692-370939134ac4",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-09T18:27:56"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-09T18:27:56"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-4155e82f-3546-523a-b1fe-6618f3c7741c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6cb18d30-92b0-5677-9148-e826c9666461",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-4155e82f-3546-523a-b1fe-6618f3c7741c",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-31T14:54:39"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-31T14:54:39"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e05ae2c5-b4c3-553b-b8a4-b8f538b18411",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-eb3cb22f-df61-500d-80d7-42b1f62791f3",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-e05ae2c5-b4c3-553b-b8a4-b8f538b18411",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T20:24:03"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T20:24:03"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c8277eba-7b1e-5f12-b558-443a69e0b8ec",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-b3918564-2d4c-5fbf-a66e-f794d459de53",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-c8277eba-7b1e-5f12-b558-443a69e0b8ec",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-10T14:56:12"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-10T14:56:12"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-468b4ab7-f431-5c30-89e6-9133ffafb66c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d9529106-5f5e-53b0-8739-092036a52ec0",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-468b4ab7-f431-5c30-89e6-9133ffafb66c",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-14T18:23:40"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-14T18:23:40"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c9b4b2ef-eb18-5ba6-aba8-4767cb2c5196",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d2cc8552-7141-5ca5-9084-b983a6c6d70b",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-c9b4b2ef-eb18-5ba6-aba8-4767cb2c5196",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-9402fbc1-7035-5465-979c-8d6504475f3e"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-10T05:26:35"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-10T05:26:35"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-f1fc3d94-fc29-5f08-b5a5-c652f1eff973",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-aed4d4ef-49a9-5827-b7ba-4fa4f888016b",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-f1fc3d94-fc29-5f08-b5a5-c652f1eff973",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-661665dc-6bbb-5cee-8527-1d421d055aab"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-16T15:07:38"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-16T15:07:38"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-780d7be7-cd17-5578-aaa9-0f4c4a6ef51a",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a27350fa-d308-5f82-a5b2-eebdfbe445a5",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-780d7be7-cd17-5578-aaa9-0f4c4a6ef51a",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-31T06:17:14"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-31T06:17:14"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1230af8c-f36c-59de-8431-1d733dec7af0",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a7e5d46c-820e-5f32-9907-3bb18144202e",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-1230af8c-f36c-59de-8431-1d733dec7af0",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T20:23:48"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T20:23:48"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-9c83dff9-9b72-59e3-bf9c-31b23ce97965",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-32fe56b2-39bd-58bd-9fa9-7b409352aff3",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-9c83dff9-9b72-59e3-bf9c-31b23ce97965",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-66ee001d-317d-5cd8-b079-2d9869a46a5d"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-12T04:43:38"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-12T04:43:38"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-98a27815-f72b-5b85-8ea2-b3e30e1a2519",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-eea74e59-55d5-55fb-99bd-b40446e780d7",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-98a27815-f72b-5b85-8ea2-b3e30e1a2519",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T19:01:20"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T19:01:20"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-11b8bf32-eff2-550d-83c4-346ed45ba144",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f9cfac99-931a-5c6b-be31-4581bb41c689",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-11b8bf32-eff2-550d-83c4-346ed45ba144",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-ff3c69ce-d1ef-5d77-bf4e-333684fa9631"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-07T20:24:59"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-07T20:24:59"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-0b8fac83-a98c-5ac6-9f74-d96af080884f",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d7217356-2f3e-5f56-9dec-47feca2bf308",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-0b8fac83-a98c-5ac6-9f74-d96af080884f",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-661665dc-6bbb-5cee-8527-1d421d055aab"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-03T22:19:12"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-03T22:19:12"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-44c559d2-1eb7-5783-8550-d97614f218d1",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f65e004b-ceab-5bdb-b986-1dea621d0500",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-44c559d2-1eb7-5783-8550-d97614f218d1",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-20T12:41:00"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-20T12:41:00"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-0de01c50-8390-5a8d-8300-58bf728246b8",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-1f3cd302-62dd-596b-885e-845b6a429be3",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-0de01c50-8390-5a8d-8300-58bf728246b8",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-efdb9715-1a5f-5956-a6dc-f7d260e67af0"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-23T12:34:12"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-23T12:34:12"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-0e5b9ff3-3068-5259-bb5a-4383b96cf316",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-775e59a4-1bc5-5f57-b814-033b3adbe89d",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-0e5b9ff3-3068-5259-bb5a-4383b96cf316",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-72468385-6bfc-5c64-96b6-da6a10184910"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T11:50:00"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T11:50:00"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e41f330d-94e0-5142-80ff-889a1495191f",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-8067d881-854f-5fd0-ac70-193adfe40654",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-e41f330d-94e0-5142-80ff-889a1495191f",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-661665dc-6bbb-5cee-8527-1d421d055aab"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-08T14:46:16"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-08T14:46:16"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-7caf29a4-4a65-5e60-8233-cac288ccdf18",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ddd27348-d339-5ec6-a4df-9cc5511054cb",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-7caf29a4-4a65-5e60-8233-cac288ccdf18",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-661665dc-6bbb-5cee-8527-1d421d055aab"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T06:12:37"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-22T06:12:37"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-696b3ade-ae7d-5c1c-bfdb-233dfb26136e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0d442c84-ad8b-5254-a01d-ef488e0db0b8",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-696b3ade-ae7d-5c1c-bfdb-233dfb26136e",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T22:08:09"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-26T22:08:09"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-678c40d3-a451-5de0-8349-d85b3655badd",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-eb000416-1c53-5b92-b11b-06eeb3dccc85",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-678c40d3-a451-5de0-8349-d85b3655badd",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T16:46:27"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T16:46:27"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-97025e9d-252c-5c36-88bb-5110aaccd169",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-82b4ae5f-b74d-5393-8f63-32fdcad74f40",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-97025e9d-252c-5c36-88bb-5110aaccd169",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-f68bcdea-d3a8-5981-b5a6-f1f891fab9bd"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-14T20:38:09"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-14T20:38:09"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-ccbc63d1-73e5-567d-a6cb-25e4db63dd3b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-92b78bf9-47ee-5c23-841c-d83c9dbe536b",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-ccbc63d1-73e5-567d-a6cb-25e4db63dd3b",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-9402fbc1-7035-5465-979c-8d6504475f3e"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-29T16:55:40"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-29T16:55:40"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-54b3e34a-07d5-5fc7-88e5-a942b6ea2a76",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-cd785b66-3317-5d00-a7e1-025359679f9c",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-54b3e34a-07d5-5fc7-88e5-a942b6ea2a76",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-e5467566-9033-5df7-af26-84b1514ffd2a"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T13:17:00"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-11T13:17:00"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-95543031-20d5-5f27-a9d9-004046540b52",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-481663ab-ebee-5aae-86f7-8ba8ea317a1e",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-95543031-20d5-5f27-a9d9-004046540b52",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-e5467566-9033-5df7-af26-84b1514ffd2a"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-04T10:19:08"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-04-04T10:19:08"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-4f726a2d-96ae-541b-ac70-971c2b2f19b2",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-60cbf7f8-7261-539b-b9c7-1087e8c67172",
+     "@type": "observable:URLHistoryFacet",
+     "observable:urlHistoryEntry": [
+      {
+       "@id": "kb:url-history-entry-4f726a2d-96ae-541b-ac70-971c2b2f19b2",
+       "@type": "observable:URLHistoryEntry",
+       "observable:url": {
+        "@id": "kb:url-9402fbc1-7035-5465-979c-8d6504475f3e"
+       },
+       "observable:firstVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T20:51:24"
+       },
+       "observable:lastVisit": {
+        "@type": "xsd:dateTime",
+        "@value": "2026-03-28T20:51:24"
+       },
+       "observable:visitCount": {
+        "@type": "xsd:integer",
+        "@value": 1
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-740293a0-4465-5796-bc1b-d4f701ef0c38",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "user74349"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-071c1fc4-aa60-555b-a155-cc05a60da5de",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-012f8a9e-3dc9-5160-bcd7-ee2d262ef44c",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-25T16:13:27"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "bank",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-cc8642c0-ab5b-5b6e-971d-adff235c01b6",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-36f2742d-ccaf-5c2c-8bbf-fc0476177c71",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-13T16:27:53"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b4e14f95-9cf1-57e1-a46c-b6dc518b30ce",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-1115eca1-c907-5b84-9189-85182f1af304",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-14T16:54:41"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1344205d-ee7a-5f5a-84cc-db5779157e53",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-b4b861d2-cf06-5b6d-ae79-625556759dce",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-06T18:33:02"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e774cbde-2c86-500c-bdf9-5c12660bec70",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-e2da5338-50fb-589c-b12b-cedf84a4b86c",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-20T10:01:50"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6aafc6d5-b928-5e3b-af4b-8b76d5a4a5b0",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-a5174435-8c37-505c-b613-f98b67563273",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-13T15:35:34"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-4b7c3628-c36a-5085-a237-ffba8ba375ac",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-84119553-7a2c-5746-b536-ff8672f6c916",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-19T20:15:47"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-257fd5fc-49c9-5b3f-a5e8-c6434141f3e3",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2b214da0-2c8e-5b44-ab7a-a0fb999c79ac",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_failure",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-06T15:48:27"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-fb2ec254-a7f5-5a06-851a-d7b33cd999a7",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f6ab6fb8-c210-592c-aac0-479b7b68c40a",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-19T14:06:33"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-3c7aaffb-0a93-5950-a26d-c73124bd77ed",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-fb8a876f-8aa6-5290-a39a-36fdbc83734c",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-07T08:09:33"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-50207e46-a562-5d21-8790-4767f8a46a5c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-b0bea800-3cf0-50f1-8ca4-2011657cb6f7",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-17T20:05:52"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-a1a58ad2-d89a-52cd-a5a3-8ca68b413a3c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-eba19537-7bf3-5493-a1b2-7a1373c30963",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-14T20:03:39"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-32e945d6-74cc-5fb8-b18a-9c69ae2d7606",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c4662183-3851-5abe-bd41-55c32ac86e90",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-21T07:36:04"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-cd03b697-50f7-54cf-a014-99ee37b74f99",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7064b989-c3f9-53fc-afef-cad8f79e0643",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T20:59:49"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-7c2832e3-7adc-5fc6-8428-35f272854a48",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-8c717b86-883c-583b-9255-3b5ae6722f73",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-31T12:04:31"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c2b57bf6-1854-5810-8422-c4b040713b1b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-1eb11395-342f-5a5d-9eab-a21d314e0d5c",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-08T17:23:06"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "bank",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-70accad6-3a35-50e5-bdcb-a378815b6ec6",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-94c75b10-e302-5f81-a4fc-dfbbc3eb2142",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-16T15:00:31"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-93781e83-92d1-547f-b740-a9617302f73e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7c815410-a754-5ca0-886c-7f887c31198b",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T17:49:51"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-8753097a-0a2b-58fa-8adb-9fc9a3586166",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9d295161-947e-5270-b5b0-956b1cba9d01",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-29T19:04:49"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-74d447b4-20c4-5678-9346-9234db611fa3",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-74fa948a-7889-5894-a090-9f6784e271d5",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T10:05:17"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "bank",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-3e3457d8-a92d-5123-93db-0cbcdbee71fa",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-fd8907b3-968e-563d-ba43-6b47695cdbb4",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-06T16:59:20"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-16179417-9f18-58c0-bf88-e3cf06ac244e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-37f5cbf9-3392-5fdb-8651-4550b9c5141c",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T17:36:33"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-cf11f832-7a8f-5c23-850d-f1714759cbbe",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-58466637-6521-5f59-a3ee-e409be407c03",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-10T10:19:53"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-dc9c57d7-b805-55c2-a2ad-21f88a7bda8c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0011b242-1cd0-55aa-97c1-ed36400a819b",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T08:23:11"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-47c8107c-8bd8-560a-a8a2-d92ed4efc33e",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-6c052104-b3f2-5d14-ab02-c37bdbd6efdd",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-08T06:52:58"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-ef9c4937-31bd-591c-880c-ad09400d3170",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f8ea584e-8d02-5fc4-8d46-3ef5b479b6ab",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-19T13:10:47"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "bank",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-00f28282-a6ab-5c68-a2d4-8a6e95ecee78",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7908638d-34bf-5a3a-bca7-9ac72e519fb6",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T21:54:29"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-2003e41a-230d-585e-822e-78c12901ca48",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-14d7cfc8-beed-58b7-92b7-eecd04811d17",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-03T10:02:22"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-798dbfd4-9f4b-55e4-a1c1-0ff97e41550a",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0900620c-7f64-5dad-8a58-64b2496e492a",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-25T09:40:44"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-97fb9ebd-066d-56a9-8396-1f4b21d54757",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-93a52cc7-7100-58fe-ad5d-6c1b868d27d9",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-25T19:29:27"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-025cf115-ee3e-579c-a846-fb5c8515b4ef",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0ab04d1c-2e1a-50ee-88bf-8cc5a2ed3837",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-10T07:28:22"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-ac1654ce-3752-5b2f-90bd-7bef40217986",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-bdf5f4a5-c9e8-5165-89f4-b6e3e9d7e499",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-04T20:34:40"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "bank",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-4218fc6e-1925-5471-b334-85f080e3ceb9",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-4abecf76-5e21-5de9-a512-a87815ee63e9",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-02T13:16:25"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "mail",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-b3003b20-54d4-5eb4-b0fd-cdcb48959322",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-b9240a00-07a8-5d95-8895-5185010c4ab2",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-24T10:07:26"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-bfb6098e-0394-5bd1-ac6c-6179e05433f2",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-1252a677-f51c-5693-b95e-e3e6a3ae7d90",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_success",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-02T07:59:37"
+     },
+     "observable:account": {
+      "@id": "kb:account-dce18f3b-6442-53d1-a4bf-99c84cd6ba62"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-36319a45-8f67-55de-bebd-9508d7e662b6",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c26d1f88-2a16-5b1f-9421-435c17637a73",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "victim729005@mailhub.example"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-5349df90-a71b-56c5-9815-2756872c701f",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-059b20fc-3cf6-5e2a-8554-fd5ed6de52c8",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_failure",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-27T16:51:15"
+     },
+     "observable:account": {
+      "@id": "kb:account-36319a45-8f67-55de-bebd-9508d7e662b6"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-3e58025c-c84d-5dad-9905-f3fa70d316f0",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-809e3aec-3b9a-5bdb-9592-ef028f1c456a",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "victim269211@mailhub.example"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-e1f9368f-95ec-5739-9a59-8678f9e156ab",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-430bf298-62c8-516f-a69a-3456d6adc9be",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_failure",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-15T20:14:02"
+     },
+     "observable:account": {
+      "@id": "kb:account-3e58025c-c84d-5dad-9905-f3fa70d316f0"
+     },
+     "observable:eventRecordServiceName": "social",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-a99f1e54-413f-5f80-a6bb-40bae616d7d1",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-1c28c7b6-59d3-5564-9eeb-3db60695a881",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "victim755083@mailhub.example"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-f8c73187-8be1-563e-9384-2bb260624a63",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9dbf798e-f6d4-5c87-90cf-ddd4d23af1a6",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_failure",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-17T08:27:34"
+     },
+     "observable:account": {
+      "@id": "kb:account-a99f1e54-413f-5f80-a6bb-40bae616d7d1"
+     },
+     "observable:eventRecordServiceName": "work",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-5f1c26f3-a0d6-5241-8eb9-8705013b14c5",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-07a8b0f9-6557-5b38-bcdc-f8db358d1b93",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "victim558876@mailhub.example"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-f1531ca1-33a8-5fab-9e0d-097cd7afd3a1",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ff3304c1-0dc7-5093-97b5-cb4842e3e00c",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "login_failure",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-24T17:09:49"
+     },
+     "observable:account": {
+      "@id": "kb:account-5f1c26f3-a0d6-5241-8eb9-8705013b14c5"
+     },
+     "observable:eventRecordServiceName": "bank",
+     "observable:eventRecordText": "source_ip_country=IN"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-21fd841d-2fb1-599b-a71c-59bb81e6f598",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-3d9778ca-7c70-5209-9abf-a1aee4563ea0",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-8054"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-bda9ec80-9d55-52c8-a7b6-3abb0324a5fa",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7cd2f9bb-57cf-528a-8704-fded0ed1bf94",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-25T19:44:11"
+     },
+     "observable:account": {
+      "@id": "kb:account-21fd841d-2fb1-599b-a71c-59bb81e6f598"
+     },
+     "observable:eventRecordText": "amount_inr=1350.25"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6ca5578b-46c2-502d-845f-375e71144352",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-f0b494a7-8537-5c7e-90e8-7eb0e238b872",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-06T18:15:38"
+     },
+     "observable:account": {
+      "@id": "kb:account-21fd841d-2fb1-599b-a71c-59bb81e6f598"
+     },
+     "observable:eventRecordText": "amount_inr=327.31"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-7f60c942-8c73-5e9a-8d1e-720cac811ad5",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-c98262d5-9de3-58ac-8a1c-06e8434a5c40",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-8634"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-3f41e467-a9f2-5677-8ef4-23113a113059",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-0d71935d-25bc-5a3a-a88b-86f96abe452c",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-12T18:24:55"
+     },
+     "observable:account": {
+      "@id": "kb:account-7f60c942-8c73-5e9a-8d1e-720cac811ad5"
+     },
+     "observable:eventRecordText": "amount_inr=78.01"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-0aa4b1e6-d2af-5eaf-894f-fb5fb01348ec",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-4eb2491f-3961-53e6-b021-9c7a3a373b8b",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-5058"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-9b7c750f-4196-5605-b3b8-a86f8fad3d99",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-cfb6a422-479a-5e02-bdcb-5a194788493e",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T14:55:27"
+     },
+     "observable:account": {
+      "@id": "kb:account-0aa4b1e6-d2af-5eaf-894f-fb5fb01348ec"
+     },
+     "observable:eventRecordText": "amount_inr=1578.95"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-659273e3-2777-5a03-b439-6be3ac972eaf",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-5845f067-e18d-5765-861f-3edf7c4edf8a",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-31T20:05:08"
+     },
+     "observable:account": {
+      "@id": "kb:account-7f60c942-8c73-5e9a-8d1e-720cac811ad5"
+     },
+     "observable:eventRecordText": "amount_inr=177.14"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-7974132d-d37e-543f-832c-af7666a00d1b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7dcc8384-d5e6-5f6c-8306-6567214105cd",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-7877"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-c7b44c1f-fe4d-5b0e-8b0c-3ef8c9494ec8",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-ac47656c-519c-5f07-b00e-8c896bdddb1f",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-26T18:53:13"
+     },
+     "observable:account": {
+      "@id": "kb:account-7974132d-d37e-543f-832c-af7666a00d1b"
+     },
+     "observable:eventRecordText": "amount_inr=605.23"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-807a8f14-9493-52ba-aa89-d1a44be91090",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-8ba74e7b-7f4a-56cb-92c3-6d51e229cf72",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-16T17:07:15"
+     },
+     "observable:account": {
+      "@id": "kb:account-7f60c942-8c73-5e9a-8d1e-720cac811ad5"
+     },
+     "observable:eventRecordText": "amount_inr=1774.49"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-72ad9581-a0dd-5d2d-97ac-dc02a4ad0388",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9022c102-a7df-55bd-82c2-723285b88559",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-7859"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-71a87adf-e582-56f1-abc3-fd56befb55ac",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-1067b6f6-db73-50de-807b-16c9c18ea491",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-26T19:02:14"
+     },
+     "observable:account": {
+      "@id": "kb:account-72ad9581-a0dd-5d2d-97ac-dc02a4ad0388"
+     },
+     "observable:eventRecordText": "amount_inr=111.03"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-a16b5a2d-fbe5-55c1-801d-fa3e4d3c336c",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-5ca28c55-581f-5a31-8853-57c0ce54875f",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-23T19:38:43"
+     },
+     "observable:account": {
+      "@id": "kb:account-72ad9581-a0dd-5d2d-97ac-dc02a4ad0388"
+     },
+     "observable:eventRecordText": "amount_inr=1357.31"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-80353778-90a0-5da2-8dd2-4e29490c2478",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-98278c79-0a25-59f1-a65c-923dc82aac05",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-08T14:43:57"
+     },
+     "observable:account": {
+      "@id": "kb:account-7974132d-d37e-543f-832c-af7666a00d1b"
+     },
+     "observable:eventRecordText": "amount_inr=1593.98"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-d519f8db-3299-53ca-a4cd-0784334019bf",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7a0a746c-74a0-566d-8c39-303697333504",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-2351"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-a73a04d3-bf47-5056-afdd-465d5f5f40c4",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-fe5b2e97-461c-58e9-85b0-1e9ca3b41a5d",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-19T05:03:45"
+     },
+     "observable:account": {
+      "@id": "kb:account-d519f8db-3299-53ca-a4cd-0784334019bf"
+     },
+     "observable:eventRecordText": "amount_inr=1819.54"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6eca4cc8-f07c-5854-a13e-84477033e6e2",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-3d42c254-069e-5810-8c94-80398229ebc9",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-03T16:49:27"
+     },
+     "observable:account": {
+      "@id": "kb:account-7974132d-d37e-543f-832c-af7666a00d1b"
+     },
+     "observable:eventRecordText": "amount_inr=401.39"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-e51d4bea-9d97-58d5-bf40-af1673aeac01",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-2f6c5e49-7635-5121-8380-08a0c97d789b",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-5540"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-61bf72ff-0dde-5b9f-939e-90eaffc749bb",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-857eed1a-e667-5c15-a029-f602a40dd622",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-04T08:42:31"
+     },
+     "observable:account": {
+      "@id": "kb:account-e51d4bea-9d97-58d5-bf40-af1673aeac01"
+     },
+     "observable:eventRecordText": "amount_inr=610.83"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-6c6ebe27-2167-5cce-816d-de9e46754cc3",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-33cd113e-dce9-5e3a-988a-78908322350b",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-08T16:43:02"
+     },
+     "observable:account": {
+      "@id": "kb:account-d519f8db-3299-53ca-a4cd-0784334019bf"
+     },
+     "observable:eventRecordText": "amount_inr=308.04"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-f7b7e1e7-99a8-51de-8668-c2393d585c90",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-3bf0dc11-3890-5018-9f0a-5e607ff24c98",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-9179"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-89da991f-bc53-57f8-a88c-426de7df12ca",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-e858f6e7-153b-5a4c-a4ed-daee7d0ded02",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-13T16:40:29"
+     },
+     "observable:account": {
+      "@id": "kb:account-f7b7e1e7-99a8-51de-8668-c2393d585c90"
+     },
+     "observable:eventRecordText": "amount_inr=2485.37"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-ed07b775-cdf5-5a4f-9556-db2893cf004b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d178fa41-f03a-5f3f-a27e-452440392aea",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-04-04T12:44:47"
+     },
+     "observable:account": {
+      "@id": "kb:account-72ad9581-a0dd-5d2d-97ac-dc02a4ad0388"
+     },
+     "observable:eventRecordText": "amount_inr=517.29"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-e900cffa-189d-556c-9d0b-36ceb4ef0457",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-198c1790-8101-50f0-94ed-9c146c75d07d",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "payee-9205"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-bdd08343-1750-5814-a81b-a9a905077b7b",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-9b04de92-f275-598a-8af6-46955b373005",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-22T08:38:12"
+     },
+     "observable:account": {
+      "@id": "kb:account-e900cffa-189d-556c-9d0b-36ceb4ef0457"
+     },
+     "observable:eventRecordText": "amount_inr=277.62"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-310dfd92-e3ef-5800-935d-6daf2a622553",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d195a7ca-167c-5ba2-82df-fb9345967b77",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_out",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-17T08:11:40"
+     },
+     "observable:account": {
+      "@id": "kb:account-f7b7e1e7-99a8-51de-8668-c2393d585c90"
+     },
+     "observable:eventRecordText": "amount_inr=179.05"
+    }
+   ]
+  },
+  {
+   "@id": "kb:account-07038457-d5d5-521c-ac01-96deb8e206d2",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-7f355b58-cae8-5ffd-a650-99efdd758a2f",
+     "@type": "observable:AccountFacet",
+     "observable:accountIdentifier": "employer-001"
+    }
+   ]
+  },
+  {
+   "@id": "kb:artifact-1cb6d31c-fda5-579a-8af2-10964cd7641a",
+   "@type": "observable:ObservableObject",
+   "core:hasFacet": [
+    {
+     "@id": "kb:facet-d0920259-1be9-5983-8b85-299dd8a5e0ce",
+     "@type": "observable:EventRecordFacet",
+     "observable:eventType": "payment_in",
+     "observable:startTime": {
+      "@type": "xsd:dateTime",
+      "@value": "2026-03-06T07:06:10"
+     },
+     "observable:account": {
+      "@id": "kb:account-07038457-d5d5-521c-ac01-96deb8e206d2"
+     },
+     "observable:eventRecordText": "amount_inr=34109.78"
+    }
+   ]
+  }
+ ]
+}

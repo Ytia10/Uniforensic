@@ -1,0 +1,451 @@
+case_index,case_id,label,tier,predicted,agreement_FA5,confidence,recall@|G|,good_explanation,oracle_pass,validated,report_label
+150,TE00150,fraud,easy,fraud,0.8,0.9999955892562866,0.6666666666666666,True,True,True,VALIDATED
+151,TE00151,fraud,easy,fraud,1.0,0.9999994039535522,0.6666666666666666,True,True,True,VALIDATED
+152,TE00152,fraud,easy,fraud,1.0,0.9999994039535522,0.6666666666666666,True,True,True,VALIDATED
+153,TE00153,fraud,easy,fraud,1.0,0.9999997615814209,0.6666666666666666,True,True,True,VALIDATED
+154,TE00154,fraud,easy,fraud,1.0,0.9999994039535522,0.6666666666666666,True,True,True,VALIDATED
+155,TE00155,fraud,easy,fraud,0.8,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+156,TE00156,fraud,easy,fraud,1.0,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+157,TE00157,fraud,easy,fraud,1.0,0.9999979734420776,0.6666666666666666,True,True,True,VALIDATED
+158,TE00158,fraud,easy,fraud,0.8,0.9999997615814209,0.6666666666666666,True,True,True,VALIDATED
+159,TE00159,fraud,easy,fraud,1.0,0.9999997615814209,0.6666666666666666,True,True,True,VALIDATED
+160,TE00160,fraud,easy,fraud,0.8,0.9999997615814209,0.6666666666666666,True,True,True,VALIDATED
+161,TE00161,fraud,easy,fraud,1.0,0.9999996423721313,0.6666666666666666,True,True,True,VALIDATED
+162,TE00162,fraud,easy,fraud,0.8,0.9999997615814209,0.6666666666666666,True,True,True,VALIDATED
+163,TE00163,fraud,easy,fraud,0.8,0.9999970197677612,0.6666666666666666,True,True,True,VALIDATED
+164,TE00164,fraud,easy,fraud,1.0,0.9999985694885254,0.6666666666666666,True,True,True,VALIDATED
+165,TE00165,fraud,easy,fraud,0.8,0.9999986886978149,0.6666666666666666,True,True,True,VALIDATED
+166,TE00166,fraud,easy,fraud,0.8,0.9999983310699463,0.6666666666666666,True,True,True,VALIDATED
+167,TE00167,fraud,easy,fraud,0.8,0.9999996423721313,0.6666666666666666,True,True,True,VALIDATED
+168,TE00168,fraud,easy,fraud,0.8,0.9999974966049194,0.6666666666666666,True,True,True,VALIDATED
+169,TE00169,fraud,easy,fraud,1.0,0.9999958276748657,0.6666666666666666,True,True,True,VALIDATED
+170,TE00170,fraud,easy,fraud,0.8,0.9999985694885254,0.6666666666666666,True,True,True,VALIDATED
+171,TE00171,fraud,easy,fraud,1.0,0.9999994039535522,0.6666666666666666,True,True,True,VALIDATED
+172,TE00172,fraud,easy,fraud,0.8,0.9999979734420776,0.6666666666666666,True,True,True,VALIDATED
+173,TE00173,fraud,easy,fraud,0.8,1.0,0.6666666666666666,True,True,True,VALIDATED
+174,TE00174,fraud,easy,fraud,1.0,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+175,TE00175,fraud,easy,fraud,0.8,0.9999996423721313,0.6666666666666666,True,True,True,VALIDATED
+176,TE00176,fraud,easy,fraud,1.0,0.9999992847442627,0.6666666666666666,True,True,True,VALIDATED
+177,TE00177,fraud,easy,fraud,0.8,0.9999996423721313,0.6666666666666666,True,True,True,VALIDATED
+178,TE00178,fraud,easy,fraud,1.0,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+179,TE00179,fraud,easy,fraud,1.0,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+180,TE00180,fraud,easy,fraud,1.0,0.9999992847442627,0.6666666666666666,True,True,True,VALIDATED
+181,TE00181,fraud,easy,fraud,0.8,0.999996542930603,0.6666666666666666,True,True,True,VALIDATED
+182,TE00182,fraud,easy,fraud,0.8,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+183,TE00183,fraud,easy,fraud,1.0,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+184,TE00184,fraud,easy,fraud,1.0,0.9999995231628418,0.6666666666666666,True,True,True,VALIDATED
+185,TE00185,fraud,easy,fraud,1.0,0.9999997615814209,0.6666666666666666,True,True,True,VALIDATED
+186,TE00186,fraud,easy,fraud,0.8,0.999994158744812,0.6666666666666666,True,True,True,VALIDATED
+187,TE00187,fraud,easy,fraud,0.8,0.9999982118606567,0.6666666666666666,True,True,True,VALIDATED
+188,TE00188,fraud,easy,fraud,0.8,0.9999992847442627,0.6666666666666666,True,True,True,VALIDATED
+189,TE00189,fraud,easy,fraud,0.8,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+190,TE00190,fraud,easy,fraud,0.8,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+191,TE00191,fraud,easy,fraud,1.0,0.9999939203262329,0.6666666666666666,True,True,True,VALIDATED
+192,TE00192,fraud,easy,fraud,0.8,0.9999969005584717,0.6666666666666666,True,True,True,VALIDATED
+193,TE00193,fraud,easy,fraud,0.8,0.9999939203262329,0.6666666666666666,True,True,True,VALIDATED
+194,TE00194,fraud,easy,fraud,1.0,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+195,TE00195,fraud,easy,fraud,1.0,1.0,0.6666666666666666,True,True,True,VALIDATED
+196,TE00196,fraud,easy,fraud,0.8,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+197,TE00197,fraud,easy,fraud,0.8,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+198,TE00198,fraud,easy,fraud,0.8,0.9999998807907104,0.6666666666666666,True,True,True,VALIDATED
+199,TE00199,fraud,easy,fraud,0.8,0.9999945163726807,0.6666666666666666,True,True,True,VALIDATED
+200,TE00200,fraud,mixed,fraud,0.8,0.999927282333374,0.6666666666666666,True,True,True,VALIDATED
+201,TE00201,fraud,mixed,fraud,0.8,0.9999918937683105,0.6666666666666666,True,True,True,VALIDATED
+202,TE00202,fraud,mixed,fraud,0.8,0.9999774694442749,0.6666666666666666,True,True,True,VALIDATED
+203,TE00203,fraud,mixed,fraud,0.8,0.9999738931655884,0.6666666666666666,True,True,True,VALIDATED
+204,TE00204,fraud,mixed,fraud,0.8,0.9998694658279419,0.6666666666666666,True,True,True,VALIDATED
+205,TE00205,fraud,mixed,fraud,0.8,0.9998334646224976,0.6666666666666666,True,True,True,VALIDATED
+206,TE00206,fraud,mixed,fraud,0.8,0.999993085861206,0.6666666666666666,True,True,True,VALIDATED
+207,TE00207,fraud,mixed,fraud,0.8,0.9994414448738098,0.6666666666666666,True,True,True,VALIDATED
+208,TE00208,fraud,mixed,fraud,1.0,0.9999991655349731,0.6666666666666666,True,True,True,VALIDATED
+209,TE00209,fraud,mixed,fraud,1.0,0.9999834299087524,0.6666666666666666,True,True,True,VALIDATED
+210,TE00210,fraud,mixed,fraud,0.8,0.9999600648880005,0.6666666666666666,True,True,True,VALIDATED
+211,TE00211,fraud,mixed,fraud,0.8,0.9992647767066956,0.6666666666666666,True,True,True,VALIDATED
+212,TE00212,fraud,mixed,fraud,0.8,0.9993268251419067,0.6666666666666666,True,True,True,VALIDATED
+213,TE00213,fraud,mixed,fraud,1.0,0.9999854564666748,0.6666666666666666,True,True,True,VALIDATED
+214,TE00214,fraud,mixed,fraud,0.8,0.9999855756759644,0.6666666666666666,True,True,True,VALIDATED
+215,TE00215,fraud,mixed,fraud,0.8,0.9997566342353821,0.6666666666666666,True,True,True,VALIDATED
+216,TE00216,fraud,mixed,fraud,0.8,0.9999748468399048,0.6666666666666666,True,True,True,VALIDATED
+217,TE00217,fraud,mixed,fraud,1.0,0.9993841648101807,0.6666666666666666,True,True,True,VALIDATED
+218,TE00218,fraud,mixed,fraud,1.0,0.9999253749847412,0.6666666666666666,True,True,True,VALIDATED
+219,TE00219,fraud,mixed,fraud,1.0,0.9999923706054688,0.6666666666666666,True,True,True,VALIDATED
+220,TE00220,fraud,mixed,fraud,0.8,0.9998427629470825,0.6666666666666666,True,True,True,VALIDATED
+221,TE00221,fraud,mixed,fraud,0.8,0.9997571110725403,0.6666666666666666,True,True,True,VALIDATED
+222,TE00222,fraud,mixed,fraud,1.0,0.999992847442627,0.6666666666666666,True,True,True,VALIDATED
+223,TE00223,fraud,mixed,fraud,0.8,0.9999949932098389,0.6666666666666666,True,True,True,VALIDATED
+224,TE00224,fraud,mixed,fraud,0.8,0.9999902248382568,0.6666666666666666,True,True,True,VALIDATED
+225,TE00225,fraud,mixed,fraud,0.8,0.9999395608901978,0.6666666666666666,True,True,True,VALIDATED
+226,TE00226,fraud,mixed,fraud,0.8,0.9997327923774719,0.6666666666666666,True,True,True,VALIDATED
+227,TE00227,fraud,mixed,fraud,1.0,0.9998213648796082,0.6666666666666666,True,True,True,VALIDATED
+228,TE00228,fraud,mixed,fraud,0.8,0.99992835521698,0.6666666666666666,True,True,True,VALIDATED
+229,TE00229,fraud,mixed,fraud,0.8,0.9998812675476074,0.6666666666666666,True,True,True,VALIDATED
+230,TE00230,fraud,mixed,fraud,0.8,0.9999576807022095,0.6666666666666666,True,True,True,VALIDATED
+231,TE00231,fraud,mixed,fraud,0.8,0.9999960660934448,0.6666666666666666,True,True,True,VALIDATED
+232,TE00232,fraud,mixed,fraud,1.0,0.9999839067459106,0.6666666666666666,True,True,True,VALIDATED
+233,TE00233,fraud,mixed,fraud,1.0,0.9999454021453857,0.6666666666666666,True,True,True,VALIDATED
+234,TE00234,fraud,mixed,fraud,1.0,0.9999597072601318,0.6666666666666666,True,True,True,VALIDATED
+235,TE00235,fraud,mixed,fraud,0.8,0.9997699856758118,0.6666666666666666,True,True,True,VALIDATED
+236,TE00236,fraud,mixed,fraud,0.8,0.9999431371688843,0.6666666666666666,True,True,True,VALIDATED
+237,TE00237,fraud,mixed,fraud,0.8,0.9997633099555969,0.6666666666666666,True,True,True,VALIDATED
+238,TE00238,fraud,mixed,fraud,0.8,0.9999150037765503,0.6666666666666666,True,True,True,VALIDATED
+239,TE00239,fraud,mixed,fraud,0.8,0.9999483823776245,0.6666666666666666,True,True,True,VALIDATED
+240,TE00240,fraud,mixed,fraud,0.8,0.9999651908874512,0.6666666666666666,True,True,True,VALIDATED
+241,TE00241,fraud,mixed,fraud,0.8,0.9999889135360718,0.6666666666666666,True,True,True,VALIDATED
+242,TE00242,fraud,mixed,fraud,0.8,0.9999889135360718,0.6666666666666666,True,True,True,VALIDATED
+243,TE00243,fraud,mixed,fraud,0.8,0.9998600482940674,0.6666666666666666,True,True,True,VALIDATED
+244,TE00244,fraud,mixed,fraud,0.8,0.9999529123306274,0.6666666666666666,True,True,True,VALIDATED
+245,TE00245,fraud,mixed,fraud,1.0,0.9999785423278809,0.6666666666666666,True,True,True,VALIDATED
+246,TE00246,fraud,mixed,fraud,1.0,0.999972939491272,0.6666666666666666,True,True,True,VALIDATED
+247,TE00247,fraud,mixed,fraud,0.8,0.9999845027923584,0.6666666666666666,True,True,True,VALIDATED
+248,TE00248,fraud,mixed,fraud,0.8,0.9999935626983643,0.6666666666666666,True,True,True,VALIDATED
+249,TE00249,fraud,mixed,fraud,0.8,0.9999483823776245,0.6666666666666666,True,True,True,VALIDATED
+250,TE00250,fraud,subtle,fraud,0.4,0.9492377042770386,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.949 < 0.95)
+251,TE00251,fraud,subtle,fraud,0.6,0.9398884773254395,0.5,False,True,False,NOT VALIDATED: model not confident (0.940 < 0.95)
+252,TE00252,fraud,subtle,fraud,0.8,0.7502618432044983,1.0,True,True,False,NOT VALIDATED: model not confident (0.750 < 0.95)
+253,TE00253,fraud,subtle,fraud,0.4,0.9629477858543396,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+254,TE00254,fraud,subtle,fraud,0.6,0.6690143346786499,0.5,False,True,False,NOT VALIDATED: model not confident (0.669 < 0.95)
+255,TE00255,fraud,subtle,fraud,0.8,0.9217633605003357,0.5,False,True,False,NOT VALIDATED: model not confident (0.922 < 0.95)
+256,TE00256,fraud,subtle,fraud,0.6,0.9928111433982849,1.0,True,True,True,VALIDATED
+257,TE00257,fraud,subtle,fraud,0.4,0.5922489166259766,0.5,False,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.592 < 0.95)
+258,TE00258,fraud,subtle,benign,0.0,0.6790384650230408,0.0,False,False,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.00); model not confident (0.679 < 0.95)
+259,TE00259,fraud,subtle,fraud,0.8,0.8162029981613159,0.5,False,True,False,NOT VALIDATED: model not confident (0.816 < 0.95)
+260,TE00260,fraud,subtle,fraud,0.6,0.9932189583778381,0.5,False,True,True,VALIDATED
+261,TE00261,fraud,subtle,fraud,0.8,0.7612597346305847,0.5,False,True,False,NOT VALIDATED: model not confident (0.761 < 0.95)
+262,TE00262,fraud,subtle,fraud,0.6,0.8131881952285767,0.5,False,True,False,NOT VALIDATED: model not confident (0.813 < 0.95)
+263,TE00263,fraud,subtle,fraud,0.6,0.9450541734695435,0.5,False,True,False,NOT VALIDATED: model not confident (0.945 < 0.95)
+264,TE00264,fraud,subtle,benign,0.4,0.9329753518104553,0.0,False,False,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.933 < 0.95)
+265,TE00265,fraud,subtle,benign,0.6,0.9858238697052002,0.0,False,False,True,VALIDATED
+266,TE00266,fraud,subtle,fraud,0.6,0.958480954170227,0.5,False,True,True,VALIDATED
+267,TE00267,fraud,subtle,fraud,0.6,0.9147644639015198,0.5,False,True,False,NOT VALIDATED: model not confident (0.915 < 0.95)
+268,TE00268,fraud,subtle,fraud,0.6,0.55577552318573,1.0,True,True,False,NOT VALIDATED: model not confident (0.556 < 0.95)
+269,TE00269,fraud,subtle,fraud,0.8,0.9914330244064331,0.5,False,True,True,VALIDATED
+270,TE00270,fraud,subtle,fraud,0.4,0.916468620300293,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.916 < 0.95)
+271,TE00271,fraud,subtle,fraud,0.6,0.9955880641937256,0.5,False,True,True,VALIDATED
+272,TE00272,fraud,subtle,fraud,0.4,0.9825525283813477,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+273,TE00273,fraud,subtle,fraud,0.4,0.8264341950416565,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.826 < 0.95)
+274,TE00274,fraud,subtle,fraud,0.6,0.9699183106422424,1.0,True,True,True,VALIDATED
+275,TE00275,fraud,subtle,fraud,1.0,0.8242104053497314,0.5,False,True,False,NOT VALIDATED: model not confident (0.824 < 0.95)
+276,TE00276,fraud,subtle,fraud,0.4,0.9746866822242737,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+277,TE00277,fraud,subtle,fraud,0.6,0.942950963973999,1.0,True,True,False,NOT VALIDATED: model not confident (0.943 < 0.95)
+278,TE00278,fraud,subtle,fraud,0.6,0.9945270419120789,1.0,True,True,True,VALIDATED
+279,TE00279,fraud,subtle,fraud,0.6,0.9157135486602783,0.5,False,True,False,NOT VALIDATED: model not confident (0.916 < 0.95)
+280,TE00280,fraud,subtle,fraud,0.8,0.9592720866203308,0.5,False,True,True,VALIDATED
+281,TE00281,fraud,subtle,fraud,0.8,0.9813030362129211,0.5,False,True,True,VALIDATED
+282,TE00282,fraud,subtle,fraud,0.4,0.9738628268241882,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+283,TE00283,fraud,subtle,fraud,0.4,0.6016188859939575,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.602 < 0.95)
+284,TE00284,fraud,subtle,benign,0.8,0.686842679977417,0.0,False,False,False,NOT VALIDATED: model not confident (0.687 < 0.95)
+285,TE00285,fraud,subtle,fraud,0.4,0.8798738121986389,0.5,False,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.880 < 0.95)
+286,TE00286,fraud,subtle,fraud,0.6,0.9060811400413513,0.5,False,True,False,NOT VALIDATED: model not confident (0.906 < 0.95)
+287,TE00287,fraud,subtle,fraud,0.4,0.8290151953697205,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.829 < 0.95)
+288,TE00288,fraud,subtle,fraud,0.6,0.9209970831871033,1.0,True,True,False,NOT VALIDATED: model not confident (0.921 < 0.95)
+289,TE00289,fraud,subtle,benign,0.0,0.709367573261261,0.0,False,False,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.00); model not confident (0.709 < 0.95)
+290,TE00290,fraud,subtle,fraud,0.8,0.8331678509712219,0.5,False,True,False,NOT VALIDATED: model not confident (0.833 < 0.95)
+291,TE00291,fraud,subtle,benign,0.8,0.6197431087493896,0.0,False,False,False,NOT VALIDATED: model not confident (0.620 < 0.95)
+292,TE00292,fraud,subtle,fraud,0.8,0.43056821823120117,0.0,False,False,False,NOT VALIDATED: model not confident (0.431 < 0.95)
+293,TE00293,fraud,subtle,fraud,0.6,0.9265155792236328,0.5,False,True,False,NOT VALIDATED: model not confident (0.927 < 0.95)
+294,TE00294,fraud,subtle,fraud,0.8,0.9919356107711792,0.5,False,True,True,VALIDATED
+295,TE00295,fraud,subtle,fraud,0.8,0.9782915115356445,0.5,False,True,True,VALIDATED
+296,TE00296,fraud,subtle,fraud,0.6,0.9634971618652344,0.5,False,True,True,VALIDATED
+297,TE00297,fraud,subtle,fraud,0.4,0.9373111724853516,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.937 < 0.95)
+298,TE00298,fraud,subtle,fraud,0.4,0.9333791732788086,0.5,False,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.933 < 0.95)
+299,TE00299,fraud,subtle,benign,0.8,0.5120123028755188,0.0,False,False,False,NOT VALIDATED: model not confident (0.512 < 0.95)
+300,TE00300,harassment,easy,harassment,0.8,0.9998962879180908,1.0,True,True,True,VALIDATED
+301,TE00301,harassment,easy,harassment,0.8,0.9998310804367065,1.0,True,True,True,VALIDATED
+302,TE00302,harassment,easy,harassment,0.6,0.9999136924743652,1.0,True,True,True,VALIDATED
+303,TE00303,harassment,easy,harassment,0.8,0.9999507665634155,1.0,True,True,True,VALIDATED
+304,TE00304,harassment,easy,harassment,0.6,0.9999943971633911,1.0,True,True,True,VALIDATED
+305,TE00305,harassment,easy,harassment,0.8,0.9997417330741882,1.0,True,True,True,VALIDATED
+306,TE00306,harassment,easy,harassment,0.8,0.9998729228973389,1.0,True,True,True,VALIDATED
+307,TE00307,harassment,easy,harassment,0.8,0.9999796152114868,1.0,True,True,True,VALIDATED
+308,TE00308,harassment,easy,harassment,0.6,0.9998819828033447,1.0,True,True,True,VALIDATED
+309,TE00309,harassment,easy,harassment,0.6,0.9997019171714783,1.0,True,True,True,VALIDATED
+310,TE00310,harassment,easy,harassment,0.8,0.9997957348823547,1.0,True,True,True,VALIDATED
+311,TE00311,harassment,easy,harassment,0.8,0.999955415725708,1.0,True,True,True,VALIDATED
+312,TE00312,harassment,easy,harassment,0.8,0.9999845027923584,1.0,True,True,True,VALIDATED
+313,TE00313,harassment,easy,harassment,0.6,0.9998224377632141,1.0,True,True,True,VALIDATED
+314,TE00314,harassment,easy,harassment,0.6,0.9996681213378906,1.0,True,True,True,VALIDATED
+315,TE00315,harassment,easy,harassment,0.6,0.9996525049209595,1.0,True,True,True,VALIDATED
+316,TE00316,harassment,easy,harassment,0.8,0.9999748468399048,1.0,True,True,True,VALIDATED
+317,TE00317,harassment,easy,harassment,0.6,0.9999569654464722,1.0,True,True,True,VALIDATED
+318,TE00318,harassment,easy,harassment,0.8,0.9998611211776733,1.0,True,True,True,VALIDATED
+319,TE00319,harassment,easy,harassment,0.6,0.9999756813049316,1.0,True,True,True,VALIDATED
+320,TE00320,harassment,easy,harassment,0.6,0.9998389482498169,1.0,True,True,True,VALIDATED
+321,TE00321,harassment,easy,harassment,0.8,0.9999654293060303,1.0,True,True,True,VALIDATED
+322,TE00322,harassment,easy,harassment,0.6,0.9998822212219238,1.0,True,True,True,VALIDATED
+323,TE00323,harassment,easy,harassment,0.8,0.999957799911499,1.0,True,True,True,VALIDATED
+324,TE00324,harassment,easy,harassment,0.8,0.9999828338623047,1.0,True,True,True,VALIDATED
+325,TE00325,harassment,easy,harassment,0.6,0.9999825954437256,1.0,True,True,True,VALIDATED
+326,TE00326,harassment,easy,harassment,0.6,0.9999692440032959,1.0,True,True,True,VALIDATED
+327,TE00327,harassment,easy,harassment,1.0,0.9994015693664551,1.0,True,True,True,VALIDATED
+328,TE00328,harassment,easy,harassment,0.8,0.9999270439147949,1.0,True,True,True,VALIDATED
+329,TE00329,harassment,easy,harassment,0.6,0.9999897480010986,1.0,True,True,True,VALIDATED
+330,TE00330,harassment,easy,harassment,0.8,0.99974125623703,1.0,True,True,True,VALIDATED
+331,TE00331,harassment,easy,harassment,0.6,0.9999399185180664,1.0,True,True,True,VALIDATED
+332,TE00332,harassment,easy,harassment,0.8,0.9999356269836426,1.0,True,True,True,VALIDATED
+333,TE00333,harassment,easy,harassment,0.6,0.9997581839561462,1.0,True,True,True,VALIDATED
+334,TE00334,harassment,easy,harassment,0.8,0.9999579191207886,1.0,True,True,True,VALIDATED
+335,TE00335,harassment,easy,harassment,0.8,0.9999383687973022,1.0,True,True,True,VALIDATED
+336,TE00336,harassment,easy,harassment,0.6,0.9999853372573853,1.0,True,True,True,VALIDATED
+337,TE00337,harassment,easy,harassment,0.6,0.9997802376747131,1.0,True,True,True,VALIDATED
+338,TE00338,harassment,easy,harassment,0.6,0.9999066591262817,1.0,True,True,True,VALIDATED
+339,TE00339,harassment,easy,harassment,0.6,0.9999905824661255,1.0,True,True,True,VALIDATED
+340,TE00340,harassment,easy,harassment,0.8,0.9998772144317627,1.0,True,True,True,VALIDATED
+341,TE00341,harassment,easy,harassment,0.6,0.9987327456474304,1.0,True,True,True,VALIDATED
+342,TE00342,harassment,easy,harassment,0.8,0.9994490742683411,1.0,True,True,True,VALIDATED
+343,TE00343,harassment,easy,harassment,0.8,0.9988503456115723,1.0,True,True,True,VALIDATED
+344,TE00344,harassment,easy,harassment,0.8,0.9998424053192139,1.0,True,True,True,VALIDATED
+345,TE00345,harassment,easy,harassment,0.8,0.9997615218162537,1.0,True,True,True,VALIDATED
+346,TE00346,harassment,easy,harassment,0.6,0.999906063079834,1.0,True,True,True,VALIDATED
+347,TE00347,harassment,easy,harassment,0.8,0.9998787641525269,1.0,True,True,True,VALIDATED
+348,TE00348,harassment,easy,harassment,1.0,0.9997877478599548,1.0,True,True,True,VALIDATED
+349,TE00349,harassment,easy,harassment,0.6,0.9999701976776123,1.0,True,True,True,VALIDATED
+350,TE00350,harassment,mixed,harassment,0.6,0.9958968162536621,1.0,True,True,True,VALIDATED
+351,TE00351,harassment,mixed,harassment,0.8,0.9973738193511963,1.0,True,True,True,VALIDATED
+352,TE00352,harassment,mixed,harassment,0.6,0.9997721314430237,1.0,True,True,True,VALIDATED
+353,TE00353,harassment,mixed,harassment,0.8,0.998935878276825,1.0,True,True,True,VALIDATED
+354,TE00354,harassment,mixed,harassment,0.6,0.9981938004493713,1.0,True,True,True,VALIDATED
+355,TE00355,harassment,mixed,harassment,0.6,0.9965049028396606,1.0,True,True,True,VALIDATED
+356,TE00356,harassment,mixed,harassment,0.6,0.9999628067016602,1.0,True,True,True,VALIDATED
+357,TE00357,harassment,mixed,harassment,0.6,0.9992626309394836,1.0,True,True,True,VALIDATED
+358,TE00358,harassment,mixed,harassment,0.6,0.9918504357337952,1.0,True,True,True,VALIDATED
+359,TE00359,harassment,mixed,harassment,0.6,0.9996324777603149,1.0,True,True,True,VALIDATED
+360,TE00360,harassment,mixed,harassment,0.8,0.9995911717414856,1.0,True,True,True,VALIDATED
+361,TE00361,harassment,mixed,harassment,0.8,0.9997561573982239,1.0,True,True,True,VALIDATED
+362,TE00362,harassment,mixed,harassment,0.6,0.9992685914039612,1.0,True,True,True,VALIDATED
+363,TE00363,harassment,mixed,harassment,0.6,0.9995531439781189,1.0,True,True,True,VALIDATED
+364,TE00364,harassment,mixed,harassment,0.6,0.999651312828064,1.0,True,True,True,VALIDATED
+365,TE00365,harassment,mixed,harassment,0.6,0.9997746348381042,1.0,True,True,True,VALIDATED
+366,TE00366,harassment,mixed,harassment,0.8,0.9994077682495117,1.0,True,True,True,VALIDATED
+367,TE00367,harassment,mixed,harassment,0.8,0.9981087446212769,1.0,True,True,True,VALIDATED
+368,TE00368,harassment,mixed,harassment,0.6,0.9988827109336853,1.0,True,True,True,VALIDATED
+369,TE00369,harassment,mixed,harassment,0.6,0.9997385144233704,1.0,True,True,True,VALIDATED
+370,TE00370,harassment,mixed,harassment,0.6,0.9958155751228333,1.0,True,True,True,VALIDATED
+371,TE00371,harassment,mixed,harassment,0.6,0.9980539083480835,1.0,True,True,True,VALIDATED
+372,TE00372,harassment,mixed,harassment,0.6,0.9991443157196045,1.0,True,True,True,VALIDATED
+373,TE00373,harassment,mixed,harassment,0.8,0.9995065927505493,1.0,True,True,True,VALIDATED
+374,TE00374,harassment,mixed,harassment,0.8,0.9994826316833496,1.0,True,True,True,VALIDATED
+375,TE00375,harassment,mixed,harassment,0.8,0.9996786117553711,1.0,True,True,True,VALIDATED
+376,TE00376,harassment,mixed,harassment,0.6,0.9995923638343811,1.0,True,True,True,VALIDATED
+377,TE00377,harassment,mixed,harassment,0.6,0.999285876750946,1.0,True,True,True,VALIDATED
+378,TE00378,harassment,mixed,harassment,0.6,0.9992039799690247,1.0,True,True,True,VALIDATED
+379,TE00379,harassment,mixed,harassment,0.6,0.9972158670425415,1.0,True,True,True,VALIDATED
+380,TE00380,harassment,mixed,harassment,0.8,0.9951664209365845,1.0,True,True,True,VALIDATED
+381,TE00381,harassment,mixed,harassment,0.6,0.9987998008728027,1.0,True,True,True,VALIDATED
+382,TE00382,harassment,mixed,harassment,0.8,0.9995148181915283,1.0,True,True,True,VALIDATED
+383,TE00383,harassment,mixed,harassment,0.6,0.9992092847824097,1.0,True,True,True,VALIDATED
+384,TE00384,harassment,mixed,harassment,0.8,0.9998606443405151,1.0,True,True,True,VALIDATED
+385,TE00385,harassment,mixed,harassment,0.6,0.9996330738067627,1.0,True,True,True,VALIDATED
+386,TE00386,harassment,mixed,harassment,0.8,0.9976150989532471,1.0,True,True,True,VALIDATED
+387,TE00387,harassment,mixed,harassment,0.6,0.9996445178985596,1.0,True,True,True,VALIDATED
+388,TE00388,harassment,mixed,harassment,0.6,0.9990900754928589,1.0,True,True,True,VALIDATED
+389,TE00389,harassment,mixed,harassment,0.6,0.9997791647911072,1.0,True,True,True,VALIDATED
+390,TE00390,harassment,mixed,harassment,0.6,0.9991248250007629,1.0,True,True,True,VALIDATED
+391,TE00391,harassment,mixed,harassment,0.8,0.9991291165351868,1.0,True,True,True,VALIDATED
+392,TE00392,harassment,mixed,harassment,0.8,0.9987885355949402,1.0,True,True,True,VALIDATED
+393,TE00393,harassment,mixed,harassment,0.6,0.999803364276886,1.0,True,True,True,VALIDATED
+394,TE00394,harassment,mixed,harassment,0.6,0.9998363256454468,1.0,True,True,True,VALIDATED
+395,TE00395,harassment,mixed,harassment,0.6,0.9981082677841187,1.0,True,True,True,VALIDATED
+396,TE00396,harassment,mixed,harassment,0.6,0.9994019269943237,1.0,True,True,True,VALIDATED
+397,TE00397,harassment,mixed,harassment,0.6,0.9998538494110107,1.0,True,True,True,VALIDATED
+398,TE00398,harassment,mixed,harassment,0.6,0.9994847774505615,1.0,True,True,True,VALIDATED
+399,TE00399,harassment,mixed,harassment,0.6,0.9984591007232666,1.0,True,True,True,VALIDATED
+400,TE00400,harassment,subtle,harassment,0.8,0.6442671418190002,0.5,False,True,False,NOT VALIDATED: model not confident (0.644 < 0.95)
+401,TE00401,harassment,subtle,harassment,0.6,0.9505629539489746,1.0,True,True,True,VALIDATED
+402,TE00402,harassment,subtle,harassment,0.8,0.9303433299064636,1.0,True,True,False,NOT VALIDATED: model not confident (0.930 < 0.95)
+403,TE00403,harassment,subtle,harassment,0.8,0.9503098130226135,0.5,False,True,True,VALIDATED
+404,TE00404,harassment,subtle,harassment,0.6,0.927087128162384,1.0,True,True,False,NOT VALIDATED: model not confident (0.927 < 0.95)
+405,TE00405,harassment,subtle,harassment,0.8,0.610553503036499,0.5,False,True,False,NOT VALIDATED: model not confident (0.611 < 0.95)
+406,TE00406,harassment,subtle,harassment,0.4,0.9732832908630371,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+407,TE00407,harassment,subtle,harassment,0.8,0.7284557819366455,1.0,True,True,False,NOT VALIDATED: model not confident (0.728 < 0.95)
+408,TE00408,harassment,subtle,benign,0.6,0.8585794568061829,0.0,False,False,False,NOT VALIDATED: model not confident (0.859 < 0.95)
+409,TE00409,harassment,subtle,harassment,0.6,0.9609548449516296,1.0,True,True,True,VALIDATED
+410,TE00410,harassment,subtle,harassment,0.6,0.8483723402023315,1.0,True,True,False,NOT VALIDATED: model not confident (0.848 < 0.95)
+411,TE00411,harassment,subtle,harassment,0.6,0.98769611120224,1.0,True,False,True,VALIDATED
+412,TE00412,harassment,subtle,harassment,0.8,0.5928291082382202,1.0,True,True,False,NOT VALIDATED: model not confident (0.593 < 0.95)
+413,TE00413,harassment,subtle,harassment,1.0,0.87359619140625,1.0,True,True,False,NOT VALIDATED: model not confident (0.874 < 0.95)
+414,TE00414,harassment,subtle,harassment,0.8,0.655253529548645,0.5,False,True,False,NOT VALIDATED: model not confident (0.655 < 0.95)
+415,TE00415,harassment,subtle,harassment,0.6,0.9631972312927246,1.0,True,True,True,VALIDATED
+416,TE00416,harassment,subtle,harassment,0.6,0.966347873210907,1.0,True,True,True,VALIDATED
+417,TE00417,harassment,subtle,harassment,0.6,0.46331366896629333,0.5,False,False,False,NOT VALIDATED: model not confident (0.463 < 0.95)
+418,TE00418,harassment,subtle,harassment,0.6,0.892916738986969,1.0,True,True,False,NOT VALIDATED: model not confident (0.893 < 0.95)
+419,TE00419,harassment,subtle,harassment,0.8,0.6360950469970703,1.0,True,True,False,NOT VALIDATED: model not confident (0.636 < 0.95)
+420,TE00420,harassment,subtle,harassment,0.6,0.9049971103668213,1.0,True,True,False,NOT VALIDATED: model not confident (0.905 < 0.95)
+421,TE00421,harassment,subtle,harassment,0.6,0.9632377028465271,1.0,True,True,True,VALIDATED
+422,TE00422,harassment,subtle,harassment,0.8,0.6261222958564758,1.0,True,True,False,NOT VALIDATED: model not confident (0.626 < 0.95)
+423,TE00423,harassment,subtle,fraud,0.4,0.6753054261207581,0.0,False,False,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.675 < 0.95)
+424,TE00424,harassment,subtle,harassment,0.4,0.9821107983589172,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+425,TE00425,harassment,subtle,harassment,0.6,0.6540583968162537,1.0,True,True,False,NOT VALIDATED: model not confident (0.654 < 0.95)
+426,TE00426,harassment,subtle,harassment,0.6,0.9383146166801453,1.0,True,True,False,NOT VALIDATED: model not confident (0.938 < 0.95)
+427,TE00427,harassment,subtle,harassment,0.8,0.8718013763427734,1.0,True,True,False,NOT VALIDATED: model not confident (0.872 < 0.95)
+428,TE00428,harassment,subtle,harassment,0.4,0.8371202349662781,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.837 < 0.95)
+429,TE00429,harassment,subtle,harassment,0.4,0.9345022439956665,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.935 < 0.95)
+430,TE00430,harassment,subtle,harassment,0.8,0.7228411436080933,1.0,True,True,False,NOT VALIDATED: model not confident (0.723 < 0.95)
+431,TE00431,harassment,subtle,harassment,0.6,0.9599133729934692,1.0,True,True,True,VALIDATED
+432,TE00432,harassment,subtle,harassment,0.6,0.9872230291366577,1.0,True,True,True,VALIDATED
+433,TE00433,harassment,subtle,harassment,0.8,0.7638046145439148,1.0,True,True,False,NOT VALIDATED: model not confident (0.764 < 0.95)
+434,TE00434,harassment,subtle,harassment,0.6,0.8079420924186707,1.0,True,True,False,NOT VALIDATED: model not confident (0.808 < 0.95)
+435,TE00435,harassment,subtle,harassment,0.6,0.9319218397140503,1.0,True,True,False,NOT VALIDATED: model not confident (0.932 < 0.95)
+436,TE00436,harassment,subtle,harassment,0.6,0.8998529314994812,1.0,True,True,False,NOT VALIDATED: model not confident (0.900 < 0.95)
+437,TE00437,harassment,subtle,harassment,0.6,0.8799001574516296,1.0,True,True,False,NOT VALIDATED: model not confident (0.880 < 0.95)
+438,TE00438,harassment,subtle,harassment,0.4,0.865675151348114,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.866 < 0.95)
+439,TE00439,harassment,subtle,harassment,0.8,0.7295777201652527,1.0,True,True,False,NOT VALIDATED: model not confident (0.730 < 0.95)
+440,TE00440,harassment,subtle,harassment,0.8,0.9878474473953247,1.0,True,True,True,VALIDATED
+441,TE00441,harassment,subtle,harassment,0.6,0.5274131298065186,0.5,False,True,False,NOT VALIDATED: model not confident (0.527 < 0.95)
+442,TE00442,harassment,subtle,harassment,0.8,0.731919527053833,1.0,True,True,False,NOT VALIDATED: model not confident (0.732 < 0.95)
+443,TE00443,harassment,subtle,harassment,0.8,0.9885812401771545,0.5,False,False,True,VALIDATED
+444,TE00444,harassment,subtle,harassment,0.4,0.851050853729248,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.851 < 0.95)
+445,TE00445,harassment,subtle,harassment,0.8,0.7423318028450012,1.0,True,True,False,NOT VALIDATED: model not confident (0.742 < 0.95)
+446,TE00446,harassment,subtle,harassment,0.6,0.6943519115447998,1.0,True,True,False,NOT VALIDATED: model not confident (0.694 < 0.95)
+447,TE00447,harassment,subtle,harassment,0.4,0.9761409759521484,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+448,TE00448,harassment,subtle,harassment,0.6,0.659267246723175,1.0,True,True,False,NOT VALIDATED: model not confident (0.659 < 0.95)
+449,TE00449,harassment,subtle,benign,0.6,0.706384003162384,0.0,False,False,False,NOT VALIDATED: model not confident (0.706 < 0.95)
+450,TE00450,cybercrime,easy,cybercrime,1.0,0.9973257780075073,1.0,True,True,True,VALIDATED
+451,TE00451,cybercrime,easy,cybercrime,0.8,0.9999357461929321,1.0,True,True,True,VALIDATED
+452,TE00452,cybercrime,easy,cybercrime,0.8,0.9999815225601196,1.0,True,True,True,VALIDATED
+453,TE00453,cybercrime,easy,cybercrime,0.8,0.9999681711196899,1.0,True,True,True,VALIDATED
+454,TE00454,cybercrime,easy,cybercrime,0.8,0.9998621940612793,1.0,True,True,True,VALIDATED
+455,TE00455,cybercrime,easy,cybercrime,0.8,0.9999743700027466,1.0,True,True,True,VALIDATED
+456,TE00456,cybercrime,easy,cybercrime,0.8,0.9997369647026062,1.0,True,True,True,VALIDATED
+457,TE00457,cybercrime,easy,cybercrime,0.8,0.9999856948852539,1.0,True,True,True,VALIDATED
+458,TE00458,cybercrime,easy,cybercrime,0.8,0.9997789263725281,1.0,True,True,True,VALIDATED
+459,TE00459,cybercrime,easy,cybercrime,0.8,0.9999768733978271,1.0,True,True,True,VALIDATED
+460,TE00460,cybercrime,easy,cybercrime,0.6,0.9999475479125977,1.0,True,True,True,VALIDATED
+461,TE00461,cybercrime,easy,cybercrime,0.8,0.9999934434890747,1.0,True,True,True,VALIDATED
+462,TE00462,cybercrime,easy,cybercrime,0.8,0.9999531507492065,1.0,True,True,True,VALIDATED
+463,TE00463,cybercrime,easy,cybercrime,0.6,0.9999064207077026,1.0,True,True,True,VALIDATED
+464,TE00464,cybercrime,easy,cybercrime,1.0,0.9999152421951294,1.0,True,True,True,VALIDATED
+465,TE00465,cybercrime,easy,cybercrime,0.8,0.9998328685760498,1.0,True,True,True,VALIDATED
+466,TE00466,cybercrime,easy,cybercrime,0.8,0.9999566078186035,1.0,True,True,True,VALIDATED
+467,TE00467,cybercrime,easy,cybercrime,0.6,0.999932050704956,1.0,True,True,True,VALIDATED
+468,TE00468,cybercrime,easy,cybercrime,0.8,0.9999489784240723,1.0,True,True,True,VALIDATED
+469,TE00469,cybercrime,easy,cybercrime,1.0,0.9998366832733154,1.0,True,True,True,VALIDATED
+470,TE00470,cybercrime,easy,cybercrime,0.8,0.9999754428863525,1.0,True,True,True,VALIDATED
+471,TE00471,cybercrime,easy,cybercrime,1.0,0.9999371767044067,1.0,True,True,True,VALIDATED
+472,TE00472,cybercrime,easy,cybercrime,0.8,0.9998601675033569,1.0,True,True,True,VALIDATED
+473,TE00473,cybercrime,easy,cybercrime,0.8,0.9999678134918213,1.0,True,True,True,VALIDATED
+474,TE00474,cybercrime,easy,cybercrime,0.8,0.9999586343765259,1.0,True,True,True,VALIDATED
+475,TE00475,cybercrime,easy,cybercrime,0.8,0.9999834299087524,1.0,True,True,True,VALIDATED
+476,TE00476,cybercrime,easy,cybercrime,0.8,0.9999527931213379,1.0,True,True,True,VALIDATED
+477,TE00477,cybercrime,easy,cybercrime,0.6,0.9998049139976501,1.0,True,True,True,VALIDATED
+478,TE00478,cybercrime,easy,cybercrime,0.8,0.9999465942382812,1.0,True,True,True,VALIDATED
+479,TE00479,cybercrime,easy,cybercrime,0.8,0.9999158382415771,1.0,True,True,True,VALIDATED
+480,TE00480,cybercrime,easy,cybercrime,0.8,0.9999474287033081,1.0,True,True,True,VALIDATED
+481,TE00481,cybercrime,easy,cybercrime,0.8,0.9999642372131348,1.0,True,True,True,VALIDATED
+482,TE00482,cybercrime,easy,cybercrime,0.8,0.9999192953109741,1.0,True,True,True,VALIDATED
+483,TE00483,cybercrime,easy,cybercrime,0.6,0.9987982511520386,1.0,True,True,True,VALIDATED
+484,TE00484,cybercrime,easy,cybercrime,0.8,0.9999610185623169,1.0,True,True,True,VALIDATED
+485,TE00485,cybercrime,easy,cybercrime,0.8,0.9999476671218872,1.0,True,True,True,VALIDATED
+486,TE00486,cybercrime,easy,cybercrime,0.6,0.999951958656311,1.0,True,True,True,VALIDATED
+487,TE00487,cybercrime,easy,cybercrime,0.8,0.9997039437294006,1.0,True,True,True,VALIDATED
+488,TE00488,cybercrime,easy,cybercrime,0.8,0.9999346733093262,1.0,True,True,True,VALIDATED
+489,TE00489,cybercrime,easy,cybercrime,0.8,0.9998593330383301,1.0,True,True,True,VALIDATED
+490,TE00490,cybercrime,easy,cybercrime,0.8,0.9999314546585083,1.0,True,True,True,VALIDATED
+491,TE00491,cybercrime,easy,cybercrime,0.8,0.9999886751174927,1.0,True,True,True,VALIDATED
+492,TE00492,cybercrime,easy,cybercrime,0.6,0.9999836683273315,1.0,True,True,True,VALIDATED
+493,TE00493,cybercrime,easy,cybercrime,1.0,0.9999116659164429,1.0,True,True,True,VALIDATED
+494,TE00494,cybercrime,easy,cybercrime,0.6,0.999963641166687,1.0,True,True,True,VALIDATED
+495,TE00495,cybercrime,easy,cybercrime,0.8,0.9999567270278931,1.0,True,True,True,VALIDATED
+496,TE00496,cybercrime,easy,cybercrime,0.8,0.9999923706054688,1.0,True,True,True,VALIDATED
+497,TE00497,cybercrime,easy,cybercrime,0.8,0.9999325275421143,1.0,True,True,True,VALIDATED
+498,TE00498,cybercrime,easy,cybercrime,0.8,0.99945467710495,1.0,True,True,True,VALIDATED
+499,TE00499,cybercrime,easy,cybercrime,0.8,0.9999561309814453,1.0,True,True,True,VALIDATED
+500,TE00500,cybercrime,mixed,cybercrime,0.8,0.9994484782218933,1.0,True,True,True,VALIDATED
+501,TE00501,cybercrime,mixed,cybercrime,0.6,0.9999120235443115,1.0,True,True,True,VALIDATED
+502,TE00502,cybercrime,mixed,cybercrime,0.8,0.9998612403869629,1.0,True,True,True,VALIDATED
+503,TE00503,cybercrime,mixed,cybercrime,0.8,0.9997205138206482,1.0,True,True,True,VALIDATED
+504,TE00504,cybercrime,mixed,cybercrime,0.8,0.9998043179512024,1.0,True,True,True,VALIDATED
+505,TE00505,cybercrime,mixed,cybercrime,0.8,0.9990967512130737,1.0,True,True,True,VALIDATED
+506,TE00506,cybercrime,mixed,cybercrime,0.6,0.9980408549308777,1.0,True,True,True,VALIDATED
+507,TE00507,cybercrime,mixed,cybercrime,0.6,0.9992000460624695,1.0,True,True,True,VALIDATED
+508,TE00508,cybercrime,mixed,cybercrime,0.6,0.9997610449790955,1.0,True,True,True,VALIDATED
+509,TE00509,cybercrime,mixed,cybercrime,0.6,0.9995784163475037,1.0,True,True,True,VALIDATED
+510,TE00510,cybercrime,mixed,cybercrime,0.6,0.9967955946922302,1.0,True,True,True,VALIDATED
+511,TE00511,cybercrime,mixed,cybercrime,0.6,0.9997110962867737,1.0,True,True,True,VALIDATED
+512,TE00512,cybercrime,mixed,cybercrime,0.8,0.9997351765632629,1.0,True,True,True,VALIDATED
+513,TE00513,cybercrime,mixed,cybercrime,0.8,0.9996330738067627,1.0,True,True,True,VALIDATED
+514,TE00514,cybercrime,mixed,cybercrime,0.6,0.9979680180549622,1.0,True,True,True,VALIDATED
+515,TE00515,cybercrime,mixed,cybercrime,0.8,0.9998257756233215,1.0,True,True,True,VALIDATED
+516,TE00516,cybercrime,mixed,cybercrime,0.6,0.9993832111358643,1.0,True,True,True,VALIDATED
+517,TE00517,cybercrime,mixed,cybercrime,0.8,0.9998407363891602,1.0,True,True,True,VALIDATED
+518,TE00518,cybercrime,mixed,cybercrime,0.6,0.9997729659080505,1.0,True,True,True,VALIDATED
+519,TE00519,cybercrime,mixed,cybercrime,0.8,0.9996397495269775,1.0,True,True,True,VALIDATED
+520,TE00520,cybercrime,mixed,cybercrime,0.8,0.9998657703399658,1.0,True,True,True,VALIDATED
+521,TE00521,cybercrime,mixed,cybercrime,0.6,0.9995125532150269,1.0,True,True,True,VALIDATED
+522,TE00522,cybercrime,mixed,cybercrime,0.8,0.9998667240142822,1.0,True,True,True,VALIDATED
+523,TE00523,cybercrime,mixed,cybercrime,0.8,0.9971592426300049,1.0,True,True,True,VALIDATED
+524,TE00524,cybercrime,mixed,cybercrime,0.6,0.9995669722557068,1.0,True,True,True,VALIDATED
+525,TE00525,cybercrime,mixed,cybercrime,0.8,0.9995014667510986,1.0,True,True,True,VALIDATED
+526,TE00526,cybercrime,mixed,cybercrime,0.6,0.999836802482605,1.0,True,True,True,VALIDATED
+527,TE00527,cybercrime,mixed,cybercrime,0.6,0.9957178235054016,1.0,True,True,True,VALIDATED
+528,TE00528,cybercrime,mixed,cybercrime,0.6,0.9996589422225952,1.0,True,True,True,VALIDATED
+529,TE00529,cybercrime,mixed,cybercrime,0.8,0.9987471103668213,1.0,True,True,True,VALIDATED
+530,TE00530,cybercrime,mixed,cybercrime,0.8,0.9999420642852783,1.0,True,True,True,VALIDATED
+531,TE00531,cybercrime,mixed,cybercrime,0.8,0.9996904134750366,1.0,True,True,True,VALIDATED
+532,TE00532,cybercrime,mixed,cybercrime,1.0,0.9999085664749146,1.0,True,True,True,VALIDATED
+533,TE00533,cybercrime,mixed,cybercrime,0.8,0.9997969269752502,1.0,True,True,True,VALIDATED
+534,TE00534,cybercrime,mixed,cybercrime,0.6,0.9989827275276184,1.0,True,True,True,VALIDATED
+535,TE00535,cybercrime,mixed,cybercrime,0.8,0.9974673986434937,1.0,True,True,True,VALIDATED
+536,TE00536,cybercrime,mixed,cybercrime,0.6,0.9966772794723511,1.0,True,True,True,VALIDATED
+537,TE00537,cybercrime,mixed,cybercrime,0.6,0.9996552467346191,1.0,True,True,True,VALIDATED
+538,TE00538,cybercrime,mixed,cybercrime,0.6,0.9987228512763977,1.0,True,True,True,VALIDATED
+539,TE00539,cybercrime,mixed,cybercrime,0.6,0.9992278814315796,1.0,True,True,True,VALIDATED
+540,TE00540,cybercrime,mixed,cybercrime,0.6,0.9993492960929871,1.0,True,True,True,VALIDATED
+541,TE00541,cybercrime,mixed,cybercrime,0.8,0.9993295669555664,1.0,True,True,True,VALIDATED
+542,TE00542,cybercrime,mixed,cybercrime,0.8,0.9993057250976562,1.0,True,True,True,VALIDATED
+543,TE00543,cybercrime,mixed,cybercrime,0.6,0.9990405440330505,1.0,True,True,True,VALIDATED
+544,TE00544,cybercrime,mixed,cybercrime,0.6,0.9992249011993408,1.0,True,True,True,VALIDATED
+545,TE00545,cybercrime,mixed,cybercrime,0.8,0.9995893836021423,1.0,True,True,True,VALIDATED
+546,TE00546,cybercrime,mixed,cybercrime,0.8,0.9996415376663208,1.0,True,True,True,VALIDATED
+547,TE00547,cybercrime,mixed,cybercrime,0.8,0.9999713897705078,1.0,True,True,True,VALIDATED
+548,TE00548,cybercrime,mixed,cybercrime,0.8,0.9995274543762207,1.0,True,True,True,VALIDATED
+549,TE00549,cybercrime,mixed,cybercrime,0.8,0.9998598098754883,1.0,True,True,True,VALIDATED
+550,TE00550,cybercrime,subtle,cybercrime,0.4,0.8873305320739746,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.887 < 0.95)
+551,TE00551,cybercrime,subtle,cybercrime,0.8,0.9869872331619263,1.0,True,True,True,VALIDATED
+552,TE00552,cybercrime,subtle,benign,0.4,0.6775197386741638,0.0,False,False,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.678 < 0.95)
+553,TE00553,cybercrime,subtle,cybercrime,0.4,0.8056248426437378,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.806 < 0.95)
+554,TE00554,cybercrime,subtle,benign,0.6,0.5333698987960815,0.0,False,False,False,NOT VALIDATED: model not confident (0.533 < 0.95)
+555,TE00555,cybercrime,subtle,cybercrime,0.6,0.9281811714172363,1.0,True,True,False,NOT VALIDATED: model not confident (0.928 < 0.95)
+556,TE00556,cybercrime,subtle,cybercrime,0.4,0.9604111909866333,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+557,TE00557,cybercrime,subtle,cybercrime,0.4,0.9528893232345581,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+558,TE00558,cybercrime,subtle,cybercrime,0.4,0.9424389004707336,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.942 < 0.95)
+559,TE00559,cybercrime,subtle,cybercrime,0.4,0.8875315189361572,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.888 < 0.95)
+560,TE00560,cybercrime,subtle,cybercrime,0.6,0.9533199071884155,1.0,True,True,True,VALIDATED
+561,TE00561,cybercrime,subtle,cybercrime,0.6,0.912319004535675,1.0,True,True,False,NOT VALIDATED: model not confident (0.912 < 0.95)
+562,TE00562,cybercrime,subtle,cybercrime,0.4,0.9332832098007202,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.933 < 0.95)
+563,TE00563,cybercrime,subtle,harassment,0.6,0.5460207462310791,0.0,False,False,False,NOT VALIDATED: model not confident (0.546 < 0.95)
+564,TE00564,cybercrime,subtle,cybercrime,0.4,0.9950584173202515,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+565,TE00565,cybercrime,subtle,benign,0.8,0.5257288217544556,0.0,False,False,False,NOT VALIDATED: model not confident (0.526 < 0.95)
+566,TE00566,cybercrime,subtle,benign,0.4,0.9113158583641052,0.0,False,False,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.911 < 0.95)
+567,TE00567,cybercrime,subtle,cybercrime,0.4,0.827961266040802,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.828 < 0.95)
+568,TE00568,cybercrime,subtle,cybercrime,0.4,0.9197067022323608,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.920 < 0.95)
+569,TE00569,cybercrime,subtle,cybercrime,0.6,0.9282839894294739,1.0,True,True,False,NOT VALIDATED: model not confident (0.928 < 0.95)
+570,TE00570,cybercrime,subtle,cybercrime,0.8,0.9832428097724915,1.0,True,True,True,VALIDATED
+571,TE00571,cybercrime,subtle,cybercrime,0.4,0.982017993927002,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+572,TE00572,cybercrime,subtle,cybercrime,0.4,0.7597938179969788,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.760 < 0.95)
+573,TE00573,cybercrime,subtle,cybercrime,0.8,0.6699921488761902,1.0,True,True,False,NOT VALIDATED: model not confident (0.670 < 0.95)
+574,TE00574,cybercrime,subtle,cybercrime,0.4,0.8032665848731995,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.803 < 0.95)
+575,TE00575,cybercrime,subtle,cybercrime,0.8,0.9926908612251282,1.0,True,True,True,VALIDATED
+576,TE00576,cybercrime,subtle,cybercrime,0.6,0.8845306038856506,1.0,True,True,False,NOT VALIDATED: model not confident (0.885 < 0.95)
+577,TE00577,cybercrime,subtle,cybercrime,0.6,0.8916673064231873,1.0,True,True,False,NOT VALIDATED: model not confident (0.892 < 0.95)
+578,TE00578,cybercrime,subtle,cybercrime,0.6,0.9823808670043945,1.0,True,True,True,VALIDATED
+579,TE00579,cybercrime,subtle,cybercrime,0.4,0.9248645901679993,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.925 < 0.95)
+580,TE00580,cybercrime,subtle,cybercrime,0.8,0.8137831091880798,1.0,True,True,False,NOT VALIDATED: model not confident (0.814 < 0.95)
+581,TE00581,cybercrime,subtle,cybercrime,0.6,0.9135894179344177,1.0,True,True,False,NOT VALIDATED: model not confident (0.914 < 0.95)
+582,TE00582,cybercrime,subtle,cybercrime,0.6,0.8858876824378967,1.0,True,True,False,NOT VALIDATED: model not confident (0.886 < 0.95)
+583,TE00583,cybercrime,subtle,benign,0.8,0.5237606167793274,0.0,False,False,False,NOT VALIDATED: model not confident (0.524 < 0.95)
+584,TE00584,cybercrime,subtle,benign,0.4,0.797703206539154,0.0,False,False,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.798 < 0.95)
+585,TE00585,cybercrime,subtle,cybercrime,0.8,0.49809929728507996,1.0,True,False,False,NOT VALIDATED: model not confident (0.498 < 0.95)
+586,TE00586,cybercrime,subtle,cybercrime,0.4,0.8303960561752319,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.830 < 0.95)
+587,TE00587,cybercrime,subtle,benign,0.6,0.7231640815734863,0.0,False,False,False,NOT VALIDATED: model not confident (0.723 < 0.95)
+588,TE00588,cybercrime,subtle,cybercrime,0.4,0.887421190738678,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.887 < 0.95)
+589,TE00589,cybercrime,subtle,cybercrime,0.8,0.9323412775993347,1.0,True,True,False,NOT VALIDATED: model not confident (0.932 < 0.95)
+590,TE00590,cybercrime,subtle,cybercrime,0.4,0.9702418446540833,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+591,TE00591,cybercrime,subtle,cybercrime,0.4,0.7259389758110046,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.726 < 0.95)
+592,TE00592,cybercrime,subtle,cybercrime,0.4,0.9164087772369385,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.916 < 0.95)
+593,TE00593,cybercrime,subtle,cybercrime,0.6,0.8070049285888672,1.0,True,True,False,NOT VALIDATED: model not confident (0.807 < 0.95)
+594,TE00594,cybercrime,subtle,benign,0.6,0.5162690281867981,0.0,False,False,False,NOT VALIDATED: model not confident (0.516 < 0.95)
+595,TE00595,cybercrime,subtle,harassment,0.6,0.6015238761901855,0.0,False,False,False,NOT VALIDATED: model not confident (0.602 < 0.95)
+596,TE00596,cybercrime,subtle,cybercrime,0.4,0.8445864319801331,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40); model not confident (0.845 < 0.95)
+597,TE00597,cybercrime,subtle,cybercrime,0.4,0.961414635181427,1.0,True,True,False,NOT VALIDATED: explainers disagree (top-5 agreement 0.40)
+598,TE00598,cybercrime,subtle,benign,0.8,0.5511476397514343,0.0,False,False,False,NOT VALIDATED: model not confident (0.551 < 0.95)
+599,TE00599,cybercrime,subtle,benign,0.8,0.5181640982627869,0.0,False,False,False,NOT VALIDATED: model not confident (0.518 < 0.95)

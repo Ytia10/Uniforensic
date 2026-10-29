@@ -1,0 +1,1364 @@
+[
+  {
+    "file": "central_s2026.pt",
+    "kind": "central",
+    "seed": 2026,
+    "sha256": "a5e19b236150240bae18262b01af2ec46ad4547d3a2f65dceb2a8052c52cf7af"
+  },
+  {
+    "file": "central_s2027.pt",
+    "kind": "central",
+    "seed": 2027,
+    "sha256": "d2f981461f6b2a8f397826d527add5203dceeb9344a999aaef0127582ad281cb"
+  },
+  {
+    "file": "central_s2028.pt",
+    "kind": "central",
+    "seed": 2028,
+    "sha256": "2c76910e361018594360e06aa6dd232483c62965a84b2b0bb2cfd5307aa25b79"
+  },
+  {
+    "file": "local_a0.1_s2026_ag0.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 0,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 0,
+      "harassment": 239,
+      "cybercrime": 293
+    },
+    "sha256": "66375dc105bdac93bb75337bd495dd1fa8e4e6356e6ef912ab5e4db650f2245a"
+  },
+  {
+    "file": "local_a0.1_s2026_ag1.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 1,
+    "train_counts": {
+      "benign": 127,
+      "fraud": 0,
+      "harassment": 3,
+      "cybercrime": 1
+    },
+    "sha256": "95ddcfe6aa9053b272a3fb411a11bd8b71f8820c7a415fb8937ec91844ad266c"
+  },
+  {
+    "file": "local_a0.1_s2026_ag2.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 2,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 0,
+      "harassment": 0,
+      "cybercrime": 40
+    },
+    "sha256": "7ef9521652667dfd55b272e2829f4ac8446287511995a081ffff057f5cf9f25c"
+  },
+  {
+    "file": "local_a0.1_s2026_ag3.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 3,
+    "train_counts": {
+      "benign": 74,
+      "fraud": 10,
+      "harassment": 0,
+      "cybercrime": 68
+    },
+    "sha256": "fc3c3483b2eb2e7440a0b7d51f3586485e48594fb9ae573d86bd2f6704200813"
+  },
+  {
+    "file": "local_a0.1_s2026_ag4.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 4,
+    "train_counts": {
+      "benign": 202,
+      "fraud": 272,
+      "harassment": 0,
+      "cybercrime": 0
+    },
+    "sha256": "2ce16e16a5939ec43395bf847b625b9a09660266e9b60ab45b28ca63c08e97f6"
+  },
+  {
+    "file": "local_a0.1_s2026_ag5.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 5,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 40,
+      "harassment": 0,
+      "cybercrime": 11
+    },
+    "sha256": "207115b91c4b3dd781f44f1b703562892548976efe4dd63b7098f36f721925f5"
+  },
+  {
+    "file": "local_a0.1_s2026_ag6.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 6,
+    "train_counts": {
+      "benign": 66,
+      "fraud": 0,
+      "harassment": 39,
+      "cybercrime": 26
+    },
+    "sha256": "aa5973166ddfd475185f679d58c423468e4c8f47ac3cdb932ed47e6a828f2429"
+  },
+  {
+    "file": "local_a0.1_s2026_ag7.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2026,
+    "agency": 7,
+    "train_counts": {
+      "benign": 10,
+      "fraud": 162,
+      "harassment": 201,
+      "cybercrime": 36
+    },
+    "sha256": "f6bae14f7d92699f2d188a1ff71fdc233dbfc662abd4fe47f78d95e5e089bfb0"
+  },
+  {
+    "file": "local_a0.1_s2027_ag0.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 0,
+    "train_counts": {
+      "benign": 35,
+      "fraud": 5,
+      "harassment": 12,
+      "cybercrime": 0
+    },
+    "sha256": "91839ef0624daca7fe51d1387d0e874f102d597e46348e9a2c5a731041d9474a"
+  },
+  {
+    "file": "local_a0.1_s2027_ag1.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 1,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 0,
+      "harassment": 364,
+      "cybercrime": 0
+    },
+    "sha256": "863b1abe85b9302e997937596b0fbe0323ba68ea68f3ce70aca93b83e2d0925e"
+  },
+  {
+    "file": "local_a0.1_s2027_ag2.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 2,
+    "train_counts": {
+      "benign": 372,
+      "fraud": 6,
+      "harassment": 4,
+      "cybercrime": 0
+    },
+    "sha256": "daf0bb8c0d1114576bb5ad0449e54a4e44f7589a27b40ff8222b1b155af431db"
+  },
+  {
+    "file": "local_a0.1_s2027_ag3.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 3,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 35,
+      "harassment": 0,
+      "cybercrime": 0
+    },
+    "sha256": "b402b46a6d436cb8b0f61b4749d0c8f2c471bf783c419773e31a164de7b63ded"
+  },
+  {
+    "file": "local_a0.1_s2027_ag4.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 4,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 429,
+      "harassment": 13,
+      "cybercrime": 0
+    },
+    "sha256": "87a3506bf9a2ad72e38becf2b5c9f5a29c33aed709cf1bce1d32db5a4a1e2dcf"
+  },
+  {
+    "file": "local_a0.1_s2027_ag5.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 5,
+    "train_counts": {
+      "benign": 72,
+      "fraud": 0,
+      "harassment": 47,
+      "cybercrime": 47
+    },
+    "sha256": "8485cf07f920cd45b8538afcc8dcc08b6afa0a9ddc1929cf7cedfb202a2baf5b"
+  },
+  {
+    "file": "local_a0.1_s2027_ag6.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 6,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 4,
+      "harassment": 26,
+      "cybercrime": 118
+    },
+    "sha256": "211b9648326682d3c2635a30f6f676d90029f48cfcefd1b40d181ea416b1bc82"
+  },
+  {
+    "file": "local_a0.1_s2027_ag7.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2027,
+    "agency": 7,
+    "train_counts": {
+      "benign": 1,
+      "fraud": 1,
+      "harassment": 10,
+      "cybercrime": 319
+    },
+    "sha256": "95f0f67ae94750265d519c93025e7f93dca134eba5425115cd0232c608de40ef"
+  },
+  {
+    "file": "local_a0.1_s2028_ag0.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 0,
+    "train_counts": {
+      "benign": 79,
+      "fraud": 0,
+      "harassment": 91,
+      "cybercrime": 0
+    },
+    "sha256": "7c3006c06e223439df1ff88e9f61f1f9c6fa7c6a7db7a7eee6375d3397d3cc74"
+  },
+  {
+    "file": "local_a0.1_s2028_ag1.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 1,
+    "train_counts": {
+      "benign": 1,
+      "fraud": 0,
+      "harassment": 143,
+      "cybercrime": 66
+    },
+    "sha256": "ee207b627a25fdd12b519fadc5c78bfdb449302fb2e29d38dca3fd6513b42703"
+  },
+  {
+    "file": "local_a0.1_s2028_ag2.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 2,
+    "train_counts": {
+      "benign": 76,
+      "fraud": 0,
+      "harassment": 2,
+      "cybercrime": 200
+    },
+    "sha256": "47d4f2432614a39ea139dd20a86eddef69e489c36c13d4d054151cd57ca6a74b"
+  },
+  {
+    "file": "local_a0.1_s2028_ag3.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 3,
+    "train_counts": {
+      "benign": 1,
+      "fraud": 0,
+      "harassment": 34,
+      "cybercrime": 106
+    },
+    "sha256": "552b0cfb870022e5a83e617513f7c3ecccd3ce56a25798c34996ee89c22db332"
+  },
+  {
+    "file": "local_a0.1_s2028_ag4.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 4,
+    "train_counts": {
+      "benign": 314,
+      "fraud": 0,
+      "harassment": 6,
+      "cybercrime": 110
+    },
+    "sha256": "20a2bef2a9c2f4c1a9e11d8b3884f198b1df77ef20fd3b998ff482d131a3458a"
+  },
+  {
+    "file": "local_a0.1_s2028_ag5.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 5,
+    "train_counts": {
+      "benign": 5,
+      "fraud": 76,
+      "harassment": 0,
+      "cybercrime": 0
+    },
+    "sha256": "909ffdc25cf51c29767cfb61c915bdc3deeb326877d9cb9a2169a1beeeb0d69f"
+  },
+  {
+    "file": "local_a0.1_s2028_ag6.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 6,
+    "train_counts": {
+      "benign": 2,
+      "fraud": 0,
+      "harassment": 37,
+      "cybercrime": 0
+    },
+    "sha256": "27ced225e55eea0bfb9f093e831dd8d998ec076e22e108c5faf10fc8b90c200c"
+  },
+  {
+    "file": "local_a0.1_s2028_ag7.pt",
+    "kind": "local",
+    "alpha": 0.1,
+    "seed": 2028,
+    "agency": 7,
+    "train_counts": {
+      "benign": 1,
+      "fraud": 407,
+      "harassment": 163,
+      "cybercrime": 0
+    },
+    "sha256": "286836b685e4ec0eb9e02b6f93710db0af683910105b23f9f73490b4ae82089e"
+  },
+  {
+    "file": "local_a0.5_s2026_ag0.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 0,
+    "train_counts": {
+      "benign": 104,
+      "fraud": 329,
+      "harassment": 143,
+      "cybercrime": 2
+    },
+    "sha256": "4e5623364ad40e02b0b22e188128cb74b5e73e0efeecbeba029fdb7bbd3fb8a0"
+  },
+  {
+    "file": "local_a0.5_s2026_ag1.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 1,
+    "train_counts": {
+      "benign": 144,
+      "fraud": 20,
+      "harassment": 16,
+      "cybercrime": 57
+    },
+    "sha256": "c1a3d63978de2fe2567c10763fd299dac1ec8dfe573bfd251f8e72a0d6dd7b23"
+  },
+  {
+    "file": "local_a0.5_s2026_ag2.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 2,
+    "train_counts": {
+      "benign": 8,
+      "fraud": 3,
+      "harassment": 51,
+      "cybercrime": 40
+    },
+    "sha256": "284ef5017ddb773812f14d67ed68509d41970968541f4f232f9d9ab4d9db9e98"
+  },
+  {
+    "file": "local_a0.5_s2026_ag3.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 3,
+    "train_counts": {
+      "benign": 143,
+      "fraud": 15,
+      "harassment": 1,
+      "cybercrime": 63
+    },
+    "sha256": "1c5983b02955f331efeeadfd3d2edd9f5b378d6d4b72d6944cf5f6eedf0d971f"
+  },
+  {
+    "file": "local_a0.5_s2026_ag4.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 4,
+    "train_counts": {
+      "benign": 30,
+      "fraud": 82,
+      "harassment": 60,
+      "cybercrime": 34
+    },
+    "sha256": "c769c547e55b14650e12481cce9edafddcab849c829ed8e84d18417d4cb7057e"
+  },
+  {
+    "file": "local_a0.5_s2026_ag5.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 5,
+    "train_counts": {
+      "benign": 4,
+      "fraud": 1,
+      "harassment": 24,
+      "cybercrime": 15
+    },
+    "sha256": "8bddcd88ae622cb69671a00747e53dd00064b6501abfcc9ddca65de673bc850d"
+  },
+  {
+    "file": "local_a0.5_s2026_ag6.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 6,
+    "train_counts": {
+      "benign": 1,
+      "fraud": 19,
+      "harassment": 92,
+      "cybercrime": 136
+    },
+    "sha256": "1c2d74c185357f6b1a6d8be9b1baff210b00480ee1d0fbeec8c246d0dc951a31"
+  },
+  {
+    "file": "local_a0.5_s2026_ag7.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2026,
+    "agency": 7,
+    "train_counts": {
+      "benign": 51,
+      "fraud": 3,
+      "harassment": 98,
+      "cybercrime": 130
+    },
+    "sha256": "5152f1a88df83c28d5ff8d95207f21fcdfdcb00c1aa7f08e917e95a74804433a"
+  },
+  {
+    "file": "local_a0.5_s2027_ag0.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 0,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 56,
+      "harassment": 23,
+      "cybercrime": 9
+    },
+    "sha256": "5666f0f1aafc73f033aebabf34add34488e3d4da70d6fb4d8d570bb9799633ef"
+  },
+  {
+    "file": "local_a0.5_s2027_ag1.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 1,
+    "train_counts": {
+      "benign": 19,
+      "fraud": 10,
+      "harassment": 27,
+      "cybercrime": 134
+    },
+    "sha256": "31194835bd7adfa5a3fdda95b36f7ad60ab2698ef6dae8ecd451e7e70325b9e7"
+  },
+  {
+    "file": "local_a0.5_s2027_ag2.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 2,
+    "train_counts": {
+      "benign": 147,
+      "fraud": 156,
+      "harassment": 153,
+      "cybercrime": 178
+    },
+    "sha256": "88519e8578aa56f7e295887f5f04d6cd070b2a5b1c7eec5d3f53aa218539e490"
+  },
+  {
+    "file": "local_a0.5_s2027_ag3.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 3,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 0,
+      "harassment": 12,
+      "cybercrime": 24
+    },
+    "sha256": "83c2606f56d57efbbb74c8fca6fc2302f4026e83c0234cbceda119a741573810"
+  },
+  {
+    "file": "local_a0.5_s2027_ag4.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 4,
+    "train_counts": {
+      "benign": 129,
+      "fraud": 27,
+      "harassment": 147,
+      "cybercrime": 71
+    },
+    "sha256": "42ced1fece35968e001aede5c7c50df228c2b4f7abba559facfb612beded4dfa"
+  },
+  {
+    "file": "local_a0.5_s2027_ag5.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 5,
+    "train_counts": {
+      "benign": 157,
+      "fraud": 154,
+      "harassment": 24,
+      "cybercrime": 58
+    },
+    "sha256": "95047a2b7cedf8f1617726a03c686d041c70da7364ab815bb28966ca745543eb"
+  },
+  {
+    "file": "local_a0.5_s2027_ag6.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 6,
+    "train_counts": {
+      "benign": 13,
+      "fraud": 30,
+      "harassment": 89,
+      "cybercrime": 5
+    },
+    "sha256": "a7ba000b0abbde83e4d4eec8957f9c8220228fc8f50b5341f7be0815c973f028"
+  },
+  {
+    "file": "local_a0.5_s2027_ag7.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2027,
+    "agency": 7,
+    "train_counts": {
+      "benign": 19,
+      "fraud": 46,
+      "harassment": 2,
+      "cybercrime": 1
+    },
+    "sha256": "60d43d156715f058ccb0666c7032611e7e84fd2ecd3d3a94dddc09ba80a04415"
+  },
+  {
+    "file": "local_a0.5_s2028_ag0.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 0,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 148,
+      "harassment": 26,
+      "cybercrime": 0
+    },
+    "sha256": "e61cbcff7d4add3114db11fb20572927f6e139f810c238337898b69e5ee6246a"
+  },
+  {
+    "file": "local_a0.5_s2028_ag1.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 1,
+    "train_counts": {
+      "benign": 28,
+      "fraud": 18,
+      "harassment": 0,
+      "cybercrime": 0
+    },
+    "sha256": "8f929fc67fa5403adfae7ae0ad0c4e06dc7cf712a2a595345ae61a6004f873e0"
+  },
+  {
+    "file": "local_a0.5_s2028_ag2.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 2,
+    "train_counts": {
+      "benign": 96,
+      "fraud": 84,
+      "harassment": 1,
+      "cybercrime": 44
+    },
+    "sha256": "713602a378b3fdf414c8dcd4f76400b1d3bd159fb609d194bde330e65e8004b8"
+  },
+  {
+    "file": "local_a0.5_s2028_ag3.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 3,
+    "train_counts": {
+      "benign": 26,
+      "fraud": 1,
+      "harassment": 15,
+      "cybercrime": 126
+    },
+    "sha256": "92f62a45eb524b0da1fa6c3b49050f11aa837c565e190071d9ef208b9c5083ad"
+  },
+  {
+    "file": "local_a0.5_s2028_ag4.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 4,
+    "train_counts": {
+      "benign": 6,
+      "fraud": 132,
+      "harassment": 125,
+      "cybercrime": 7
+    },
+    "sha256": "921335fdc85f012730af14d273347b7f43de42661d1cbe7657bd2ab04a16e39f"
+  },
+  {
+    "file": "local_a0.5_s2028_ag5.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 5,
+    "train_counts": {
+      "benign": 163,
+      "fraud": 9,
+      "harassment": 101,
+      "cybercrime": 2
+    },
+    "sha256": "8cfeb840a669d60bed518f1f7b0b0d5702f047648612a7c696a73527532bc8ca"
+  },
+  {
+    "file": "local_a0.5_s2028_ag6.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 6,
+    "train_counts": {
+      "benign": 164,
+      "fraud": 24,
+      "harassment": 214,
+      "cybercrime": 80
+    },
+    "sha256": "0e26adf664b952061b2d338ce575aa04a9be3e2473b9724d580279ee08277f04"
+  },
+  {
+    "file": "local_a0.5_s2028_ag7.pt",
+    "kind": "local",
+    "alpha": 0.5,
+    "seed": 2028,
+    "agency": 7,
+    "train_counts": {
+      "benign": 0,
+      "fraud": 56,
+      "harassment": 2,
+      "cybercrime": 221
+    },
+    "sha256": "be280f35d022611bfffc9349112873360fa81a7f76c8f5cd4a30f5b0ae6ed159"
+  },
+  {
+    "file": "local_a1.0_s2026_ag0.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 0,
+    "train_counts": {
+      "benign": 69,
+      "fraud": 12,
+      "harassment": 104,
+      "cybercrime": 109
+    },
+    "sha256": "546ea3abd73d10b781a5faefde1df67dd51e9e4eada20ccb308c3a815aeaa696"
+  },
+  {
+    "file": "local_a1.0_s2026_ag1.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 1,
+    "train_counts": {
+      "benign": 5,
+      "fraud": 64,
+      "harassment": 28,
+      "cybercrime": 95
+    },
+    "sha256": "395a99b8c8a4f654c119d05c8bec442f1998342cb428ff274ce1984056050987"
+  },
+  {
+    "file": "local_a1.0_s2026_ag2.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 2,
+    "train_counts": {
+      "benign": 48,
+      "fraud": 204,
+      "harassment": 84,
+      "cybercrime": 5
+    },
+    "sha256": "59fad01e41383943d2aa08db1170d626c904c0b0cb615b7275a03080262a5984"
+  },
+  {
+    "file": "local_a1.0_s2026_ag3.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 3,
+    "train_counts": {
+      "benign": 34,
+      "fraud": 39,
+      "harassment": 53,
+      "cybercrime": 36
+    },
+    "sha256": "f38a0fa3bf5dda233cef941af28f1f717438d159fd8bdf1dbdc471e504a970f7"
+  },
+  {
+    "file": "local_a1.0_s2026_ag4.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 4,
+    "train_counts": {
+      "benign": 6,
+      "fraud": 17,
+      "harassment": 65,
+      "cybercrime": 10
+    },
+    "sha256": "24d0fa474e48768a1a762de59a75d8d493b97eb48f732a6955633bd98e499106"
+  },
+  {
+    "file": "local_a1.0_s2026_ag5.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 5,
+    "train_counts": {
+      "benign": 43,
+      "fraud": 8,
+      "harassment": 61,
+      "cybercrime": 120
+    },
+    "sha256": "9dc5b37b48810076942ebc2f41e7101dfeacf88e99f110dca64d2f7ede68abe4"
+  },
+  {
+    "file": "local_a1.0_s2026_ag6.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 6,
+    "train_counts": {
+      "benign": 132,
+      "fraud": 90,
+      "harassment": 46,
+      "cybercrime": 10
+    },
+    "sha256": "11eefbc68142dc3979ca24c266fe6fbc214708faa94a1f755a1451a195efea48"
+  },
+  {
+    "file": "local_a1.0_s2026_ag7.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2026,
+    "agency": 7,
+    "train_counts": {
+      "benign": 137,
+      "fraud": 43,
+      "harassment": 45,
+      "cybercrime": 98
+    },
+    "sha256": "b227bcf9bf132a5574200a4e1193a919807598617188bafda0e7a90bcf85ac5e"
+  },
+  {
+    "file": "local_a1.0_s2027_ag0.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 0,
+    "train_counts": {
+      "benign": 15,
+      "fraud": 12,
+      "harassment": 38,
+      "cybercrime": 263
+    },
+    "sha256": "0e334393f12eed1997ca333c1e6cfefa38c2856d222b208f2e382fbf163caf28"
+  },
+  {
+    "file": "local_a1.0_s2027_ag1.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 1,
+    "train_counts": {
+      "benign": 69,
+      "fraud": 107,
+      "harassment": 92,
+      "cybercrime": 40
+    },
+    "sha256": "5aba1eb7d9caeaf869a2ea80e2edd0491bd5022140587a511f669d092ae39f31"
+  },
+  {
+    "file": "local_a1.0_s2027_ag2.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 2,
+    "train_counts": {
+      "benign": 30,
+      "fraud": 57,
+      "harassment": 38,
+      "cybercrime": 7
+    },
+    "sha256": "33944255e50895645f6642f59bfb86f6b27f4cce0ea4b9be6137e6a823877c0a"
+  },
+  {
+    "file": "local_a1.0_s2027_ag3.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 3,
+    "train_counts": {
+      "benign": 60,
+      "fraud": 14,
+      "harassment": 84,
+      "cybercrime": 26
+    },
+    "sha256": "decb9e1b1c684da3bcdf330f918d7f76746af027d5a70e25aa08eda667b3e514"
+  },
+  {
+    "file": "local_a1.0_s2027_ag4.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 4,
+    "train_counts": {
+      "benign": 15,
+      "fraud": 75,
+      "harassment": 73,
+      "cybercrime": 53
+    },
+    "sha256": "725b13a1417ed2da1d0f634799f79dc99ca4ea7dd08c747c3d85475f576816de"
+  },
+  {
+    "file": "local_a1.0_s2027_ag5.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 5,
+    "train_counts": {
+      "benign": 192,
+      "fraud": 56,
+      "harassment": 63,
+      "cybercrime": 57
+    },
+    "sha256": "755b63c76e3b02bbcf8464716ab4b4f71c9a8e7155be8deb9144b26b1a4c4c5f"
+  },
+  {
+    "file": "local_a1.0_s2027_ag6.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 6,
+    "train_counts": {
+      "benign": 88,
+      "fraud": 81,
+      "harassment": 32,
+      "cybercrime": 18
+    },
+    "sha256": "415915c6602416c585f19a919ca951889b841deb411a508d82cdfab890c8209d"
+  },
+  {
+    "file": "local_a1.0_s2027_ag7.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2027,
+    "agency": 7,
+    "train_counts": {
+      "benign": 5,
+      "fraud": 83,
+      "harassment": 56,
+      "cybercrime": 21
+    },
+    "sha256": "5412c9275f4252ccee8d2a9d3d27df2699dec4bb4fdf3767112fbec7f5df02e6"
+  },
+  {
+    "file": "local_a1.0_s2028_ag0.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 0,
+    "train_counts": {
+      "benign": 5,
+      "fraud": 2,
+      "harassment": 142,
+      "cybercrime": 21
+    },
+    "sha256": "9744f17c5ffab36f49b838ede237e9b0198b90759888746ff3b65c71d2f8a550"
+  },
+  {
+    "file": "local_a1.0_s2028_ag1.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 1,
+    "train_counts": {
+      "benign": 57,
+      "fraud": 1,
+      "harassment": 116,
+      "cybercrime": 95
+    },
+    "sha256": "792e674174b5518a79f67be33fc14b6638255bc2fb59494a70492782e80a72fd"
+  },
+  {
+    "file": "local_a1.0_s2028_ag2.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 2,
+    "train_counts": {
+      "benign": 198,
+      "fraud": 39,
+      "harassment": 69,
+      "cybercrime": 16
+    },
+    "sha256": "24543a5dcd856b30bd5f96a2fa0c205e43e756cea3ec39d52fe1c9277221c674"
+  },
+  {
+    "file": "local_a1.0_s2028_ag3.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 3,
+    "train_counts": {
+      "benign": 84,
+      "fraud": 76,
+      "harassment": 39,
+      "cybercrime": 122
+    },
+    "sha256": "fa3cab6bc0ead488d2a2dbdf6af701eab40b897e01c4edf2deae16088d1ae8a5"
+  },
+  {
+    "file": "local_a1.0_s2028_ag4.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 4,
+    "train_counts": {
+      "benign": 5,
+      "fraud": 63,
+      "harassment": 14,
+      "cybercrime": 7
+    },
+    "sha256": "cfa7da1d132142348096d6cd642eb711623bc8d11aa46613fcd6132b4b85d664"
+  },
+  {
+    "file": "local_a1.0_s2028_ag5.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 5,
+    "train_counts": {
+      "benign": 76,
+      "fraud": 129,
+      "harassment": 24,
+      "cybercrime": 17
+    },
+    "sha256": "578872db0ffd98e05f1af330acde7d826a4dfd0d957afe1760506db53a91944e"
+  },
+  {
+    "file": "local_a1.0_s2028_ag6.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 6,
+    "train_counts": {
+      "benign": 6,
+      "fraud": 123,
+      "harassment": 61,
+      "cybercrime": 128
+    },
+    "sha256": "21b6bf2abe87ea249747fb0373b446f33056ff4767a063fdb1f03bb52c70a1fb"
+  },
+  {
+    "file": "local_a1.0_s2028_ag7.pt",
+    "kind": "local",
+    "alpha": 1.0,
+    "seed": 2028,
+    "agency": 7,
+    "train_counts": {
+      "benign": 56,
+      "fraud": 59,
+      "harassment": 12,
+      "cybercrime": 60
+    },
+    "sha256": "da486fb877c9f152af70a37747cd54d2054381d1ef8224844be3692e5a581855"
+  },
+  {
+    "file": "local_a100.0_s2026_ag0.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 0,
+    "train_counts": {
+      "benign": 67,
+      "fraud": 60,
+      "harassment": 59,
+      "cybercrime": 56
+    },
+    "sha256": "0e6566443491196895c821547d7137f6b276994003abdf42dabefe6116090d89"
+  },
+  {
+    "file": "local_a100.0_s2026_ag1.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 1,
+    "train_counts": {
+      "benign": 54,
+      "fraud": 55,
+      "harassment": 69,
+      "cybercrime": 60
+    },
+    "sha256": "ab5c6ddcff8579787820fd97f3e1037e81d49b79b347c6f8509ab8515f4a4e28"
+  },
+  {
+    "file": "local_a100.0_s2026_ag2.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 2,
+    "train_counts": {
+      "benign": 66,
+      "fraud": 59,
+      "harassment": 65,
+      "cybercrime": 55
+    },
+    "sha256": "120be81da0bf2a8e030c91596ecd6eec7e90e4970fdcbda2aeef4a60d14482ea"
+  },
+  {
+    "file": "local_a100.0_s2026_ag3.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 3,
+    "train_counts": {
+      "benign": 57,
+      "fraud": 56,
+      "harassment": 62,
+      "cybercrime": 61
+    },
+    "sha256": "5dd94c562c2e1c313c847764cf7d63031a7fd6426be534e5b23a89022468f8c4"
+  },
+  {
+    "file": "local_a100.0_s2026_ag4.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 4,
+    "train_counts": {
+      "benign": 68,
+      "fraud": 65,
+      "harassment": 61,
+      "cybercrime": 64
+    },
+    "sha256": "ede67b9e24a2261e1737fb516ff5b230a55d53ccc0b27b54f7dde0289630ea96"
+  },
+  {
+    "file": "local_a100.0_s2026_ag5.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 5,
+    "train_counts": {
+      "benign": 72,
+      "fraud": 62,
+      "harassment": 64,
+      "cybercrime": 61
+    },
+    "sha256": "4fa7213eed878ed6688c061838c1db82e100059c7b8e304f297ff2a48f80c70a"
+  },
+  {
+    "file": "local_a100.0_s2026_ag6.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 6,
+    "train_counts": {
+      "benign": 52,
+      "fraud": 49,
+      "harassment": 59,
+      "cybercrime": 50
+    },
+    "sha256": "9f0f29dc768506c8eb290a45a58078f0f4fff1fb422223606409b449da6b9b12"
+  },
+  {
+    "file": "local_a100.0_s2026_ag7.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2026,
+    "agency": 7,
+    "train_counts": {
+      "benign": 50,
+      "fraud": 63,
+      "harassment": 52,
+      "cybercrime": 67
+    },
+    "sha256": "aef0b81ec29047460ef93586ac1b07afe52543a6c843c83d4763a8ab2c398375"
+  },
+  {
+    "file": "local_a100.0_s2027_ag0.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 0,
+    "train_counts": {
+      "benign": 69,
+      "fraud": 61,
+      "harassment": 55,
+      "cybercrime": 60
+    },
+    "sha256": "48d226256c187a35c8681a32c5ded9e252b6aec27ac1cfaa5d23b33b02b5505b"
+  },
+  {
+    "file": "local_a100.0_s2027_ag1.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 1,
+    "train_counts": {
+      "benign": 55,
+      "fraud": 67,
+      "harassment": 70,
+      "cybercrime": 58
+    },
+    "sha256": "5c46c6e8463dc545373356e714f2bdfd120853838feaa13f3dc1a891a84f9515"
+  },
+  {
+    "file": "local_a100.0_s2027_ag2.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 2,
+    "train_counts": {
+      "benign": 61,
+      "fraud": 61,
+      "harassment": 53,
+      "cybercrime": 65
+    },
+    "sha256": "926614071fadabaf67cf237aea12f65290cb5599eb9b529eceb32e9d4be10195"
+  },
+  {
+    "file": "local_a100.0_s2027_ag3.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 3,
+    "train_counts": {
+      "benign": 51,
+      "fraud": 64,
+      "harassment": 70,
+      "cybercrime": 63
+    },
+    "sha256": "20706c1c99eb6f8dbf9237c6a4e64548e8002ca530e753d255dafe68e9203307"
+  },
+  {
+    "file": "local_a100.0_s2027_ag4.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 4,
+    "train_counts": {
+      "benign": 63,
+      "fraud": 65,
+      "harassment": 62,
+      "cybercrime": 58
+    },
+    "sha256": "b0883059298901b5ab532a5d7040fc993bf2084cfda7ccd7b21c64483c239fe7"
+  },
+  {
+    "file": "local_a100.0_s2027_ag5.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 5,
+    "train_counts": {
+      "benign": 66,
+      "fraud": 48,
+      "harassment": 58,
+      "cybercrime": 64
+    },
+    "sha256": "41b0238e76a115610127e049a666230d1084c35aa7c9663cbda4be88c59cf115"
+  },
+  {
+    "file": "local_a100.0_s2027_ag6.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 6,
+    "train_counts": {
+      "benign": 58,
+      "fraud": 55,
+      "harassment": 50,
+      "cybercrime": 55
+    },
+    "sha256": "8e450be301a220906e68ce208a55049c9660f7f26bda66b9e867e920e8eb1952"
+  },
+  {
+    "file": "local_a100.0_s2027_ag7.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2027,
+    "agency": 7,
+    "train_counts": {
+      "benign": 58,
+      "fraud": 54,
+      "harassment": 65,
+      "cybercrime": 57
+    },
+    "sha256": "e6dd67351dee8d3eed24b9c49251fd06210fc3a68ae908fe15bc557e9f1fa1e7"
+  },
+  {
+    "file": "local_a100.0_s2028_ag0.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 0,
+    "train_counts": {
+      "benign": 53,
+      "fraud": 59,
+      "harassment": 59,
+      "cybercrime": 63
+    },
+    "sha256": "2eda5dc7e5b28f1defedabe4cef916dd78264236282fbf79819e026e156ee14a"
+  },
+  {
+    "file": "local_a100.0_s2028_ag1.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 1,
+    "train_counts": {
+      "benign": 52,
+      "fraud": 62,
+      "harassment": 72,
+      "cybercrime": 57
+    },
+    "sha256": "3993c8cafd1ae6d71dc6e4836cc792461dbb7e9cf50e6c25e4ac5d69a18daad9"
+  },
+  {
+    "file": "local_a100.0_s2028_ag2.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 2,
+    "train_counts": {
+      "benign": 71,
+      "fraud": 72,
+      "harassment": 67,
+      "cybercrime": 59
+    },
+    "sha256": "136f5a88eda05b68b19daa5f85e08124b06b3902ee12f29d1de7f1f5d604adf4"
+  },
+  {
+    "file": "local_a100.0_s2028_ag3.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 3,
+    "train_counts": {
+      "benign": 57,
+      "fraud": 63,
+      "harassment": 57,
+      "cybercrime": 63
+    },
+    "sha256": "6bc1b87dacdf497b0d6c785172db8f03d01ca50b3fc16770a2b5e1bf4052cc66"
+  },
+  {
+    "file": "local_a100.0_s2028_ag4.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 4,
+    "train_counts": {
+      "benign": 67,
+      "fraud": 55,
+      "harassment": 65,
+      "cybercrime": 52
+    },
+    "sha256": "9a88d8c850aabfc10aeff5f9bd8273f4731ee34a7bbe11ba3fd2dfee42d6e11e"
+  },
+  {
+    "file": "local_a100.0_s2028_ag5.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 5,
+    "train_counts": {
+      "benign": 46,
+      "fraud": 52,
+      "harassment": 51,
+      "cybercrime": 61
+    },
+    "sha256": "dc9e0fbdaa14f87470ff8cfb2ec3a1c20fe0c0ea6abcd422f9bc64b5213a4728"
+  },
+  {
+    "file": "local_a100.0_s2028_ag6.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 6,
+    "train_counts": {
+      "benign": 60,
+      "fraud": 60,
+      "harassment": 62,
+      "cybercrime": 73
+    },
+    "sha256": "df7ca354c39b78f017fb219f9f7ab0434bb1b5aa561025d6a7367bedc5d53ded"
+  },
+  {
+    "file": "local_a100.0_s2028_ag7.pt",
+    "kind": "local",
+    "alpha": 100.0,
+    "seed": 2028,
+    "agency": 7,
+    "train_counts": {
+      "benign": 73,
+      "fraud": 54,
+      "harassment": 47,
+      "cybercrime": 56
+    },
+    "sha256": "cff7adff882b6199f8bef4b37170de5d2fad308c81c8b2f83f09d615a2cfbe03"
+  }
+]

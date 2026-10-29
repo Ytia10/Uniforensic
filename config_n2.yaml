@@ -1,0 +1,48 @@
+# =====================================================================
+# UniForensic - N2: Privacy cost and faithfulness cost of shared explanations
+# N2 READS N1 (data/, models/, config.yaml) and N4 (models_n4/, data_n4/,
+# config_n4.yaml) and never changes them. All N2 outputs go to *_n2 folders.
+# =====================================================================
+
+paths:
+  data: data_n2
+  models: models_n2
+  results: results_n2
+  figures: figures_n2
+
+# Which N4 federated model is "the deployed model" (FedAvg at moderate skew).
+# N2 runs once per seed in N4's run_seeds.
+deployed: {method: fedavg, alpha: 0.5}
+explainer: integrated_gradients   # validated in N1 (Level 1); same as N4
+analysis_seed_index: 0            # Steps 6-8 use ONE of N4's seeds (0 = 2026) to keep run time
+                                  # reasonable; Step 5 uses all of them
+
+# ---------------- Step 3: adversary's own data ----------------------
+# The adversary does not get N1's cases. It generates its own synthetic cases
+# with the SAME public generator (split name 'shadow' = different random draws).
+shadow_pool:
+  n_per_class_tier: 400           # 4 classes x 3 tiers x 400 = 4,800 cases
+
+# ---------------- Steps 5-6: what agencies share and how ------------
+summary:
+  clip_quantile: 0.9              # per-case clipping bound C = this quantile of
+                                  # ||explanation||_2 on the adversary/public pool
+  delta: 1.0e-5                   # DP delta
+  epsilons: [0.5, 1, 2, 4, 8, .inf]   # .inf = no noise
+  schemes: [none, dp, secagg, secagg_dp]
+  noise_repeats: 20               # noise draws per setting (utility is averaged)
+
+# ---------------- Step 6: distinguishability game (Pyrgelis et al.) -
+game:
+  group_sizes: [5, 10, 25, 50, 100, 300]
+  targets: 40                     # target cases per group size
+  train_games: 200                # aggregates the attacker trains on, per target
+  test_games: 100                 # aggregates it is tested on, per target
+  rf_trees: 30                    # as in Pyrgelis et al. (NDSS 2018)
+
+# ---------------- Steps 7-8: per-case explanation attacks -----------
+case_mia:
+  shadows_per_recipe: 8           # shadow models per training recipe
+  candidates: 600                 # members and non-members sampled per target
+  overfit_control: {cases: 200, epochs: 300}   # positive control: memorises
+  tpr_at_fpr: 0.01                # report TPR at 1% false positives

@@ -1,0 +1,33 @@
+{
+  "ood_real_rate_test": 0.99,
+  "prediction_match": 0.9933333333333333,
+  "n_cases": 150,
+  "explainers": {
+    "kernelshap": {
+      "recall_before": 0.8888888888888887,
+      "recall_after": 0.678888888888889,
+      "innocent_feature_top1": 0.32
+    },
+    "lime": {
+      "recall_before": 0.8722222222222221,
+      "recall_after": 0.08444444444444443,
+      "innocent_feature_top1": 1.0
+    },
+    "integrated_gradients": {
+      "recall_before": 0.8722222222222221,
+      "recall_after": 0.6066666666666667,
+      "innocent_feature_top1": 0.8
+    },
+    "feature_ablation": {
+      "recall_before": 0.89,
+      "recall_after": 0.49222222222222217,
+      "innocent_feature_top1": 0.04666666666666667
+    }
+  },
+  "agreement_check": {
+    "flag_rate_clean_model": 0.1,
+    "flag_rate_scaffold": 0.17333333333333334,
+    "fooled_primary_explanations": 43,
+    "fooled_and_flagged": 0.2558139534883721
+  }
+}

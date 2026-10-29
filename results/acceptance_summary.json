@@ -1,0 +1,212 @@
+{
+  "settings": {
+    "method_min_recall": 0.7,
+    "method_ffid_beats_random": true,
+    "primary_explainer": "kernelshap",
+    "secondary_explainer": "integrated_gradients",
+    "case_min_agreement": 0.6,
+    "target_precision": 0.95,
+    "confidence_grid": [
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9,
+      0.95,
+      0.97,
+      0.99,
+      0.995,
+      0.999
+    ],
+    "good_explanation_recall": 0.66
+  },
+  "level1": {
+    "kernelshap": {
+      "recall_by_tier": {
+        "easy": 0.8888888888888887,
+        "mixed": 0.8888888888888887,
+        "subtle": 0.8780487804878049
+      },
+      "recall_ok_by_tier": {
+        "easy": true,
+        "mixed": true,
+        "subtle": true
+      },
+      "ffid_beats_random": true,
+      "validated": true
+    },
+    "integrated_gradients": {
+      "recall_by_tier": {
+        "easy": 0.8888888888888887,
+        "mixed": 0.8888888888888887,
+        "subtle": 0.8252032520325203
+      },
+      "recall_ok_by_tier": {
+        "easy": true,
+        "mixed": true,
+        "subtle": true
+      },
+      "ffid_beats_random": true,
+      "validated": true
+    },
+    "gradientshap": {
+      "recall_by_tier": {
+        "easy": 0.8888888888888887,
+        "mixed": 0.8866666666666667,
+        "subtle": 0.8699186991869918
+      },
+      "recall_ok_by_tier": {
+        "easy": true,
+        "mixed": true,
+        "subtle": true
+      },
+      "ffid_beats_random": true,
+      "validated": true
+    },
+    "lime": {
+      "recall_by_tier": {
+        "easy": 0.8888888888888887,
+        "mixed": 0.8888888888888887,
+        "subtle": 0.8170731707317073
+      },
+      "recall_ok_by_tier": {
+        "easy": true,
+        "mixed": true,
+        "subtle": true
+      },
+      "ffid_beats_random": true,
+      "validated": true
+    },
+    "feature_ablation": {
+      "recall_by_tier": {
+        "easy": 0.8888888888888887,
+        "mixed": 0.8866666666666667,
+        "subtle": 0.8861788617886179
+      },
+      "recall_ok_by_tier": {
+        "easy": true,
+        "mixed": true,
+        "subtle": true
+      },
+      "ffid_beats_random": true,
+      "validated": true
+    },
+    "random": {
+      "recall_by_tier": {
+        "easy": 0.111111111111111,
+        "mixed": 0.0977777777777777,
+        "subtle": 0.0934959349593495
+      },
+      "recall_ok_by_tier": {
+        "easy": false,
+        "mixed": false,
+        "subtle": false
+      },
+      "ffid_beats_random": false,
+      "validated": false
+    }
+  },
+  "calibration_val": [
+    {
+      "tau": 0.5,
+      "validated_rate": 0.8933333333333333,
+      "precision": 0.8830845771144279
+    },
+    {
+      "tau": 0.6,
+      "validated_rate": 0.88,
+      "precision": 0.8964646464646465
+    },
+    {
+      "tau": 0.7,
+      "validated_rate": 0.8622222222222222,
+      "precision": 0.9020618556701031
+    },
+    {
+      "tau": 0.8,
+      "validated_rate": 0.8155555555555556,
+      "precision": 0.9182561307901907
+    },
+    {
+      "tau": 0.9,
+      "validated_rate": 0.78,
+      "precision": 0.9344729344729344
+    },
+    {
+      "tau": 0.95,
+      "validated_rate": 0.7355555555555555,
+      "precision": 0.9577039274924471
+    },
+    {
+      "tau": 0.97,
+      "validated_rate": 0.7222222222222222,
+      "precision": 0.963076923076923
+    },
+    {
+      "tau": 0.99,
+      "validated_rate": 0.6844444444444444,
+      "precision": 0.9772727272727273
+    },
+    {
+      "tau": 0.995,
+      "validated_rate": 0.6644444444444444,
+      "precision": 0.9933110367892977
+    },
+    {
+      "tau": 0.999,
+      "validated_rate": 0.6044444444444445,
+      "precision": 1.0
+    }
+  ],
+  "tau": 0.95,
+  "level2_test": {
+    "all offence cases": {
+      "n": 450,
+      "share_good": 0.8777777777777778,
+      "validated_rate": 0.7311111111111112,
+      "precision_of_validated": 0.9635258358662614,
+      "bad_caught_rate": 0.7818181818181819,
+      "good_rejected_rate": 0.19746835443037974
+    },
+    "oracle-passed": {
+      "n": 423,
+      "share_good": 0.9290780141843972,
+      "validated_rate": 0.7706855791962175,
+      "precision_of_validated": 0.9693251533742331,
+      "bad_caught_rate": 0.6666666666666666,
+      "good_rejected_rate": 0.19592875318066158
+    },
+    "oracle-failed": {
+      "n": 27,
+      "share_good": 0.07407407407407407,
+      "validated_rate": 0.1111111111111111,
+      "precision_of_validated": 0.3333333333333333,
+      "bad_caught_rate": 0.92,
+      "good_rejected_rate": 0.5
+    },
+    "tier=easy": {
+      "n": 150,
+      "share_good": 1.0,
+      "validated_rate": 1.0,
+      "precision_of_validated": 1.0,
+      "bad_caught_rate": null,
+      "good_rejected_rate": 0.0
+    },
+    "tier=mixed": {
+      "n": 150,
+      "share_good": 1.0,
+      "validated_rate": 1.0,
+      "precision_of_validated": 1.0,
+      "bad_caught_rate": null,
+      "good_rejected_rate": 0.0
+    },
+    "tier=subtle": {
+      "n": 150,
+      "share_good": 0.6333333333333333,
+      "validated_rate": 0.19333333333333333,
+      "precision_of_validated": 0.5862068965517241,
+      "bad_caught_rate": 0.7818181818181819,
+      "good_rejected_rate": 0.8210526315789474
+    }
+  }
+}

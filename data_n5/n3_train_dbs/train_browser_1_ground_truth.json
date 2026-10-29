@@ -1,0 +1,374 @@
+{
+  "db_name": "train_browser_1",
+  "schema_type": "browser",
+  "table_name": "browser_history",
+  "columns": [
+    "id",
+    "url",
+    "title",
+    "visit_time",
+    "visit_count"
+  ],
+  "pragmas": {
+    "secure_delete": 0,
+    "auto_vacuum": 0,
+    "journal_mode": "DELETE"
+  },
+  "num_inserted": 50,
+  "num_deleted": 20,
+  "num_active": 30,
+  "active_rows": [
+    {
+      "id": 4,
+      "url": "https://search.engine.com/view?id=250",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700002400,
+      "visit_count": 5
+    },
+    {
+      "id": 6,
+      "url": "https://darkweb-forum.onion/view?id=162",
+      "title": "User Profile and Settings",
+      "visit_time": 1700003600,
+      "visit_count": 13
+    },
+    {
+      "id": 7,
+      "url": "https://social-feed.com/view?id=363",
+      "title": "Offshore Wire Transfer Services",
+      "visit_time": 1700004200,
+      "visit_count": 21
+    },
+    {
+      "id": 8,
+      "url": "https://social-feed.com/view?id=275",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700004800,
+      "visit_count": 20
+    },
+    {
+      "id": 10,
+      "url": "https://social-feed.com/view?id=349",
+      "title": "Cryptocurrency Transaction Receipt",
+      "visit_time": 1700006000,
+      "visit_count": 12
+    },
+    {
+      "id": 13,
+      "url": "https://cloud-storage.com/view?id=267",
+      "title": "Cryptocurrency Transaction Receipt",
+      "visit_time": 1700007800,
+      "visit_count": 36
+    },
+    {
+      "id": 14,
+      "url": "https://banking-portal.net/view?id=450",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700008400,
+      "visit_count": 23
+    },
+    {
+      "id": 15,
+      "url": "https://social-feed.com/view?id=654",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700009000,
+      "visit_count": 7
+    },
+    {
+      "id": 16,
+      "url": "https://search.engine.com/view?id=839",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700009600,
+      "visit_count": 30
+    },
+    {
+      "id": 19,
+      "url": "https://mail.internal.org/view?id=981",
+      "title": "Encrypted Messaging Web Client",
+      "visit_time": 1700011400,
+      "visit_count": 12
+    },
+    {
+      "id": 20,
+      "url": "https://search.engine.com/view?id=650",
+      "title": "Offshore Wire Transfer Services",
+      "visit_time": 1700012000,
+      "visit_count": 3
+    },
+    {
+      "id": 21,
+      "url": "https://mail.internal.org/view?id=573",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700012600,
+      "visit_count": 14
+    },
+    {
+      "id": 22,
+      "url": "https://social-feed.com/view?id=552",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700013200,
+      "visit_count": 4
+    },
+    {
+      "id": 24,
+      "url": "https://cloud-storage.com/view?id=815",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700014400,
+      "visit_count": 8
+    },
+    {
+      "id": 25,
+      "url": "https://search.engine.com/view?id=583",
+      "title": "Encrypted Messaging Web Client",
+      "visit_time": 1700015000,
+      "visit_count": 36
+    },
+    {
+      "id": 26,
+      "url": "https://darkweb-forum.onion/view?id=527",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700015600,
+      "visit_count": 36
+    },
+    {
+      "id": 27,
+      "url": "https://banking-portal.net/view?id=647",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700016200,
+      "visit_count": 28
+    },
+    {
+      "id": 31,
+      "url": "https://social-feed.com/view?id=903",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700018600,
+      "visit_count": 17
+    },
+    {
+      "id": 32,
+      "url": "https://search.engine.com/view?id=303",
+      "title": "User Profile and Settings",
+      "visit_time": 1700019200,
+      "visit_count": 32
+    },
+    {
+      "id": 34,
+      "url": "https://social-feed.com/view?id=349",
+      "title": "Encrypted Messaging Web Client",
+      "visit_time": 1700020400,
+      "visit_count": 6
+    },
+    {
+      "id": 35,
+      "url": "https://cloud-storage.com/view?id=726",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700021000,
+      "visit_count": 20
+    },
+    {
+      "id": 37,
+      "url": "https://darkweb-forum.onion/view?id=175",
+      "title": "User Profile and Settings",
+      "visit_time": 1700022200,
+      "visit_count": 42
+    },
+    {
+      "id": 39,
+      "url": "https://mail.internal.org/view?id=499",
+      "title": "Cryptocurrency Transaction Receipt",
+      "visit_time": 1700023400,
+      "visit_count": 35
+    },
+    {
+      "id": 41,
+      "url": "https://mail.internal.org/view?id=975",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700024600,
+      "visit_count": 16
+    },
+    {
+      "id": 42,
+      "url": "https://social-feed.com/view?id=918",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700025200,
+      "visit_count": 6
+    },
+    {
+      "id": 43,
+      "url": "https://darkweb-forum.onion/view?id=304",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700025800,
+      "visit_count": 4
+    },
+    {
+      "id": 44,
+      "url": "https://banking-portal.net/view?id=618",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700026400,
+      "visit_count": 15
+    },
+    {
+      "id": 46,
+      "url": "https://mail.internal.org/view?id=826",
+      "title": "Offshore Wire Transfer Services",
+      "visit_time": 1700027600,
+      "visit_count": 1
+    },
+    {
+      "id": 48,
+      "url": "https://search.engine.com/view?id=504",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700028800,
+      "visit_count": 36
+    },
+    {
+      "id": 49,
+      "url": "https://search.engine.com/view?id=133",
+      "title": "Offshore Wire Transfer Services",
+      "visit_time": 1700029400,
+      "visit_count": 4
+    }
+  ],
+  "deleted_rows": [
+    {
+      "id": 1,
+      "url": "https://search.engine.com/view?id=992",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700000600,
+      "visit_count": 15
+    },
+    {
+      "id": 2,
+      "url": "https://banking-portal.net/view?id=438",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700001200,
+      "visit_count": 9
+    },
+    {
+      "id": 3,
+      "url": "https://cloud-storage.com/view?id=937",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700001800,
+      "visit_count": 11
+    },
+    {
+      "id": 5,
+      "url": "https://darkweb-forum.onion/view?id=871",
+      "title": "Cryptocurrency Transaction Receipt",
+      "visit_time": 1700003000,
+      "visit_count": 24
+    },
+    {
+      "id": 9,
+      "url": "https://banking-portal.net/view?id=141",
+      "title": "Offshore Wire Transfer Services",
+      "visit_time": 1700005400,
+      "visit_count": 29
+    },
+    {
+      "id": 11,
+      "url": "https://cloud-storage.com/view?id=682",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700006600,
+      "visit_count": 7
+    },
+    {
+      "id": 12,
+      "url": "https://search.engine.com/view?id=712",
+      "title": "User Profile and Settings",
+      "visit_time": 1700007200,
+      "visit_count": 8
+    },
+    {
+      "id": 17,
+      "url": "https://cloud-storage.com/view?id=908",
+      "title": "Encrypted Messaging Web Client",
+      "visit_time": 1700010200,
+      "visit_count": 31
+    },
+    {
+      "id": 18,
+      "url": "https://darkweb-forum.onion/view?id=235",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700010800,
+      "visit_count": 10
+    },
+    {
+      "id": 23,
+      "url": "https://mail.internal.org/view?id=173",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700013800,
+      "visit_count": 9
+    },
+    {
+      "id": 28,
+      "url": "https://crypto-exchange.io/view?id=126",
+      "title": "User Profile and Settings",
+      "visit_time": 1700016800,
+      "visit_count": 45
+    },
+    {
+      "id": 29,
+      "url": "https://search.engine.com/view?id=978",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700017400,
+      "visit_count": 32
+    },
+    {
+      "id": 30,
+      "url": "https://social-feed.com/view?id=746",
+      "title": "Encrypted Messaging Web Client",
+      "visit_time": 1700018000,
+      "visit_count": 2
+    },
+    {
+      "id": 33,
+      "url": "https://banking-portal.net/view?id=227",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700019800,
+      "visit_count": 13
+    },
+    {
+      "id": 36,
+      "url": "https://search.engine.com/view?id=678",
+      "title": "User Profile and Settings",
+      "visit_time": 1700021600,
+      "visit_count": 11
+    },
+    {
+      "id": 38,
+      "url": "https://search.engine.com/view?id=527",
+      "title": "News - Tech Forensics Update",
+      "visit_time": 1700022800,
+      "visit_count": 14
+    },
+    {
+      "id": 40,
+      "url": "https://mail.internal.org/view?id=344",
+      "title": "Secure Account Login - Dashboard",
+      "visit_time": 1700024000,
+      "visit_count": 12
+    },
+    {
+      "id": 45,
+      "url": "https://social-feed.com/view?id=643",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700027000,
+      "visit_count": 31
+    },
+    {
+      "id": 47,
+      "url": "https://search.engine.com/view?id=987",
+      "title": "Cryptocurrency Transaction Receipt",
+      "visit_time": 1700028200,
+      "visit_count": 37
+    },
+    {
+      "id": 50,
+      "url": "https://banking-portal.net/view?id=899",
+      "title": "Private File Repository - Confidential",
+      "visit_time": 1700030000,
+      "visit_count": 25
+    }
+  ]
+}

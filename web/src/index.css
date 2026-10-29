@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+/*
+  UniForensic Workbench design tokens.
+  Visual language: live data is solid graphite, deleted data is a dashed outline,
+  data recovered from deleted space is hatched plum (the way forensic tools shade
+  unallocated space). Everything else stays quiet so that distinction carries.
+  Tailwind's default palette is switched off: only these colours exist.
+*/
+@theme {
+  --color-*: initial;
+  --color-bench: #eef1f0;      /* app background */
+  --color-sheet: #ffffff;      /* working surfaces */
+  --color-well: #f5f7f6;       /* insets inside a sheet */
+  --color-ink: #17201d;        /* text */
+  --color-ink-2: #45514c;      /* secondary text */
+  --color-ink-3: #5f6b66;      /* tertiary text, still >= 4.5:1 on white */
+  --color-ink-4: #9aa5a0;      /* disabled and decorative only */
+  --color-rule: #d3dad7;
+  --color-rule-2: #e5eae8;
+  --color-live: #3f4b47;
+  --color-rec: #7a2e6e;        /* recovered from deleted space */
+  --color-rec-tint: #f5eaf2;
+  --color-good: #2b6a49;
+  --color-good-tint: #e6f0ea;
+  --color-warn: #835500;
+  --color-warn-tint: #f7edd8;
+  --color-bad: #a3352b;
+  --color-bad-tint: #f7e4e1;
+  --color-white: #ffffff;
+  --color-transparent: transparent;
+
+  --font-sans: "Source Sans 3 Variable", "Segoe UI", system-ui, sans-serif;
+  --font-display: "Barlow Semi Condensed", "Bahnschrift", "Arial Narrow", sans-serif;
+  --font-mono: "Source Code Pro", Consolas, "Courier New", monospace;
+
+  --radius-xs: 2px;
+  --radius-sm: 3px;
+  --radius-md: 4px;
+}
+
+html, body, #root { height: 100%; }
+body {
+  background: var(--color-bench);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.5;
+  font-kerning: normal;
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2, h3 { font-family: var(--font-display); letter-spacing: 0; }
+.num { font-variant-numeric: tabular-nums lining-nums; }
+a { color: inherit; text-decoration: underline; text-decoration-color: var(--color-ink-4); text-underline-offset: 2px; }
+a:hover { text-decoration-color: var(--color-ink); }
+
+:focus-visible { outline: 2px solid var(--color-ink); outline-offset: 2px; }
+::selection { background: var(--color-rec-tint); }
+
+/* Hatching = recovered from deleted space. Same geometry as the SVG pattern in App.tsx. */
+.hatch-rec {
+  background-color: var(--color-rec-tint);
+  background-image: repeating-linear-gradient(135deg, var(--color-rec) 0 2px, transparent 2px 6px);
+}
+.outline-deleted { border: 1.5px dashed var(--color-ink-3); background: transparent; }
+.solid-live { background: var(--color-live); }
+
+@keyframes uf-spin { to { transform: rotate(360deg); } }
+.spin { animation: uf-spin 0.9s linear infinite; }
+@media (prefers-reduced-motion: reduce) { .spin { animation: none; } }
+
+/* Printable report: hide the app chrome, keep the report. */
+@media print {
+  .no-print { display: none !important; }
+  body { background: white; font-size: 11pt; }
+  .print-area { border: none !important; padding: 0 !important; }
+  @page { margin: 16mm; }
+}

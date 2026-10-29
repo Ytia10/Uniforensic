@@ -1,0 +1,34 @@
+{
+  "mlp": {
+    "macro_f1": 0.9246594773581528,
+    "per_class_f1": {
+      "benign": 0.8581,
+      "fraud": 0.947,
+      "harassment": 0.9735,
+      "cybercrime": 0.92
+    },
+    "accuracy_by_tier": {
+      "easy": 0.985,
+      "mixed": 0.95,
+      "subtle": 0.84
+    }
+  },
+  "xgb": {
+    "macro_f1": 0.9413019252069038,
+    "per_class_f1": {
+      "benign": 0.8844,
+      "fraud": 0.947,
+      "harassment": 0.9699,
+      "cybercrime": 0.9639
+    },
+    "accuracy_by_tier": {
+      "easy": 0.975,
+      "mixed": 0.95,
+      "subtle": 0.9
+    }
+  },
+  "model_hashes": {
+    "mlp.pt": "4fc9dc3e1fff15e729fd9b0a2278d45aaad63e2ff9c97281c5038a5080797f1d",
+    "xgb.json": "6887ad79526097ee0ecb08f9052123dab73c14793b01cb70b35bdc16f91bbd89"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "db_name": "train_calls_1",
+  "schema_type": "calls",
+  "table_name": "calls",
+  "columns": [
+    "id",
+    "phone_number",
+    "duration_sec",
+    "timestamp",
+    "call_type"
+  ],
+  "pragmas": {
+    "secure_delete": 0,
+    "auto_vacuum": 0,
+    "journal_mode": "DELETE"
+  },
+  "num_inserted": 50,
+  "num_deleted": 20,
+  "num_active": 30,
+  "active_rows": [
+    {
+      "id": 1,
+      "phone_number": "2FA-Service",
+      "duration_sec": 1873,
+      "timestamp": 1700001920,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 3,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 1389,
+      "timestamp": 1700005470,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 5,
+      "phone_number": "+1-555-0199",
+      "duration_sec": 927,
+      "timestamp": 1700009064,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 8,
+      "phone_number": "SupportDesk",
+      "duration_sec": 2697,
+      "timestamp": 1700014537,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 10,
+      "phone_number": "SupportDesk",
+      "duration_sec": 1032,
+      "timestamp": 1700018154,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 13,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 3416,
+      "timestamp": 1700023484,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 14,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 2105,
+      "timestamp": 1700025339,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 15,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 1430,
+      "timestamp": 1700027059,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 17,
+      "phone_number": "2FA-Service",
+      "duration_sec": 1575,
+      "timestamp": 1700030759,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 20,
+      "phone_number": "2FA-Service",
+      "duration_sec": 269,
+      "timestamp": 1700036100,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 22,
+      "phone_number": "SupportDesk",
+      "duration_sec": 46,
+      "timestamp": 1700039888,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 24,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 636,
+      "timestamp": 1700043253,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 27,
+      "phone_number": "+1-555-0188",
+      "duration_sec": 1130,
+      "timestamp": 1700048728,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 28,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 1272,
+      "timestamp": 1700050613,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 29,
+      "phone_number": "+1-555-0142",
+      "duration_sec": 1101,
+      "timestamp": 1700052396,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 33,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 3382,
+      "timestamp": 1700059558,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 35,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 1037,
+      "timestamp": 1700063146,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 36,
+      "phone_number": "+1-555-0123",
+      "duration_sec": 3317,
+      "timestamp": 1700065041,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 37,
+      "phone_number": "SupportDesk",
+      "duration_sec": 3259,
+      "timestamp": 1700066825,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 38,
+      "phone_number": "+1-555-0142",
+      "duration_sec": 1882,
+      "timestamp": 1700068637,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 39,
+      "phone_number": "+1-555-0199",
+      "duration_sec": 2002,
+      "timestamp": 1700070219,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 40,
+      "phone_number": "+1-555-0142",
+      "duration_sec": 995,
+      "timestamp": 1700072246,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 41,
+      "phone_number": "SupportDesk",
+      "duration_sec": 485,
+      "timestamp": 1700073943,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 42,
+      "phone_number": "2FA-Service",
+      "duration_sec": 2447,
+      "timestamp": 1700075891,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 44,
+      "phone_number": "BankNotify",
+      "duration_sec": 1442,
+      "timestamp": 1700079234,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 45,
+      "phone_number": "2FA-Service",
+      "duration_sec": 1013,
+      "timestamp": 1700081139,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 47,
+      "phone_number": "BankNotify",
+      "duration_sec": 3188,
+      "timestamp": 1700084854,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 48,
+      "phone_number": "+1-555-0142",
+      "duration_sec": 1689,
+      "timestamp": 1700086673,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 49,
+      "phone_number": "2FA-Service",
+      "duration_sec": 2423,
+      "timestamp": 1700088328,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 50,
+      "phone_number": "+1-555-0199",
+      "duration_sec": 1462,
+      "timestamp": 1700090157,
+      "call_type": "MISSED"
+    }
+  ],
+  "deleted_rows": [
+    {
+      "id": 2,
+      "phone_number": "BankNotify",
+      "duration_sec": 3032,
+      "timestamp": 1700003672,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 4,
+      "phone_number": "+1-555-0199",
+      "duration_sec": 546,
+      "timestamp": 1700007323,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 6,
+      "phone_number": "BankNotify",
+      "duration_sec": 2148,
+      "timestamp": 1700010960,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 7,
+      "phone_number": "2FA-Service",
+      "duration_sec": 1682,
+      "timestamp": 1700012822,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 9,
+      "phone_number": "+1-555-0188",
+      "duration_sec": 834,
+      "timestamp": 1700016321,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 11,
+      "phone_number": "SupportDesk",
+      "duration_sec": 2168,
+      "timestamp": 1700020045,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 12,
+      "phone_number": "2FA-Service",
+      "duration_sec": 2149,
+      "timestamp": 1700021761,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 16,
+      "phone_number": "+1-555-0188",
+      "duration_sec": 1992,
+      "timestamp": 1700028873,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 18,
+      "phone_number": "BankNotify",
+      "duration_sec": 1960,
+      "timestamp": 1700032611,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 19,
+      "phone_number": "SupportDesk",
+      "duration_sec": 2991,
+      "timestamp": 1700034437,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 21,
+      "phone_number": "SupportDesk",
+      "duration_sec": 187,
+      "timestamp": 1700037976,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 23,
+      "phone_number": "BankNotify",
+      "duration_sec": 978,
+      "timestamp": 1700041522,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 25,
+      "phone_number": "+1-555-0199",
+      "duration_sec": 1960,
+      "timestamp": 1700045242,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 26,
+      "phone_number": "+1-555-0199",
+      "duration_sec": 2275,
+      "timestamp": 1700046884,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 30,
+      "phone_number": "2FA-Service",
+      "duration_sec": 2521,
+      "timestamp": 1700054259,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 31,
+      "phone_number": "+1-555-0142",
+      "duration_sec": 1366,
+      "timestamp": 1700055844,
+      "call_type": "INCOMING"
+    },
+    {
+      "id": 32,
+      "phone_number": "BankNotify",
+      "duration_sec": 1577,
+      "timestamp": 1700057693,
+      "call_type": "REJECTED"
+    },
+    {
+      "id": 34,
+      "phone_number": "BankNotify",
+      "duration_sec": 2972,
+      "timestamp": 1700061486,
+      "call_type": "MISSED"
+    },
+    {
+      "id": 43,
+      "phone_number": "BankNotify",
+      "duration_sec": 219,
+      "timestamp": 1700077480,
+      "call_type": "OUTGOING"
+    },
+    {
+      "id": 46,
+      "phone_number": "SupportDesk",
+      "duration_sec": 375,
+      "timestamp": 1700082960,
+      "call_type": "REJECTED"
+    }
+  ]
+}

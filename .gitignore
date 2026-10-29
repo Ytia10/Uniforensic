@@ -1,0 +1,38 @@
+# ---------------------------------------------------------------
+# UniForensic - files Git must NOT store
+# ---------------------------------------------------------------
+
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Frontend: packages are re-installed by "npm ci"; the built page web/dist IS committed
+web/node_modules/
+web/*.tsbuildinfo
+web/.vite/
+
+# The app's own working folder (live runs, uploads, test screenshots); re-created on start
+app_data/
+
+# Alternative N3: 457 MB of generated databases + copies of third-party corpora
+data_n3/
+
+# Delivery copies and documents (the repository is the source now)
+*.zip
+*.pdf
+*.docx
+
+# Secrets, editors, operating system
+.env
+*.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

@@ -1,0 +1,35 @@
+{
+  "features": [
+    "rec_sms_scam_kw_out",
+    "rec_txn_in_new_counterparty",
+    "rec_sms_max_recipients_1h",
+    "rec_sms_abusive_kw_out",
+    "rec_call_max_short_out_single_number",
+    "rec_call_out_night_unanswered",
+    "rec_web_hacktool_visits",
+    "rec_login_failed_distinct_accounts",
+    "rec_login_distinct_ip_countries"
+  ],
+  "mean": [
+    0.18734392634046942,
+    0.1950811465976689,
+    0.17014786575390092,
+    0.18317905639091,
+    0.26969071113007004,
+    0.16322198052336193,
+    0.17331074658979698,
+    0.21144369654651943,
+    0.12204373411918087
+  ],
+  "scale": [
+    0.47921567100157586,
+    0.5097384390825136,
+    0.46057911946998853,
+    0.48642623629229637,
+    0.62487137150861,
+    0.4852705075365721,
+    0.4714763360017342,
+    0.5800266646157328,
+    0.3977531375331101
+  ]
+}

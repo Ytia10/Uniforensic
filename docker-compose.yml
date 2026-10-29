@@ -1,0 +1,12 @@
+# Start:   docker compose up --build        then open http://localhost:8000
+# Stop:    Ctrl+C, then  docker compose down
+# Self-test inside the container:   docker compose run --rm workbench python app_selftest.py
+services:
+  workbench:
+    build: .
+    image: uniforensic-workbench:1.0.0
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/work          # this folder (code + your N1-N5 outputs); the app writes only app_data/
+    working_dir: /work

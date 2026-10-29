@@ -1,0 +1,25 @@
+{
+  "python": "3.12.5",
+  "platform": "Windows AMD64",
+  "libraries": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "torch": "2.14.1+cpu",
+    "captum": "0.9.0",
+    "shap": "0.54.1",
+    "xgboost": "3.4.1",
+    "matplotlib": "3.11.2"
+  },
+  "config_sha256": "cdebcc042367921bd0c1428f1cf5e18d1576775da4d98cce01beb50066991e8e",
+  "files_sha256": {
+    "models\\mlp.pt": "4fc9dc3e1fff15e729fd9b0a2278d45aaad63e2ff9c97281c5038a5080797f1d",
+    "models\\mlp_ffid_surrogate.pt": "cfdd3f84cf80763d8d8db42718aa74c416ae906e8151ba30fadc537a250d935b",
+    "models\\scaler.json": "ddfb4313d6489a33996e91339f9e1f2778af1f24b2c0f6a6622dbca960647b46",
+    "models\\xgb.json": "6887ad79526097ee0ecb08f9052123dab73c14793b01cb70b35bdc16f91bbd89",
+    "data\\test_answer_key.json": "8d9163db25ac3ad407cd1ebfb28c009c8fa8b4c06c0edfe1129c6b97426ebd99",
+    "data\\train_answer_key.json": "2e5374d3e2c4c4488023e23cca5e34983836ceff65d361871429aa27b8853ed2",
+    "data\\val_answer_key.json": "ca93402283e7d0f855bfe1108abb2541546754adedc918392fd0a8594a0cf0e8"
+  }
+}

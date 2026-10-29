@@ -1,0 +1,88 @@
+{
+  "numpy_seed": 2026,
+  "identical": true,
+  "ours": {
+    "platt_a": -2.946387963364372,
+    "platt_b": -2.8504130944769246,
+    "weights": [
+      0.39119166515120257,
+      0.16583379784657037,
+      2.348966267573534,
+      0.13367541635283556,
+      0.582331200199431,
+      0.5428062461714352,
+      0.4027192384604373,
+      0.06895195852564474
+    ]
+  },
+  "teammate_run_pipeline": {
+    "platt_a": -2.946387963364372,
+    "platt_b": -2.8504130944769246,
+    "weights": [
+      0.39119166515120257,
+      0.16583379784657037,
+      2.348966267573534,
+      0.13367541635283556,
+      0.582331200199431,
+      0.5428062461714352,
+      0.4027192384604373,
+      0.06895195852564474
+    ],
+    "ece_in_sample": 0.02364573781689193
+  },
+  "teammate_benchmark_summary": {
+    "regex": {
+      "recall": 0.06666666666666667,
+      "precision": 0.017777777777777778,
+      "f1": 0.028070175438596492,
+      "fp_live": 66,
+      "fp_spurious": 155,
+      "recovered_tp": 4,
+      "total_deleted": 60
+    },
+    "spec_only": {
+      "recall": 0.5,
+      "precision": 0.17045454545454544,
+      "f1": 0.2542372881355932,
+      "fp_live": 24,
+      "fp_spurious": 122,
+      "recovered_tp": 30,
+      "total_deleted": 60
+    },
+    "n3": {
+      "recall": 0.48333333333333334,
+      "precision": 0.8055555555555556,
+      "f1": 0.6041666666666667,
+      "fp_live": 0,
+      "fp_spurious": 7,
+      "recovered_tp": 29,
+      "total_deleted": 60
+    }
+  },
+  "teammate_pragma_sensitivity": {
+    "secure_delete=OFF (Default)": {
+      "recall": 0.35,
+      "precision": 1.0,
+      "recovered_tp": 7,
+      "total_deleted": 20
+    },
+    "secure_delete=FAST": {
+      "recall": 0.0,
+      "precision": 0.0,
+      "recovered_tp": 0,
+      "total_deleted": 20
+    },
+    "secure_delete=ON": {
+      "recall": 0.0,
+      "precision": 0.0,
+      "recovered_tp": 0,
+      "total_deleted": 20
+    },
+    "journal_mode=WAL": {
+      "recall": 0.25,
+      "precision": 1.0,
+      "recovered_tp": 5,
+      "total_deleted": 20
+    }
+  }
+}

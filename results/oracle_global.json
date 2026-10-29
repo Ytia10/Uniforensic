@@ -1,0 +1,19 @@
+{
+  "all_features": 0.9246594773581528,
+  "proxy_features": [
+    "sms_out_total",
+    "sms_unique_contacts",
+    "call_out_total",
+    "call_mean_duration",
+    "web_total_visits",
+    "web_social_share",
+    "web_distinct_domains",
+    "login_total",
+    "login_failed_total",
+    "txn_in_count",
+    "night_activity_share"
+  ],
+  "without_decisive": 0.828074191134013,
+  "without_decisive_and_proxies": 0.21729852469653133,
+  "only_decisive": 0.9263695224415038
+}

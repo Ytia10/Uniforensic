@@ -1,0 +1,43 @@
+{
+  "python": "3.12.5",
+  "platform": "Windows AMD64",
+  "libraries": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "torch": "2.14.1+cpu",
+    "captum": "0.9.0",
+    "flwr": "1.40.0"
+  },
+  "config_n2_sha256": "4088916fd98fdff74fee5b831c80f3ced544df27d6ef1c4a0e155f78fa622edc",
+  "config_n4_sha256": "f102a0104276073b3407c347836d196ce7b9b4e6cf01827f5084c3bb559627fb",
+  "config_n1_sha256": "cdebcc042367921bd0c1428f1cf5e18d1576775da4d98cce01beb50066991e8e",
+  "models": {
+    "shadow_standard_0.pt": "bf28bcbd37a7730cceb289000195343bd0f50650a6984a7ab235e7fb2e8bc984",
+    "shadow_standard_1.pt": "1d524ae0e6bc63da9b47eee7f522eaa8a83fedf56577d4b4f37079edeceb5b64",
+    "shadow_standard_2.pt": "e348fd3539aa5d23a64550e2c244303a63e426ec1ce789ace7d0a4d80e44b30a",
+    "shadow_standard_3.pt": "1d75a36746fad9e78960b605edf4993a3c9554633477bd138ab711e4a529f724",
+    "shadow_standard_4.pt": "708703d20722a055909822e6dfca05f0fed07fccf3e4ed422bdc8805d64f2492",
+    "shadow_standard_5.pt": "00076102ee88f73bbc374f5e63a35e07b97ebc52894e14db05e1d9fe5f10ee8e",
+    "shadow_standard_6.pt": "5af738d3dfaff7bdd2ce67acba21982514a57477a0efda57f66db1e562758533",
+    "shadow_standard_7.pt": "8a1abefbd91b8f74da0d4bcbdb237133275e1c65fe00fd9219f766d0405ad398",
+    "shadow_small_0.pt": "eba9a3b25905e9d75a7de59079a52c88cd207d11288b6d2e05a4e8ab2e59cb98",
+    "shadow_small_1.pt": "0953e5d0b1b806823129a4ed6977f89356409490980f520e28264754eaa84850",
+    "shadow_small_2.pt": "aa546bf149ffef0a3924880538921ea12c5375f536e6a9cb988c37c1abcf8dd2",
+    "shadow_small_3.pt": "9b8bebd2b5bb5316b4f38a148bdb8ec49ac6fed681b81b62fc304bfd055850e0",
+    "shadow_small_4.pt": "612ed8daacb1de446514aaab70ee410e250cdaf4ce8803eb36f5395b5f2de568",
+    "shadow_small_5.pt": "257a402e12e22ba13b1501c732968a395dde581df6743c018af3792946a0fa16",
+    "shadow_small_6.pt": "530650955abfa09cc670ba11b52b7b84079afcc1d3b1c0426db90076a4db0dfd",
+    "shadow_small_7.pt": "1253070ac7d297e6bace2690e78f383d62546fe1ce20204e545e2d228d8053c7",
+    "shadow_overfit_0.pt": "681d4840dd8d412ca27faa7abbc90bf8c665a8483c3fe9310c3bd008e4adb588",
+    "shadow_overfit_1.pt": "a4319a7e98c1f77fb1a10071a74e1bff034be9eb124e6751d7b0c7f4dbaefa2f",
+    "shadow_overfit_2.pt": "3d8a51a928dcd9a0a89b2e66e7f54040d4338518741245032c9b075c6e37890d",
+    "shadow_overfit_3.pt": "84755424a02c905885af65fd1e08b1dd59e26ecfe8340f2e7f922e5d16453d86",
+    "shadow_overfit_4.pt": "c51f94a5babfc12f9d8a8a900b7170b550527673a4eca2fed262f845ecddeb35",
+    "shadow_overfit_5.pt": "a02541432c408cb9724a34c03b678d20edb52657bfc9dcc4c41fbcea004d626d",
+    "shadow_overfit_6.pt": "f958504a07b6debfb082e54a0dc591e00f678dda7eacbc55e25145ef67225438",
+    "shadow_overfit_7.pt": "fff29b6a31a652aac1080a50e28c6f3486c0ef3dcb631764ca04b8d76af1495b",
+    "overfit_control.pt": "e462ba37d8fbb612f1208bec0e4956b34c35454d7040aae13b514d2e2ced26e9"
+  }
+}

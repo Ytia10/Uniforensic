@@ -1,0 +1,505 @@
+{
+  "db_name": "train_sms_2",
+  "schema_type": "sms",
+  "table_name": "messages",
+  "columns": [
+    "id",
+    "sender",
+    "recipient",
+    "body",
+    "timestamp",
+    "status"
+  ],
+  "pragmas": {
+    "secure_delete": 0,
+    "auto_vacuum": 0,
+    "journal_mode": "DELETE"
+  },
+  "num_inserted": 60,
+  "num_deleted": 25,
+  "num_active": 35,
+  "active_rows": [
+    {
+      "id": 3,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0101",
+      "body": "Payment of $32886 received for invoice #89864.",
+      "timestamp": 1700010923,
+      "status": 2
+    },
+    {
+      "id": 4,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0102",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700014445,
+      "status": 0
+    },
+    {
+      "id": 5,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0101",
+      "body": "Can you send the secret project documents to my private email?",
+      "timestamp": 1700018228,
+      "status": 2
+    },
+    {
+      "id": 8,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0104",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700028935,
+      "status": 2
+    },
+    {
+      "id": 9,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0102",
+      "body": "Can you send the secret project documents to my private email?",
+      "timestamp": 1700032652,
+      "status": 0
+    },
+    {
+      "id": 10,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0101",
+      "body": "Meeting confirmed for 7:15 PM. Location: Downtown office.",
+      "timestamp": 1700036171,
+      "status": 1
+    },
+    {
+      "id": 11,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0102",
+      "body": "Wire transfer initiated for account ending in 77584.",
+      "timestamp": 1700039855,
+      "status": 2
+    },
+    {
+      "id": 13,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0102",
+      "body": "Your verification code is 64748. Do not share.",
+      "timestamp": 1700047037,
+      "status": 1
+    },
+    {
+      "id": 17,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0104",
+      "body": "Wire transfer initiated for account ending in 30814.",
+      "timestamp": 1700061267,
+      "status": 0
+    },
+    {
+      "id": 18,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0102",
+      "body": "Payment of $43905 received for invoice #17916.",
+      "timestamp": 1700064882,
+      "status": 0
+    },
+    {
+      "id": 20,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0102",
+      "body": "Your verification code is 44183. Do not share.",
+      "timestamp": 1700072087,
+      "status": 1
+    },
+    {
+      "id": 21,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0101",
+      "body": "Hey, are we still meeting at 4:45 PM tomorrow?",
+      "timestamp": 1700075741,
+      "status": 2
+    },
+    {
+      "id": 22,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0102",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700079304,
+      "status": 1
+    },
+    {
+      "id": 23,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0101",
+      "body": "Hey, are we still meeting at 11:15 PM tomorrow?",
+      "timestamp": 1700082844,
+      "status": 2
+    },
+    {
+      "id": 24,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0104",
+      "body": "Wire transfer initiated for account ending in 93671.",
+      "timestamp": 1700086651,
+      "status": 1
+    },
+    {
+      "id": 25,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0103",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700090115,
+      "status": 1
+    },
+    {
+      "id": 27,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0102",
+      "body": "Your verification code is 69274. Do not share.",
+      "timestamp": 1700097480,
+      "status": 2
+    },
+    {
+      "id": 29,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0102",
+      "body": "Please call me back urgently regarding the investigation.",
+      "timestamp": 1700104511,
+      "status": 0
+    },
+    {
+      "id": 30,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0102",
+      "body": "Please call me back urgently regarding the investigation.",
+      "timestamp": 1700108145,
+      "status": 1
+    },
+    {
+      "id": 31,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0102",
+      "body": "Wire transfer initiated for account ending in 20537.",
+      "timestamp": 1700111722,
+      "status": 0
+    },
+    {
+      "id": 35,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0101",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700126061,
+      "status": 1
+    },
+    {
+      "id": 36,
+      "sender": "+1-555-0199",
+      "recipient": "+1-555-0103",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700129703,
+      "status": 0
+    },
+    {
+      "id": 37,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0104",
+      "body": "Wire transfer initiated for account ending in 60208.",
+      "timestamp": 1700133217,
+      "status": 0
+    },
+    {
+      "id": 39,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0104",
+      "body": "Can you send the secret project documents to my private email?",
+      "timestamp": 1700140558,
+      "status": 2
+    },
+    {
+      "id": 41,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0101",
+      "body": "Meeting confirmed for 11:30 PM. Location: Downtown office.",
+      "timestamp": 1700147734,
+      "status": 1
+    },
+    {
+      "id": 42,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0103",
+      "body": "Payment of $30351 received for invoice #47753.",
+      "timestamp": 1700151378,
+      "status": 0
+    },
+    {
+      "id": 44,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0102",
+      "body": "Wire transfer initiated for account ending in 10998.",
+      "timestamp": 1700158677,
+      "status": 0
+    },
+    {
+      "id": 45,
+      "sender": "+1-555-0199",
+      "recipient": "+1-555-0102",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700162092,
+      "status": 0
+    },
+    {
+      "id": 46,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0102",
+      "body": "Meeting confirmed for 12:15 PM. Location: Downtown office.",
+      "timestamp": 1700165703,
+      "status": 1
+    },
+    {
+      "id": 47,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0103",
+      "body": "Hey, are we still meeting at 6:45 PM tomorrow?",
+      "timestamp": 1700169300,
+      "status": 2
+    },
+    {
+      "id": 51,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0103",
+      "body": "Please call me back urgently regarding the investigation.",
+      "timestamp": 1700183626,
+      "status": 1
+    },
+    {
+      "id": 52,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0101",
+      "body": "Your verification code is 98541. Do not share.",
+      "timestamp": 1700187491,
+      "status": 0
+    },
+    {
+      "id": 58,
+      "sender": "+1-555-0199",
+      "recipient": "+1-555-0104",
+      "body": "Payment of $18158 received for invoice #40964.",
+      "timestamp": 1700208827,
+      "status": 2
+    },
+    {
+      "id": 59,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0101",
+      "body": "Payment of $43278 received for invoice #12971.",
+      "timestamp": 1700212578,
+      "status": 0
+    },
+    {
+      "id": 60,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0104",
+      "body": "Meeting confirmed for 11:30 PM. Location: Downtown office.",
+      "timestamp": 1700216259,
+      "status": 2
+    }
+  ],
+  "deleted_rows": [
+    {
+      "id": 1,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0103",
+      "body": "Payment of $25237 received for invoice #82668.",
+      "timestamp": 1700003759,
+      "status": 2
+    },
+    {
+      "id": 2,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0101",
+      "body": "Payment of $33479 received for invoice #59429.",
+      "timestamp": 1700007275,
+      "status": 0
+    },
+    {
+      "id": 6,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0104",
+      "body": "Meeting confirmed for 3:30 PM. Location: Downtown office.",
+      "timestamp": 1700021646,
+      "status": 2
+    },
+    {
+      "id": 7,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0103",
+      "body": "Meeting confirmed for 9:45 PM. Location: Downtown office.",
+      "timestamp": 1700025346,
+      "status": 1
+    },
+    {
+      "id": 12,
+      "sender": "+1-555-0142",
+      "recipient": "+1-555-0101",
+      "body": "Hey, are we still meeting at 7:30 PM tomorrow?",
+      "timestamp": 1700043269,
+      "status": 0
+    },
+    {
+      "id": 14,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0102",
+      "body": "Meeting confirmed for 11:30 PM. Location: Downtown office.",
+      "timestamp": 1700050513,
+      "status": 0
+    },
+    {
+      "id": 15,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0102",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700054057,
+      "status": 0
+    },
+    {
+      "id": 16,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0104",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700057818,
+      "status": 0
+    },
+    {
+      "id": 19,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0104",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700068642,
+      "status": 2
+    },
+    {
+      "id": 26,
+      "sender": "+1-555-0199",
+      "recipient": "+1-555-0101",
+      "body": "Can you send the secret project documents to my private email?",
+      "timestamp": 1700093637,
+      "status": 2
+    },
+    {
+      "id": 28,
+      "sender": "+1-555-0199",
+      "recipient": "+1-555-0101",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700101039,
+      "status": 2
+    },
+    {
+      "id": 32,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0103",
+      "body": "Your verification code is 36910. Do not share.",
+      "timestamp": 1700115335,
+      "status": 2
+    },
+    {
+      "id": 33,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0102",
+      "body": "Meeting confirmed for 9:00 PM. Location: Downtown office.",
+      "timestamp": 1700118821,
+      "status": 1
+    },
+    {
+      "id": 34,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0101",
+      "body": "Wire transfer initiated for account ending in 53720.",
+      "timestamp": 1700122450,
+      "status": 1
+    },
+    {
+      "id": 38,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0103",
+      "body": "Your verification code is 75447. Do not share.",
+      "timestamp": 1700136827,
+      "status": 0
+    },
+    {
+      "id": 40,
+      "sender": "2FA-Service",
+      "recipient": "+1-555-0101",
+      "body": "Wire transfer initiated for account ending in 45359.",
+      "timestamp": 1700144196,
+      "status": 0
+    },
+    {
+      "id": 43,
+      "sender": "BankNotify",
+      "recipient": "+1-555-0101",
+      "body": "Can you send the secret project documents to my private email?",
+      "timestamp": 1700154871,
+      "status": 2
+    },
+    {
+      "id": 48,
+      "sender": "+1-555-0199",
+      "recipient": "+1-555-0101",
+      "body": "Your verification code is 52444. Do not share.",
+      "timestamp": 1700172862,
+      "status": 2
+    },
+    {
+      "id": 49,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0102",
+      "body": "Wire transfer initiated for account ending in 94255.",
+      "timestamp": 1700176649,
+      "status": 1
+    },
+    {
+      "id": 50,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0102",
+      "body": "Wire transfer initiated for account ending in 96672.",
+      "timestamp": 1700180215,
+      "status": 1
+    },
+    {
+      "id": 53,
+      "sender": "+1-555-0199",
+      "recipient": "+1-555-0102",
+      "body": "Wire transfer initiated for account ending in 81669.",
+      "timestamp": 1700190892,
+      "status": 1
+    },
+    {
+      "id": 54,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0101",
+      "body": "All records have been cleared as discussed.",
+      "timestamp": 1700194432,
+      "status": 1
+    },
+    {
+      "id": 55,
+      "sender": "+1-555-0123",
+      "recipient": "+1-555-0101",
+      "body": "Wire transfer initiated for account ending in 23328.",
+      "timestamp": 1700198206,
+      "status": 0
+    },
+    {
+      "id": 56,
+      "sender": "+1-555-0188",
+      "recipient": "+1-555-0104",
+      "body": "Can you send the secret project documents to my private email?",
+      "timestamp": 1700201856,
+      "status": 0
+    },
+    {
+      "id": 57,
+      "sender": "SupportDesk",
+      "recipient": "+1-555-0104",
+      "body": "Hey, are we still meeting at 8:15 PM tomorrow?",
+      "timestamp": 1700205462,
+      "status": 2
+    }
+  ]
+}

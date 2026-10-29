@@ -1,0 +1,9002 @@
+[
+  {
+    "case_index": 150,
+    "case_id": "TE00150",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999493956565857,
+    "passes": true
+  },
+  {
+    "case_index": 151,
+    "case_id": "TE00151",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999228119850159,
+    "passes": true
+  },
+  {
+    "case_index": 152,
+    "case_id": "TE00152",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9992784857749939,
+    "passes": true
+  },
+  {
+    "case_index": 153,
+    "case_id": "TE00153",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998562335968018,
+    "passes": true
+  },
+  {
+    "case_index": 154,
+    "case_id": "TE00154",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9961491227149963,
+    "passes": true
+  },
+  {
+    "case_index": 155,
+    "case_id": "TE00155",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995951652526855,
+    "passes": true
+  },
+  {
+    "case_index": 156,
+    "case_id": "TE00156",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9993399381637573,
+    "passes": true
+  },
+  {
+    "case_index": 157,
+    "case_id": "TE00157",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999527335166931,
+    "passes": true
+  },
+  {
+    "case_index": 158,
+    "case_id": "TE00158",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999889731407166,
+    "passes": true
+  },
+  {
+    "case_index": 159,
+    "case_id": "TE00159",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9979269504547119,
+    "passes": true
+  },
+  {
+    "case_index": 160,
+    "case_id": "TE00160",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9986981749534607,
+    "passes": true
+  },
+  {
+    "case_index": 161,
+    "case_id": "TE00161",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995071291923523,
+    "passes": true
+  },
+  {
+    "case_index": 162,
+    "case_id": "TE00162",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999395608901978,
+    "passes": true
+  },
+  {
+    "case_index": 163,
+    "case_id": "TE00163",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995033144950867,
+    "passes": true
+  },
+  {
+    "case_index": 164,
+    "case_id": "TE00164",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999700784683228,
+    "passes": true
+  },
+  {
+    "case_index": 165,
+    "case_id": "TE00165",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9990726709365845,
+    "passes": true
+  },
+  {
+    "case_index": 166,
+    "case_id": "TE00166",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999909400939941,
+    "passes": true
+  },
+  {
+    "case_index": 167,
+    "case_id": "TE00167",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997249841690063,
+    "passes": true
+  },
+  {
+    "case_index": 168,
+    "case_id": "TE00168",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996892213821411,
+    "passes": true
+  },
+  {
+    "case_index": 169,
+    "case_id": "TE00169",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999488592147827,
+    "passes": true
+  },
+  {
+    "case_index": 170,
+    "case_id": "TE00170",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999735951423645,
+    "passes": true
+  },
+  {
+    "case_index": 171,
+    "case_id": "TE00171",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999215006828308,
+    "passes": true
+  },
+  {
+    "case_index": 172,
+    "case_id": "TE00172",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9984369874000549,
+    "passes": true
+  },
+  {
+    "case_index": 173,
+    "case_id": "TE00173",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9975985288619995,
+    "passes": true
+  },
+  {
+    "case_index": 174,
+    "case_id": "TE00174",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9917728900909424,
+    "passes": true
+  },
+  {
+    "case_index": 175,
+    "case_id": "TE00175",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998234510421753,
+    "passes": true
+  },
+  {
+    "case_index": 176,
+    "case_id": "TE00176",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999768733978271,
+    "passes": true
+  },
+  {
+    "case_index": 177,
+    "case_id": "TE00177",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997461438179016,
+    "passes": true
+  },
+  {
+    "case_index": 178,
+    "case_id": "TE00178",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999880850315094,
+    "passes": true
+  },
+  {
+    "case_index": 179,
+    "case_id": "TE00179",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999843835830688,
+    "passes": true
+  },
+  {
+    "case_index": 180,
+    "case_id": "TE00180",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999358057975769,
+    "passes": true
+  },
+  {
+    "case_index": 181,
+    "case_id": "TE00181",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999799728393555,
+    "passes": true
+  },
+  {
+    "case_index": 182,
+    "case_id": "TE00182",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997366070747375,
+    "passes": true
+  },
+  {
+    "case_index": 183,
+    "case_id": "TE00183",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999784827232361,
+    "passes": true
+  },
+  {
+    "case_index": 184,
+    "case_id": "TE00184",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999764561653137,
+    "passes": true
+  },
+  {
+    "case_index": 185,
+    "case_id": "TE00185",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995840787887573,
+    "passes": true
+  },
+  {
+    "case_index": 186,
+    "case_id": "TE00186",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999106526374817,
+    "passes": true
+  },
+  {
+    "case_index": 187,
+    "case_id": "TE00187",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999793171882629,
+    "passes": true
+  },
+  {
+    "case_index": 188,
+    "case_id": "TE00188",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996544718742371,
+    "passes": true
+  },
+  {
+    "case_index": 189,
+    "case_id": "TE00189",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999497532844543,
+    "passes": true
+  },
+  {
+    "case_index": 190,
+    "case_id": "TE00190",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997934699058533,
+    "passes": true
+  },
+  {
+    "case_index": 191,
+    "case_id": "TE00191",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999577403068542,
+    "passes": true
+  },
+  {
+    "case_index": 192,
+    "case_id": "TE00192",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999217689037323,
+    "passes": true
+  },
+  {
+    "case_index": 193,
+    "case_id": "TE00193",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999712705612183,
+    "passes": true
+  },
+  {
+    "case_index": 194,
+    "case_id": "TE00194",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999948740005493,
+    "passes": true
+  },
+  {
+    "case_index": 195,
+    "case_id": "TE00195",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9990571141242981,
+    "passes": true
+  },
+  {
+    "case_index": 196,
+    "case_id": "TE00196",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.998950719833374,
+    "passes": true
+  },
+  {
+    "case_index": 197,
+    "case_id": "TE00197",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997666478157043,
+    "passes": true
+  },
+  {
+    "case_index": 198,
+    "case_id": "TE00198",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996635913848877,
+    "passes": true
+  },
+  {
+    "case_index": 199,
+    "case_id": "TE00199",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999310970306396,
+    "passes": true
+  },
+  {
+    "case_index": 200,
+    "case_id": "TE00200",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998045563697815,
+    "passes": true
+  },
+  {
+    "case_index": 201,
+    "case_id": "TE00201",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9987815022468567,
+    "passes": true
+  },
+  {
+    "case_index": 202,
+    "case_id": "TE00202",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999910831451416,
+    "passes": true
+  },
+  {
+    "case_index": 203,
+    "case_id": "TE00203",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9994859099388123,
+    "passes": true
+  },
+  {
+    "case_index": 204,
+    "case_id": "TE00204",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995228052139282,
+    "passes": true
+  },
+  {
+    "case_index": 205,
+    "case_id": "TE00205",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995291233062744,
+    "passes": true
+  },
+  {
+    "case_index": 206,
+    "case_id": "TE00206",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996271133422852,
+    "passes": true
+  },
+  {
+    "case_index": 207,
+    "case_id": "TE00207",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9828300476074219,
+    "passes": true
+  },
+  {
+    "case_index": 208,
+    "case_id": "TE00208",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9977390170097351,
+    "passes": true
+  },
+  {
+    "case_index": 209,
+    "case_id": "TE00209",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9994463920593262,
+    "passes": true
+  },
+  {
+    "case_index": 210,
+    "case_id": "TE00210",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9985839128494263,
+    "passes": true
+  },
+  {
+    "case_index": 211,
+    "case_id": "TE00211",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9952284097671509,
+    "passes": true
+  },
+  {
+    "case_index": 212,
+    "case_id": "TE00212",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9992334246635437,
+    "passes": true
+  },
+  {
+    "case_index": 213,
+    "case_id": "TE00213",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998496174812317,
+    "passes": true
+  },
+  {
+    "case_index": 214,
+    "case_id": "TE00214",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9935555458068848,
+    "passes": true
+  },
+  {
+    "case_index": 215,
+    "case_id": "TE00215",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9974395632743835,
+    "passes": true
+  },
+  {
+    "case_index": 216,
+    "case_id": "TE00216",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9821880459785461,
+    "passes": true
+  },
+  {
+    "case_index": 217,
+    "case_id": "TE00217",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.996799111366272,
+    "passes": true
+  },
+  {
+    "case_index": 218,
+    "case_id": "TE00218",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9941272139549255,
+    "passes": true
+  },
+  {
+    "case_index": 219,
+    "case_id": "TE00219",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9910836219787598,
+    "passes": true
+  },
+  {
+    "case_index": 220,
+    "case_id": "TE00220",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996559023857117,
+    "passes": true
+  },
+  {
+    "case_index": 221,
+    "case_id": "TE00221",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9923308491706848,
+    "passes": true
+  },
+  {
+    "case_index": 222,
+    "case_id": "TE00222",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9951538443565369,
+    "passes": true
+  },
+  {
+    "case_index": 223,
+    "case_id": "TE00223",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995282888412476,
+    "passes": true
+  },
+  {
+    "case_index": 224,
+    "case_id": "TE00224",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9975776672363281,
+    "passes": true
+  },
+  {
+    "case_index": 225,
+    "case_id": "TE00225",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998748302459717,
+    "passes": true
+  },
+  {
+    "case_index": 226,
+    "case_id": "TE00226",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991769790649414,
+    "passes": true
+  },
+  {
+    "case_index": 227,
+    "case_id": "TE00227",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995647668838501,
+    "passes": true
+  },
+  {
+    "case_index": 228,
+    "case_id": "TE00228",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996750950813293,
+    "passes": true
+  },
+  {
+    "case_index": 229,
+    "case_id": "TE00229",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997243881225586,
+    "passes": true
+  },
+  {
+    "case_index": 230,
+    "case_id": "TE00230",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9856029748916626,
+    "passes": true
+  },
+  {
+    "case_index": 231,
+    "case_id": "TE00231",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9957106709480286,
+    "passes": true
+  },
+  {
+    "case_index": 232,
+    "case_id": "TE00232",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9403836131095886,
+    "passes": true
+  },
+  {
+    "case_index": 233,
+    "case_id": "TE00233",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999249279499054,
+    "passes": true
+  },
+  {
+    "case_index": 234,
+    "case_id": "TE00234",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9975488781929016,
+    "passes": true
+  },
+  {
+    "case_index": 235,
+    "case_id": "TE00235",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.991597592830658,
+    "passes": true
+  },
+  {
+    "case_index": 236,
+    "case_id": "TE00236",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996188282966614,
+    "passes": true
+  },
+  {
+    "case_index": 237,
+    "case_id": "TE00237",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9981272220611572,
+    "passes": true
+  },
+  {
+    "case_index": 238,
+    "case_id": "TE00238",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9987815618515015,
+    "passes": true
+  },
+  {
+    "case_index": 239,
+    "case_id": "TE00239",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9984092712402344,
+    "passes": true
+  },
+  {
+    "case_index": 240,
+    "case_id": "TE00240",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9922851324081421,
+    "passes": true
+  },
+  {
+    "case_index": 241,
+    "case_id": "TE00241",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999192953109741,
+    "passes": true
+  },
+  {
+    "case_index": 242,
+    "case_id": "TE00242",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9984921216964722,
+    "passes": true
+  },
+  {
+    "case_index": 243,
+    "case_id": "TE00243",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991331100463867,
+    "passes": true
+  },
+  {
+    "case_index": 244,
+    "case_id": "TE00244",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9917502999305725,
+    "passes": true
+  },
+  {
+    "case_index": 245,
+    "case_id": "TE00245",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9989848136901855,
+    "passes": true
+  },
+  {
+    "case_index": 246,
+    "case_id": "TE00246",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999341368675232,
+    "passes": true
+  },
+  {
+    "case_index": 247,
+    "case_id": "TE00247",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9803758859634399,
+    "passes": true
+  },
+  {
+    "case_index": 248,
+    "case_id": "TE00248",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9972968101501465,
+    "passes": true
+  },
+  {
+    "case_index": 249,
+    "case_id": "TE00249",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9919585585594177,
+    "passes": true
+  },
+  {
+    "case_index": 250,
+    "case_id": "TE00250",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9368175268173218,
+    "passes": true
+  },
+  {
+    "case_index": 251,
+    "case_id": "TE00251",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9397294521331787,
+    "passes": true
+  },
+  {
+    "case_index": 252,
+    "case_id": "TE00252",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7444517016410828,
+    "passes": true
+  },
+  {
+    "case_index": 253,
+    "case_id": "TE00253",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9540667533874512,
+    "passes": true
+  },
+  {
+    "case_index": 254,
+    "case_id": "TE00254",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6689555644989014,
+    "passes": true
+  },
+  {
+    "case_index": 255,
+    "case_id": "TE00255",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8969947695732117,
+    "passes": true
+  },
+  {
+    "case_index": 256,
+    "case_id": "TE00256",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9742974042892456,
+    "passes": true
+  },
+  {
+    "case_index": 257,
+    "case_id": "TE00257",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.5911033153533936,
+    "passes": true
+  },
+  {
+    "case_index": 258,
+    "case_id": "TE00258",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.31678324937820435,
+    "passes": false
+  },
+  {
+    "case_index": 259,
+    "case_id": "TE00259",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8151490092277527,
+    "passes": true
+  },
+  {
+    "case_index": 260,
+    "case_id": "TE00260",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9897267818450928,
+    "passes": true
+  },
+  {
+    "case_index": 261,
+    "case_id": "TE00261",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7611815333366394,
+    "passes": true
+  },
+  {
+    "case_index": 262,
+    "case_id": "TE00262",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8129552602767944,
+    "passes": true
+  },
+  {
+    "case_index": 263,
+    "case_id": "TE00263",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9433902502059937,
+    "passes": true
+  },
+  {
+    "case_index": 264,
+    "case_id": "TE00264",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.0647236779332161,
+    "passes": false
+  },
+  {
+    "case_index": 265,
+    "case_id": "TE00265",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.013571239076554775,
+    "passes": false
+  },
+  {
+    "case_index": 266,
+    "case_id": "TE00266",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9570727348327637,
+    "passes": true
+  },
+  {
+    "case_index": 267,
+    "case_id": "TE00267",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9122288227081299,
+    "passes": true
+  },
+  {
+    "case_index": 268,
+    "case_id": "TE00268",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.5546455979347229,
+    "passes": true
+  },
+  {
+    "case_index": 269,
+    "case_id": "TE00269",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8859266042709351,
+    "passes": true
+  },
+  {
+    "case_index": 270,
+    "case_id": "TE00270",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9044596552848816,
+    "passes": true
+  },
+  {
+    "case_index": 271,
+    "case_id": "TE00271",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9921585321426392,
+    "passes": true
+  },
+  {
+    "case_index": 272,
+    "case_id": "TE00272",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9618462920188904,
+    "passes": true
+  },
+  {
+    "case_index": 273,
+    "case_id": "TE00273",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8257694840431213,
+    "passes": true
+  },
+  {
+    "case_index": 274,
+    "case_id": "TE00274",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9623014330863953,
+    "passes": true
+  },
+  {
+    "case_index": 275,
+    "case_id": "TE00275",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.824036717414856,
+    "passes": true
+  },
+  {
+    "case_index": 276,
+    "case_id": "TE00276",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9713096022605896,
+    "passes": true
+  },
+  {
+    "case_index": 277,
+    "case_id": "TE00277",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9352278709411621,
+    "passes": true
+  },
+  {
+    "case_index": 278,
+    "case_id": "TE00278",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.960532546043396,
+    "passes": true
+  },
+  {
+    "case_index": 279,
+    "case_id": "TE00279",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9139177799224854,
+    "passes": true
+  },
+  {
+    "case_index": 280,
+    "case_id": "TE00280",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.958961546421051,
+    "passes": true
+  },
+  {
+    "case_index": 281,
+    "case_id": "TE00281",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9529113173484802,
+    "passes": true
+  },
+  {
+    "case_index": 282,
+    "case_id": "TE00282",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9734628200531006,
+    "passes": true
+  },
+  {
+    "case_index": 283,
+    "case_id": "TE00283",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.5956640243530273,
+    "passes": true
+  },
+  {
+    "case_index": 284,
+    "case_id": "TE00284",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.3107657730579376,
+    "passes": false
+  },
+  {
+    "case_index": 285,
+    "case_id": "TE00285",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8769969940185547,
+    "passes": true
+  },
+  {
+    "case_index": 286,
+    "case_id": "TE00286",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9059170484542847,
+    "passes": true
+  },
+  {
+    "case_index": 287,
+    "case_id": "TE00287",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.824576735496521,
+    "passes": true
+  },
+  {
+    "case_index": 288,
+    "case_id": "TE00288",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9188113808631897,
+    "passes": true
+  },
+  {
+    "case_index": 289,
+    "case_id": "TE00289",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.28768059611320496,
+    "passes": false
+  },
+  {
+    "case_index": 290,
+    "case_id": "TE00290",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.832220733165741,
+    "passes": true
+  },
+  {
+    "case_index": 291,
+    "case_id": "TE00291",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.3750918507575989,
+    "passes": false
+  },
+  {
+    "case_index": 292,
+    "case_id": "TE00292",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.42760077118873596,
+    "passes": false
+  },
+  {
+    "case_index": 293,
+    "case_id": "TE00293",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8147673606872559,
+    "passes": true
+  },
+  {
+    "case_index": 294,
+    "case_id": "TE00294",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8853819370269775,
+    "passes": true
+  },
+  {
+    "case_index": 295,
+    "case_id": "TE00295",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8922321796417236,
+    "passes": true
+  },
+  {
+    "case_index": 296,
+    "case_id": "TE00296",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9613106846809387,
+    "passes": true
+  },
+  {
+    "case_index": 297,
+    "case_id": "TE00297",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9306371212005615,
+    "passes": true
+  },
+  {
+    "case_index": 298,
+    "case_id": "TE00298",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9285796284675598,
+    "passes": true
+  },
+  {
+    "case_index": 299,
+    "case_id": "TE00299",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.11403189599514008,
+    "passes": false
+  },
+  {
+    "case_index": 300,
+    "case_id": "TE00300",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9992669224739075,
+    "passes": true
+  },
+  {
+    "case_index": 301,
+    "case_id": "TE00301",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997212290763855,
+    "passes": true
+  },
+  {
+    "case_index": 302,
+    "case_id": "TE00302",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998899698257446,
+    "passes": true
+  },
+  {
+    "case_index": 303,
+    "case_id": "TE00303",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999457597732544,
+    "passes": true
+  },
+  {
+    "case_index": 304,
+    "case_id": "TE00304",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997764229774475,
+    "passes": true
+  },
+  {
+    "case_index": 305,
+    "case_id": "TE00305",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997358918190002,
+    "passes": true
+  },
+  {
+    "case_index": 306,
+    "case_id": "TE00306",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998422265052795,
+    "passes": true
+  },
+  {
+    "case_index": 307,
+    "case_id": "TE00307",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999537467956543,
+    "passes": true
+  },
+  {
+    "case_index": 308,
+    "case_id": "TE00308",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9993839263916016,
+    "passes": true
+  },
+  {
+    "case_index": 309,
+    "case_id": "TE00309",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996944069862366,
+    "passes": true
+  },
+  {
+    "case_index": 310,
+    "case_id": "TE00310",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999651312828064,
+    "passes": true
+  },
+  {
+    "case_index": 311,
+    "case_id": "TE00311",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999526143074036,
+    "passes": true
+  },
+  {
+    "case_index": 312,
+    "case_id": "TE00312",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999821186065674,
+    "passes": true
+  },
+  {
+    "case_index": 313,
+    "case_id": "TE00313",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997883439064026,
+    "passes": true
+  },
+  {
+    "case_index": 314,
+    "case_id": "TE00314",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9992530941963196,
+    "passes": true
+  },
+  {
+    "case_index": 315,
+    "case_id": "TE00315",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995866417884827,
+    "passes": true
+  },
+  {
+    "case_index": 316,
+    "case_id": "TE00316",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999609112739563,
+    "passes": true
+  },
+  {
+    "case_index": 317,
+    "case_id": "TE00317",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999188184738159,
+    "passes": true
+  },
+  {
+    "case_index": 318,
+    "case_id": "TE00318",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998436570167542,
+    "passes": true
+  },
+  {
+    "case_index": 319,
+    "case_id": "TE00319",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998619556427002,
+    "passes": true
+  },
+  {
+    "case_index": 320,
+    "case_id": "TE00320",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997718334197998,
+    "passes": true
+  },
+  {
+    "case_index": 321,
+    "case_id": "TE00321",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999309182167053,
+    "passes": true
+  },
+  {
+    "case_index": 322,
+    "case_id": "TE00322",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9994087219238281,
+    "passes": true
+  },
+  {
+    "case_index": 323,
+    "case_id": "TE00323",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997681975364685,
+    "passes": true
+  },
+  {
+    "case_index": 324,
+    "case_id": "TE00324",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9981236457824707,
+    "passes": true
+  },
+  {
+    "case_index": 325,
+    "case_id": "TE00325",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999173879623413,
+    "passes": true
+  },
+  {
+    "case_index": 326,
+    "case_id": "TE00326",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999378323554993,
+    "passes": true
+  },
+  {
+    "case_index": 327,
+    "case_id": "TE00327",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9993458986282349,
+    "passes": true
+  },
+  {
+    "case_index": 328,
+    "case_id": "TE00328",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999030828475952,
+    "passes": true
+  },
+  {
+    "case_index": 329,
+    "case_id": "TE00329",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995984435081482,
+    "passes": true
+  },
+  {
+    "case_index": 330,
+    "case_id": "TE00330",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995446801185608,
+    "passes": true
+  },
+  {
+    "case_index": 331,
+    "case_id": "TE00331",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996623396873474,
+    "passes": true
+  },
+  {
+    "case_index": 332,
+    "case_id": "TE00332",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998282790184021,
+    "passes": true
+  },
+  {
+    "case_index": 333,
+    "case_id": "TE00333",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9987578988075256,
+    "passes": true
+  },
+  {
+    "case_index": 334,
+    "case_id": "TE00334",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9981504678726196,
+    "passes": true
+  },
+  {
+    "case_index": 335,
+    "case_id": "TE00335",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991050958633423,
+    "passes": true
+  },
+  {
+    "case_index": 336,
+    "case_id": "TE00336",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998252987861633,
+    "passes": true
+  },
+  {
+    "case_index": 337,
+    "case_id": "TE00337",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995393753051758,
+    "passes": true
+  },
+  {
+    "case_index": 338,
+    "case_id": "TE00338",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998241066932678,
+    "passes": true
+  },
+  {
+    "case_index": 339,
+    "case_id": "TE00339",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999985933303833,
+    "passes": true
+  },
+  {
+    "case_index": 340,
+    "case_id": "TE00340",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998655915260315,
+    "passes": true
+  },
+  {
+    "case_index": 341,
+    "case_id": "TE00341",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.998725175857544,
+    "passes": true
+  },
+  {
+    "case_index": 342,
+    "case_id": "TE00342",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999419093132019,
+    "passes": true
+  },
+  {
+    "case_index": 343,
+    "case_id": "TE00343",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9988422393798828,
+    "passes": true
+  },
+  {
+    "case_index": 344,
+    "case_id": "TE00344",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999394416809082,
+    "passes": true
+  },
+  {
+    "case_index": 345,
+    "case_id": "TE00345",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997301697731018,
+    "passes": true
+  },
+  {
+    "case_index": 346,
+    "case_id": "TE00346",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998643398284912,
+    "passes": true
+  },
+  {
+    "case_index": 347,
+    "case_id": "TE00347",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9970412254333496,
+    "passes": true
+  },
+  {
+    "case_index": 348,
+    "case_id": "TE00348",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997838735580444,
+    "passes": true
+  },
+  {
+    "case_index": 349,
+    "case_id": "TE00349",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997581243515015,
+    "passes": true
+  },
+  {
+    "case_index": 350,
+    "case_id": "TE00350",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9955831170082092,
+    "passes": true
+  },
+  {
+    "case_index": 351,
+    "case_id": "TE00351",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9966908693313599,
+    "passes": true
+  },
+  {
+    "case_index": 352,
+    "case_id": "TE00352",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9986392855644226,
+    "passes": true
+  },
+  {
+    "case_index": 353,
+    "case_id": "TE00353",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9955984354019165,
+    "passes": true
+  },
+  {
+    "case_index": 354,
+    "case_id": "TE00354",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9963828325271606,
+    "passes": true
+  },
+  {
+    "case_index": 355,
+    "case_id": "TE00355",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9875168204307556,
+    "passes": true
+  },
+  {
+    "case_index": 356,
+    "case_id": "TE00356",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9941030740737915,
+    "passes": true
+  },
+  {
+    "case_index": 357,
+    "case_id": "TE00357",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9838342666625977,
+    "passes": true
+  },
+  {
+    "case_index": 358,
+    "case_id": "TE00358",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9912304878234863,
+    "passes": true
+  },
+  {
+    "case_index": 359,
+    "case_id": "TE00359",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9986751675605774,
+    "passes": true
+  },
+  {
+    "case_index": 360,
+    "case_id": "TE00360",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9833306074142456,
+    "passes": true
+  },
+  {
+    "case_index": 361,
+    "case_id": "TE00361",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991902709007263,
+    "passes": true
+  },
+  {
+    "case_index": 362,
+    "case_id": "TE00362",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991821050643921,
+    "passes": true
+  },
+  {
+    "case_index": 363,
+    "case_id": "TE00363",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9961439371109009,
+    "passes": true
+  },
+  {
+    "case_index": 364,
+    "case_id": "TE00364",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9830352067947388,
+    "passes": true
+  },
+  {
+    "case_index": 365,
+    "case_id": "TE00365",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9911709427833557,
+    "passes": true
+  },
+  {
+    "case_index": 366,
+    "case_id": "TE00366",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9954050779342651,
+    "passes": true
+  },
+  {
+    "case_index": 367,
+    "case_id": "TE00367",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9977418184280396,
+    "passes": true
+  },
+  {
+    "case_index": 368,
+    "case_id": "TE00368",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9967172145843506,
+    "passes": true
+  },
+  {
+    "case_index": 369,
+    "case_id": "TE00369",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9771801233291626,
+    "passes": true
+  },
+  {
+    "case_index": 370,
+    "case_id": "TE00370",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9888150095939636,
+    "passes": true
+  },
+  {
+    "case_index": 371,
+    "case_id": "TE00371",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9980213046073914,
+    "passes": true
+  },
+  {
+    "case_index": 372,
+    "case_id": "TE00372",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9988996982574463,
+    "passes": true
+  },
+  {
+    "case_index": 373,
+    "case_id": "TE00373",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9994040727615356,
+    "passes": true
+  },
+  {
+    "case_index": 374,
+    "case_id": "TE00374",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991538524627686,
+    "passes": true
+  },
+  {
+    "case_index": 375,
+    "case_id": "TE00375",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9994149208068848,
+    "passes": true
+  },
+  {
+    "case_index": 376,
+    "case_id": "TE00376",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9898659586906433,
+    "passes": true
+  },
+  {
+    "case_index": 377,
+    "case_id": "TE00377",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9989851117134094,
+    "passes": true
+  },
+  {
+    "case_index": 378,
+    "case_id": "TE00378",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9984613656997681,
+    "passes": true
+  },
+  {
+    "case_index": 379,
+    "case_id": "TE00379",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9971681833267212,
+    "passes": true
+  },
+  {
+    "case_index": 380,
+    "case_id": "TE00380",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9947494268417358,
+    "passes": true
+  },
+  {
+    "case_index": 381,
+    "case_id": "TE00381",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9987348914146423,
+    "passes": true
+  },
+  {
+    "case_index": 382,
+    "case_id": "TE00382",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9973291754722595,
+    "passes": true
+  },
+  {
+    "case_index": 383,
+    "case_id": "TE00383",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9987260699272156,
+    "passes": true
+  },
+  {
+    "case_index": 384,
+    "case_id": "TE00384",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998190999031067,
+    "passes": true
+  },
+  {
+    "case_index": 385,
+    "case_id": "TE00385",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9956877827644348,
+    "passes": true
+  },
+  {
+    "case_index": 386,
+    "case_id": "TE00386",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9761017560958862,
+    "passes": true
+  },
+  {
+    "case_index": 387,
+    "case_id": "TE00387",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9990150928497314,
+    "passes": true
+  },
+  {
+    "case_index": 388,
+    "case_id": "TE00388",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9846316576004028,
+    "passes": true
+  },
+  {
+    "case_index": 389,
+    "case_id": "TE00389",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997214078903198,
+    "passes": true
+  },
+  {
+    "case_index": 390,
+    "case_id": "TE00390",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9501936435699463,
+    "passes": true
+  },
+  {
+    "case_index": 391,
+    "case_id": "TE00391",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9986823797225952,
+    "passes": true
+  },
+  {
+    "case_index": 392,
+    "case_id": "TE00392",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9974071979522705,
+    "passes": true
+  },
+  {
+    "case_index": 393,
+    "case_id": "TE00393",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999056875705719,
+    "passes": true
+  },
+  {
+    "case_index": 394,
+    "case_id": "TE00394",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9866827130317688,
+    "passes": true
+  },
+  {
+    "case_index": 395,
+    "case_id": "TE00395",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9980274438858032,
+    "passes": true
+  },
+  {
+    "case_index": 396,
+    "case_id": "TE00396",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9993467926979065,
+    "passes": true
+  },
+  {
+    "case_index": 397,
+    "case_id": "TE00397",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9895387291908264,
+    "passes": true
+  },
+  {
+    "case_index": 398,
+    "case_id": "TE00398",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9992833733558655,
+    "passes": true
+  },
+  {
+    "case_index": 399,
+    "case_id": "TE00399",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9979225397109985,
+    "passes": true
+  },
+  {
+    "case_index": 400,
+    "case_id": "TE00400",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6437948942184448,
+    "passes": true
+  },
+  {
+    "case_index": 401,
+    "case_id": "TE00401",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.950158417224884,
+    "passes": true
+  },
+  {
+    "case_index": 402,
+    "case_id": "TE00402",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9301628470420837,
+    "passes": true
+  },
+  {
+    "case_index": 403,
+    "case_id": "TE00403",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9425143599510193,
+    "passes": true
+  },
+  {
+    "case_index": 404,
+    "case_id": "TE00404",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9267390966415405,
+    "passes": true
+  },
+  {
+    "case_index": 405,
+    "case_id": "TE00405",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6093353033065796,
+    "passes": true
+  },
+  {
+    "case_index": 406,
+    "case_id": "TE00406",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.967368483543396,
+    "passes": true
+  },
+  {
+    "case_index": 407,
+    "case_id": "TE00407",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7282754778862,
+    "passes": true
+  },
+  {
+    "case_index": 408,
+    "case_id": "TE00408",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.14107559621334076,
+    "passes": false
+  },
+  {
+    "case_index": 409,
+    "case_id": "TE00409",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9584386348724365,
+    "passes": true
+  },
+  {
+    "case_index": 410,
+    "case_id": "TE00410",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7453947067260742,
+    "passes": true
+  },
+  {
+    "case_index": 411,
+    "case_id": "TE00411",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.4624650478363037,
+    "passes": false
+  },
+  {
+    "case_index": 412,
+    "case_id": "TE00412",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.5919280052185059,
+    "passes": true
+  },
+  {
+    "case_index": 413,
+    "case_id": "TE00413",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8681821823120117,
+    "passes": true
+  },
+  {
+    "case_index": 414,
+    "case_id": "TE00414",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6485207676887512,
+    "passes": true
+  },
+  {
+    "case_index": 415,
+    "case_id": "TE00415",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9281736016273499,
+    "passes": true
+  },
+  {
+    "case_index": 416,
+    "case_id": "TE00416",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9660089015960693,
+    "passes": true
+  },
+  {
+    "case_index": 417,
+    "case_id": "TE00417",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.4601421356201172,
+    "passes": false
+  },
+  {
+    "case_index": 418,
+    "case_id": "TE00418",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8907638788223267,
+    "passes": true
+  },
+  {
+    "case_index": 419,
+    "case_id": "TE00419",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6329423785209656,
+    "passes": true
+  },
+  {
+    "case_index": 420,
+    "case_id": "TE00420",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8749942183494568,
+    "passes": true
+  },
+  {
+    "case_index": 421,
+    "case_id": "TE00421",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9483269453048706,
+    "passes": true
+  },
+  {
+    "case_index": 422,
+    "case_id": "TE00422",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6259485483169556,
+    "passes": true
+  },
+  {
+    "case_index": 423,
+    "case_id": "TE00423",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.21501457691192627,
+    "passes": false
+  },
+  {
+    "case_index": 424,
+    "case_id": "TE00424",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9811981916427612,
+    "passes": true
+  },
+  {
+    "case_index": 425,
+    "case_id": "TE00425",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6508670449256897,
+    "passes": true
+  },
+  {
+    "case_index": 426,
+    "case_id": "TE00426",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9350075721740723,
+    "passes": true
+  },
+  {
+    "case_index": 427,
+    "case_id": "TE00427",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8715413212776184,
+    "passes": true
+  },
+  {
+    "case_index": 428,
+    "case_id": "TE00428",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.837031364440918,
+    "passes": true
+  },
+  {
+    "case_index": 429,
+    "case_id": "TE00429",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9338311553001404,
+    "passes": true
+  },
+  {
+    "case_index": 430,
+    "case_id": "TE00430",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7198998928070068,
+    "passes": true
+  },
+  {
+    "case_index": 431,
+    "case_id": "TE00431",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9586338996887207,
+    "passes": true
+  },
+  {
+    "case_index": 432,
+    "case_id": "TE00432",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6976605653762817,
+    "passes": true
+  },
+  {
+    "case_index": 433,
+    "case_id": "TE00433",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7566441297531128,
+    "passes": true
+  },
+  {
+    "case_index": 434,
+    "case_id": "TE00434",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8077417016029358,
+    "passes": true
+  },
+  {
+    "case_index": 435,
+    "case_id": "TE00435",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9316517114639282,
+    "passes": true
+  },
+  {
+    "case_index": 436,
+    "case_id": "TE00436",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8992134928703308,
+    "passes": true
+  },
+  {
+    "case_index": 437,
+    "case_id": "TE00437",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8745635151863098,
+    "passes": true
+  },
+  {
+    "case_index": 438,
+    "case_id": "TE00438",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8553650975227356,
+    "passes": true
+  },
+  {
+    "case_index": 439,
+    "case_id": "TE00439",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7290365695953369,
+    "passes": true
+  },
+  {
+    "case_index": 440,
+    "case_id": "TE00440",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7638038396835327,
+    "passes": true
+  },
+  {
+    "case_index": 441,
+    "case_id": "TE00441",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.5240215063095093,
+    "passes": true
+  },
+  {
+    "case_index": 442,
+    "case_id": "TE00442",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7310979962348938,
+    "passes": true
+  },
+  {
+    "case_index": 443,
+    "case_id": "TE00443",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.21848005056381226,
+    "passes": false
+  },
+  {
+    "case_index": 444,
+    "case_id": "TE00444",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.850555956363678,
+    "passes": true
+  },
+  {
+    "case_index": 445,
+    "case_id": "TE00445",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7421988248825073,
+    "passes": true
+  },
+  {
+    "case_index": 446,
+    "case_id": "TE00446",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6940205693244934,
+    "passes": true
+  },
+  {
+    "case_index": 447,
+    "case_id": "TE00447",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8911222815513611,
+    "passes": true
+  },
+  {
+    "case_index": 448,
+    "case_id": "TE00448",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6590718626976013,
+    "passes": true
+  },
+  {
+    "case_index": 449,
+    "case_id": "TE00449",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.2797979414463043,
+    "passes": false
+  },
+  {
+    "case_index": 450,
+    "case_id": "TE00450",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9973254203796387,
+    "passes": true
+  },
+  {
+    "case_index": 451,
+    "case_id": "TE00451",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999334216117859,
+    "passes": true
+  },
+  {
+    "case_index": 452,
+    "case_id": "TE00452",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999772906303406,
+    "passes": true
+  },
+  {
+    "case_index": 453,
+    "case_id": "TE00453",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999665021896362,
+    "passes": true
+  },
+  {
+    "case_index": 454,
+    "case_id": "TE00454",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998223185539246,
+    "passes": true
+  },
+  {
+    "case_index": 455,
+    "case_id": "TE00455",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996193647384644,
+    "passes": true
+  },
+  {
+    "case_index": 456,
+    "case_id": "TE00456",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996839761734009,
+    "passes": true
+  },
+  {
+    "case_index": 457,
+    "case_id": "TE00457",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9920511245727539,
+    "passes": true
+  },
+  {
+    "case_index": 458,
+    "case_id": "TE00458",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997172951698303,
+    "passes": true
+  },
+  {
+    "case_index": 459,
+    "case_id": "TE00459",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999680519104004,
+    "passes": true
+  },
+  {
+    "case_index": 460,
+    "case_id": "TE00460",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999464154243469,
+    "passes": true
+  },
+  {
+    "case_index": 461,
+    "case_id": "TE00461",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998252391815186,
+    "passes": true
+  },
+  {
+    "case_index": 462,
+    "case_id": "TE00462",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999251961708069,
+    "passes": true
+  },
+  {
+    "case_index": 463,
+    "case_id": "TE00463",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999788224697113,
+    "passes": true
+  },
+  {
+    "case_index": 464,
+    "case_id": "TE00464",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998432397842407,
+    "passes": true
+  },
+  {
+    "case_index": 465,
+    "case_id": "TE00465",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997450113296509,
+    "passes": true
+  },
+  {
+    "case_index": 466,
+    "case_id": "TE00466",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998762607574463,
+    "passes": true
+  },
+  {
+    "case_index": 467,
+    "case_id": "TE00467",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999262690544128,
+    "passes": true
+  },
+  {
+    "case_index": 468,
+    "case_id": "TE00468",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999111294746399,
+    "passes": true
+  },
+  {
+    "case_index": 469,
+    "case_id": "TE00469",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998355507850647,
+    "passes": true
+  },
+  {
+    "case_index": 470,
+    "case_id": "TE00470",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9931294918060303,
+    "passes": true
+  },
+  {
+    "case_index": 471,
+    "case_id": "TE00471",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998443722724915,
+    "passes": true
+  },
+  {
+    "case_index": 472,
+    "case_id": "TE00472",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998419880867004,
+    "passes": true
+  },
+  {
+    "case_index": 473,
+    "case_id": "TE00473",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999958336353302,
+    "passes": true
+  },
+  {
+    "case_index": 474,
+    "case_id": "TE00474",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9988664984703064,
+    "passes": true
+  },
+  {
+    "case_index": 475,
+    "case_id": "TE00475",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998874664306641,
+    "passes": true
+  },
+  {
+    "case_index": 476,
+    "case_id": "TE00476",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999338388442993,
+    "passes": true
+  },
+  {
+    "case_index": 477,
+    "case_id": "TE00477",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999683678150177,
+    "passes": true
+  },
+  {
+    "case_index": 478,
+    "case_id": "TE00478",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998947381973267,
+    "passes": true
+  },
+  {
+    "case_index": 479,
+    "case_id": "TE00479",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999154210090637,
+    "passes": true
+  },
+  {
+    "case_index": 480,
+    "case_id": "TE00480",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999238848686218,
+    "passes": true
+  },
+  {
+    "case_index": 481,
+    "case_id": "TE00481",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999486207962036,
+    "passes": true
+  },
+  {
+    "case_index": 482,
+    "case_id": "TE00482",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999141693115234,
+    "passes": true
+  },
+  {
+    "case_index": 483,
+    "case_id": "TE00483",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9987732172012329,
+    "passes": true
+  },
+  {
+    "case_index": 484,
+    "case_id": "TE00484",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999485015869141,
+    "passes": true
+  },
+  {
+    "case_index": 485,
+    "case_id": "TE00485",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998067617416382,
+    "passes": true
+  },
+  {
+    "case_index": 486,
+    "case_id": "TE00486",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999402761459351,
+    "passes": true
+  },
+  {
+    "case_index": 487,
+    "case_id": "TE00487",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997034668922424,
+    "passes": true
+  },
+  {
+    "case_index": 488,
+    "case_id": "TE00488",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998683333396912,
+    "passes": true
+  },
+  {
+    "case_index": 489,
+    "case_id": "TE00489",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997735023498535,
+    "passes": true
+  },
+  {
+    "case_index": 490,
+    "case_id": "TE00490",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999913215637207,
+    "passes": true
+  },
+  {
+    "case_index": 491,
+    "case_id": "TE00491",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999821662902832,
+    "passes": true
+  },
+  {
+    "case_index": 492,
+    "case_id": "TE00492",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999980092048645,
+    "passes": true
+  },
+  {
+    "case_index": 493,
+    "case_id": "TE00493",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998583197593689,
+    "passes": true
+  },
+  {
+    "case_index": 494,
+    "case_id": "TE00494",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998470544815063,
+    "passes": true
+  },
+  {
+    "case_index": 495,
+    "case_id": "TE00495",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9827373027801514,
+    "passes": true
+  },
+  {
+    "case_index": 496,
+    "case_id": "TE00496",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996946454048157,
+    "passes": true
+  },
+  {
+    "case_index": 497,
+    "case_id": "TE00497",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999908983707428,
+    "passes": true
+  },
+  {
+    "case_index": 498,
+    "case_id": "TE00498",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9994537234306335,
+    "passes": true
+  },
+  {
+    "case_index": 499,
+    "case_id": "TE00499",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999535083770752,
+    "passes": true
+  },
+  {
+    "case_index": 500,
+    "case_id": "TE00500",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991996884346008,
+    "passes": true
+  },
+  {
+    "case_index": 501,
+    "case_id": "TE00501",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9991488456726074,
+    "passes": true
+  },
+  {
+    "case_index": 502,
+    "case_id": "TE00502",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997525811195374,
+    "passes": true
+  },
+  {
+    "case_index": 503,
+    "case_id": "TE00503",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9988741278648376,
+    "passes": true
+  },
+  {
+    "case_index": 504,
+    "case_id": "TE00504",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9990896582603455,
+    "passes": true
+  },
+  {
+    "case_index": 505,
+    "case_id": "TE00505",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9990189671516418,
+    "passes": true
+  },
+  {
+    "case_index": 506,
+    "case_id": "TE00506",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9969761371612549,
+    "passes": true
+  },
+  {
+    "case_index": 507,
+    "case_id": "TE00507",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9421976804733276,
+    "passes": true
+  },
+  {
+    "case_index": 508,
+    "case_id": "TE00508",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.995475709438324,
+    "passes": true
+  },
+  {
+    "case_index": 509,
+    "case_id": "TE00509",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9981622099876404,
+    "passes": true
+  },
+  {
+    "case_index": 510,
+    "case_id": "TE00510",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9956122040748596,
+    "passes": true
+  },
+  {
+    "case_index": 511,
+    "case_id": "TE00511",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996553659439087,
+    "passes": true
+  },
+  {
+    "case_index": 512,
+    "case_id": "TE00512",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999419093132019,
+    "passes": true
+  },
+  {
+    "case_index": 513,
+    "case_id": "TE00513",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9985836744308472,
+    "passes": true
+  },
+  {
+    "case_index": 514,
+    "case_id": "TE00514",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9956691265106201,
+    "passes": true
+  },
+  {
+    "case_index": 515,
+    "case_id": "TE00515",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995247721672058,
+    "passes": true
+  },
+  {
+    "case_index": 516,
+    "case_id": "TE00516",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9993487000465393,
+    "passes": true
+  },
+  {
+    "case_index": 517,
+    "case_id": "TE00517",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997291564941406,
+    "passes": true
+  },
+  {
+    "case_index": 518,
+    "case_id": "TE00518",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9978111982345581,
+    "passes": true
+  },
+  {
+    "case_index": 519,
+    "case_id": "TE00519",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9987894892692566,
+    "passes": true
+  },
+  {
+    "case_index": 520,
+    "case_id": "TE00520",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998193383216858,
+    "passes": true
+  },
+  {
+    "case_index": 521,
+    "case_id": "TE00521",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9993996024131775,
+    "passes": true
+  },
+  {
+    "case_index": 522,
+    "case_id": "TE00522",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998520612716675,
+    "passes": true
+  },
+  {
+    "case_index": 523,
+    "case_id": "TE00523",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9960259199142456,
+    "passes": true
+  },
+  {
+    "case_index": 524,
+    "case_id": "TE00524",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9957173466682434,
+    "passes": true
+  },
+  {
+    "case_index": 525,
+    "case_id": "TE00525",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9982016086578369,
+    "passes": true
+  },
+  {
+    "case_index": 526,
+    "case_id": "TE00526",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9997667670249939,
+    "passes": true
+  },
+  {
+    "case_index": 527,
+    "case_id": "TE00527",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9567477703094482,
+    "passes": true
+  },
+  {
+    "case_index": 528,
+    "case_id": "TE00528",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.999377965927124,
+    "passes": true
+  },
+  {
+    "case_index": 529,
+    "case_id": "TE00529",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.998596727848053,
+    "passes": true
+  },
+  {
+    "case_index": 530,
+    "case_id": "TE00530",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9999203681945801,
+    "passes": true
+  },
+  {
+    "case_index": 531,
+    "case_id": "TE00531",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.99848473072052,
+    "passes": true
+  },
+  {
+    "case_index": 532,
+    "case_id": "TE00532",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9998184442520142,
+    "passes": true
+  },
+  {
+    "case_index": 533,
+    "case_id": "TE00533",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9976941347122192,
+    "passes": true
+  },
+  {
+    "case_index": 534,
+    "case_id": "TE00534",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9989285469055176,
+    "passes": true
+  },
+  {
+    "case_index": 535,
+    "case_id": "TE00535",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9974634051322937,
+    "passes": true
+  },
+  {
+    "case_index": 536,
+    "case_id": "TE00536",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9966621994972229,
+    "passes": true
+  },
+  {
+    "case_index": 537,
+    "case_id": "TE00537",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9996095895767212,
+    "passes": true
+  },
+  {
+    "case_index": 538,
+    "case_id": "TE00538",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9986673593521118,
+    "passes": true
+  },
+  {
+    "case_index": 539,
+    "case_id": "TE00539",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9971875548362732,
+    "passes": true
+  },
+  {
+    "case_index": 540,
+    "case_id": "TE00540",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9983583688735962,
+    "passes": true
+  },
+  {
+    "case_index": 541,
+    "case_id": "TE00541",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9992964267730713,
+    "passes": true
+  },
+  {
+    "case_index": 542,
+    "case_id": "TE00542",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9990869164466858,
+    "passes": true
+  },
+  {
+    "case_index": 543,
+    "case_id": "TE00543",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9989258646965027,
+    "passes": true
+  },
+  {
+    "case_index": 544,
+    "case_id": "TE00544",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9990493059158325,
+    "passes": true
+  },
+  {
+    "case_index": 545,
+    "case_id": "TE00545",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9969354271888733,
+    "passes": true
+  },
+  {
+    "case_index": 546,
+    "case_id": "TE00546",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9968675374984741,
+    "passes": true
+  },
+  {
+    "case_index": 547,
+    "case_id": "TE00547",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9995086193084717,
+    "passes": true
+  },
+  {
+    "case_index": 548,
+    "case_id": "TE00548",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.99936842918396,
+    "passes": true
+  },
+  {
+    "case_index": 549,
+    "case_id": "TE00549",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9863332509994507,
+    "passes": true
+  },
+  {
+    "case_index": 550,
+    "case_id": "TE00550",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8859897255897522,
+    "passes": true
+  },
+  {
+    "case_index": 551,
+    "case_id": "TE00551",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9849624037742615,
+    "passes": true
+  },
+  {
+    "case_index": 552,
+    "case_id": "TE00552",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.31846490502357483,
+    "passes": false
+  },
+  {
+    "case_index": 553,
+    "case_id": "TE00553",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8054329752922058,
+    "passes": true
+  },
+  {
+    "case_index": 554,
+    "case_id": "TE00554",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.45751914381980896,
+    "passes": false
+  },
+  {
+    "case_index": 555,
+    "case_id": "TE00555",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9239462614059448,
+    "passes": true
+  },
+  {
+    "case_index": 556,
+    "case_id": "TE00556",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9591297507286072,
+    "passes": true
+  },
+  {
+    "case_index": 557,
+    "case_id": "TE00557",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.94130539894104,
+    "passes": true
+  },
+  {
+    "case_index": 558,
+    "case_id": "TE00558",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9423758387565613,
+    "passes": true
+  },
+  {
+    "case_index": 559,
+    "case_id": "TE00559",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8852438926696777,
+    "passes": true
+  },
+  {
+    "case_index": 560,
+    "case_id": "TE00560",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9203237891197205,
+    "passes": true
+  },
+  {
+    "case_index": 561,
+    "case_id": "TE00561",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9116184115409851,
+    "passes": true
+  },
+  {
+    "case_index": 562,
+    "case_id": "TE00562",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9330058693885803,
+    "passes": true
+  },
+  {
+    "case_index": 563,
+    "case_id": "TE00563",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.31122887134552,
+    "passes": false
+  },
+  {
+    "case_index": 564,
+    "case_id": "TE00564",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9920276999473572,
+    "passes": true
+  },
+  {
+    "case_index": 565,
+    "case_id": "TE00565",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.4703737497329712,
+    "passes": false
+  },
+  {
+    "case_index": 566,
+    "case_id": "TE00566",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.08244767785072327,
+    "passes": false
+  },
+  {
+    "case_index": 567,
+    "case_id": "TE00567",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8232948780059814,
+    "passes": true
+  },
+  {
+    "case_index": 568,
+    "case_id": "TE00568",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9173168540000916,
+    "passes": true
+  },
+  {
+    "case_index": 569,
+    "case_id": "TE00569",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9269534945487976,
+    "passes": true
+  },
+  {
+    "case_index": 570,
+    "case_id": "TE00570",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9790189862251282,
+    "passes": true
+  },
+  {
+    "case_index": 571,
+    "case_id": "TE00571",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9815621376037598,
+    "passes": true
+  },
+  {
+    "case_index": 572,
+    "case_id": "TE00572",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7585576176643372,
+    "passes": true
+  },
+  {
+    "case_index": 573,
+    "case_id": "TE00573",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.6690019369125366,
+    "passes": true
+  },
+  {
+    "case_index": 574,
+    "case_id": "TE00574",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.803166389465332,
+    "passes": true
+  },
+  {
+    "case_index": 575,
+    "case_id": "TE00575",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9880529046058655,
+    "passes": true
+  },
+  {
+    "case_index": 576,
+    "case_id": "TE00576",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8826477527618408,
+    "passes": true
+  },
+  {
+    "case_index": 577,
+    "case_id": "TE00577",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.890267550945282,
+    "passes": true
+  },
+  {
+    "case_index": 578,
+    "case_id": "TE00578",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.981998860836029,
+    "passes": true
+  },
+  {
+    "case_index": 579,
+    "case_id": "TE00579",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9229704141616821,
+    "passes": true
+  },
+  {
+    "case_index": 580,
+    "case_id": "TE00580",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8123992681503296,
+    "passes": true
+  },
+  {
+    "case_index": 581,
+    "case_id": "TE00581",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9130550026893616,
+    "passes": true
+  },
+  {
+    "case_index": 582,
+    "case_id": "TE00582",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.88526451587677,
+    "passes": true
+  },
+  {
+    "case_index": 583,
+    "case_id": "TE00583",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.4592733681201935,
+    "passes": false
+  },
+  {
+    "case_index": 584,
+    "case_id": "TE00584",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.19360175728797913,
+    "passes": false
+  },
+  {
+    "case_index": 585,
+    "case_id": "TE00585",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.49701762199401855,
+    "passes": false
+  },
+  {
+    "case_index": 586,
+    "case_id": "TE00586",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8294281959533691,
+    "passes": true
+  },
+  {
+    "case_index": 587,
+    "case_id": "TE00587",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.20814581215381622,
+    "passes": false
+  },
+  {
+    "case_index": 588,
+    "case_id": "TE00588",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8870131969451904,
+    "passes": true
+  },
+  {
+    "case_index": 589,
+    "case_id": "TE00589",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9319981932640076,
+    "passes": true
+  },
+  {
+    "case_index": 590,
+    "case_id": "TE00590",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9636616706848145,
+    "passes": true
+  },
+  {
+    "case_index": 591,
+    "case_id": "TE00591",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.7254712581634521,
+    "passes": true
+  },
+  {
+    "case_index": 592,
+    "case_id": "TE00592",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9151279926300049,
+    "passes": true
+  },
+  {
+    "case_index": 593,
+    "case_id": "TE00593",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8064990639686584,
+    "passes": true
+  },
+  {
+    "case_index": 594,
+    "case_id": "TE00594",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.46805858612060547,
+    "passes": false
+  },
+  {
+    "case_index": 595,
+    "case_id": "TE00595",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.3376612067222595,
+    "passes": false
+  },
+  {
+    "case_index": 596,
+    "case_id": "TE00596",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.8187059164047241,
+    "passes": true
+  },
+  {
+    "case_index": 597,
+    "case_id": "TE00597",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": true,
+    "prob_drop": 0.9603093266487122,
+    "passes": true
+  },
+  {
+    "case_index": 598,
+    "case_id": "TE00598",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.39297255873680115,
+    "passes": false
+  },
+  {
+    "case_index": 599,
+    "case_id": "TE00599",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "mlp",
+    "correct": false,
+    "prob_drop": 0.46699821949005127,
+    "passes": false
+  },
+  {
+    "case_index": 150,
+    "case_id": "TE00150",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994516372680664,
+    "passes": true
+  },
+  {
+    "case_index": 151,
+    "case_id": "TE00151",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999887228012085,
+    "passes": true
+  },
+  {
+    "case_index": 152,
+    "case_id": "TE00152",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998385310173035,
+    "passes": true
+  },
+  {
+    "case_index": 153,
+    "case_id": "TE00153",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999585747718811,
+    "passes": true
+  },
+  {
+    "case_index": 154,
+    "case_id": "TE00154",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999912679195404,
+    "passes": true
+  },
+  {
+    "case_index": 155,
+    "case_id": "TE00155",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997129440307617,
+    "passes": true
+  },
+  {
+    "case_index": 156,
+    "case_id": "TE00156",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998965859413147,
+    "passes": true
+  },
+  {
+    "case_index": 157,
+    "case_id": "TE00157",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997379183769226,
+    "passes": true
+  },
+  {
+    "case_index": 158,
+    "case_id": "TE00158",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997149109840393,
+    "passes": true
+  },
+  {
+    "case_index": 159,
+    "case_id": "TE00159",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999517798423767,
+    "passes": true
+  },
+  {
+    "case_index": 160,
+    "case_id": "TE00160",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999310374259949,
+    "passes": true
+  },
+  {
+    "case_index": 161,
+    "case_id": "TE00161",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999241232872009,
+    "passes": true
+  },
+  {
+    "case_index": 162,
+    "case_id": "TE00162",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998470544815063,
+    "passes": true
+  },
+  {
+    "case_index": 163,
+    "case_id": "TE00163",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999297261238098,
+    "passes": true
+  },
+  {
+    "case_index": 164,
+    "case_id": "TE00164",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998785853385925,
+    "passes": true
+  },
+  {
+    "case_index": 165,
+    "case_id": "TE00165",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999563694000244,
+    "passes": true
+  },
+  {
+    "case_index": 166,
+    "case_id": "TE00166",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997494220733643,
+    "passes": true
+  },
+  {
+    "case_index": 167,
+    "case_id": "TE00167",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998086094856262,
+    "passes": true
+  },
+  {
+    "case_index": 168,
+    "case_id": "TE00168",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994722008705139,
+    "passes": true
+  },
+  {
+    "case_index": 169,
+    "case_id": "TE00169",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997991323471069,
+    "passes": true
+  },
+  {
+    "case_index": 170,
+    "case_id": "TE00170",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999006390571594,
+    "passes": true
+  },
+  {
+    "case_index": 171,
+    "case_id": "TE00171",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998949766159058,
+    "passes": true
+  },
+  {
+    "case_index": 172,
+    "case_id": "TE00172",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999393820762634,
+    "passes": true
+  },
+  {
+    "case_index": 173,
+    "case_id": "TE00173",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999854564666748,
+    "passes": true
+  },
+  {
+    "case_index": 174,
+    "case_id": "TE00174",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996371269226074,
+    "passes": true
+  },
+  {
+    "case_index": 175,
+    "case_id": "TE00175",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998269081115723,
+    "passes": true
+  },
+  {
+    "case_index": 176,
+    "case_id": "TE00176",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997782111167908,
+    "passes": true
+  },
+  {
+    "case_index": 177,
+    "case_id": "TE00177",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999386072158813,
+    "passes": true
+  },
+  {
+    "case_index": 178,
+    "case_id": "TE00178",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999573230743408,
+    "passes": true
+  },
+  {
+    "case_index": 179,
+    "case_id": "TE00179",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998241662979126,
+    "passes": true
+  },
+  {
+    "case_index": 180,
+    "case_id": "TE00180",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9991362690925598,
+    "passes": true
+  },
+  {
+    "case_index": 181,
+    "case_id": "TE00181",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994528889656067,
+    "passes": true
+  },
+  {
+    "case_index": 182,
+    "case_id": "TE00182",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999586939811707,
+    "passes": true
+  },
+  {
+    "case_index": 183,
+    "case_id": "TE00183",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999297857284546,
+    "passes": true
+  },
+  {
+    "case_index": 184,
+    "case_id": "TE00184",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998896718025208,
+    "passes": true
+  },
+  {
+    "case_index": 185,
+    "case_id": "TE00185",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998718500137329,
+    "passes": true
+  },
+  {
+    "case_index": 186,
+    "case_id": "TE00186",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.99978107213974,
+    "passes": true
+  },
+  {
+    "case_index": 187,
+    "case_id": "TE00187",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9974639415740967,
+    "passes": true
+  },
+  {
+    "case_index": 188,
+    "case_id": "TE00188",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998324513435364,
+    "passes": true
+  },
+  {
+    "case_index": 189,
+    "case_id": "TE00189",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999029040336609,
+    "passes": true
+  },
+  {
+    "case_index": 190,
+    "case_id": "TE00190",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994138479232788,
+    "passes": true
+  },
+  {
+    "case_index": 191,
+    "case_id": "TE00191",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9992951154708862,
+    "passes": true
+  },
+  {
+    "case_index": 192,
+    "case_id": "TE00192",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997729063034058,
+    "passes": true
+  },
+  {
+    "case_index": 193,
+    "case_id": "TE00193",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997419714927673,
+    "passes": true
+  },
+  {
+    "case_index": 194,
+    "case_id": "TE00194",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999440312385559,
+    "passes": true
+  },
+  {
+    "case_index": 195,
+    "case_id": "TE00195",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998591542243958,
+    "passes": true
+  },
+  {
+    "case_index": 196,
+    "case_id": "TE00196",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998318552970886,
+    "passes": true
+  },
+  {
+    "case_index": 197,
+    "case_id": "TE00197",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999750256538391,
+    "passes": true
+  },
+  {
+    "case_index": 198,
+    "case_id": "TE00198",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999439120292664,
+    "passes": true
+  },
+  {
+    "case_index": 199,
+    "case_id": "TE00199",
+    "label": "fraud",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996610283851624,
+    "passes": true
+  },
+  {
+    "case_index": 200,
+    "case_id": "TE00200",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997991919517517,
+    "passes": true
+  },
+  {
+    "case_index": 201,
+    "case_id": "TE00201",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999194860458374,
+    "passes": true
+  },
+  {
+    "case_index": 202,
+    "case_id": "TE00202",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999014139175415,
+    "passes": true
+  },
+  {
+    "case_index": 203,
+    "case_id": "TE00203",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996683597564697,
+    "passes": true
+  },
+  {
+    "case_index": 204,
+    "case_id": "TE00204",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.99934983253479,
+    "passes": true
+  },
+  {
+    "case_index": 205,
+    "case_id": "TE00205",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997470378875732,
+    "passes": true
+  },
+  {
+    "case_index": 206,
+    "case_id": "TE00206",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998493790626526,
+    "passes": true
+  },
+  {
+    "case_index": 207,
+    "case_id": "TE00207",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9986379146575928,
+    "passes": true
+  },
+  {
+    "case_index": 208,
+    "case_id": "TE00208",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996316432952881,
+    "passes": true
+  },
+  {
+    "case_index": 209,
+    "case_id": "TE00209",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994506239891052,
+    "passes": true
+  },
+  {
+    "case_index": 210,
+    "case_id": "TE00210",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999446272850037,
+    "passes": true
+  },
+  {
+    "case_index": 211,
+    "case_id": "TE00211",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9982516765594482,
+    "passes": true
+  },
+  {
+    "case_index": 212,
+    "case_id": "TE00212",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995964765548706,
+    "passes": true
+  },
+  {
+    "case_index": 213,
+    "case_id": "TE00213",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999042749404907,
+    "passes": true
+  },
+  {
+    "case_index": 214,
+    "case_id": "TE00214",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998460412025452,
+    "passes": true
+  },
+  {
+    "case_index": 215,
+    "case_id": "TE00215",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993501901626587,
+    "passes": true
+  },
+  {
+    "case_index": 216,
+    "case_id": "TE00216",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998789429664612,
+    "passes": true
+  },
+  {
+    "case_index": 217,
+    "case_id": "TE00217",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995524883270264,
+    "passes": true
+  },
+  {
+    "case_index": 218,
+    "case_id": "TE00218",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998124837875366,
+    "passes": true
+  },
+  {
+    "case_index": 219,
+    "case_id": "TE00219",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994984865188599,
+    "passes": true
+  },
+  {
+    "case_index": 220,
+    "case_id": "TE00220",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993754029273987,
+    "passes": true
+  },
+  {
+    "case_index": 221,
+    "case_id": "TE00221",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999833345413208,
+    "passes": true
+  },
+  {
+    "case_index": 222,
+    "case_id": "TE00222",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9985942840576172,
+    "passes": true
+  },
+  {
+    "case_index": 223,
+    "case_id": "TE00223",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996418952941895,
+    "passes": true
+  },
+  {
+    "case_index": 224,
+    "case_id": "TE00224",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998605847358704,
+    "passes": true
+  },
+  {
+    "case_index": 225,
+    "case_id": "TE00225",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999799370765686,
+    "passes": true
+  },
+  {
+    "case_index": 226,
+    "case_id": "TE00226",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998414516448975,
+    "passes": true
+  },
+  {
+    "case_index": 227,
+    "case_id": "TE00227",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999758243560791,
+    "passes": true
+  },
+  {
+    "case_index": 228,
+    "case_id": "TE00228",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999374151229858,
+    "passes": true
+  },
+  {
+    "case_index": 229,
+    "case_id": "TE00229",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999416172504425,
+    "passes": true
+  },
+  {
+    "case_index": 230,
+    "case_id": "TE00230",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999473690986633,
+    "passes": true
+  },
+  {
+    "case_index": 231,
+    "case_id": "TE00231",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998542666435242,
+    "passes": true
+  },
+  {
+    "case_index": 232,
+    "case_id": "TE00232",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9972610473632812,
+    "passes": true
+  },
+  {
+    "case_index": 233,
+    "case_id": "TE00233",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998127818107605,
+    "passes": true
+  },
+  {
+    "case_index": 234,
+    "case_id": "TE00234",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998160004615784,
+    "passes": true
+  },
+  {
+    "case_index": 235,
+    "case_id": "TE00235",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9955422878265381,
+    "passes": true
+  },
+  {
+    "case_index": 236,
+    "case_id": "TE00236",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999014735221863,
+    "passes": true
+  },
+  {
+    "case_index": 237,
+    "case_id": "TE00237",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998421669006348,
+    "passes": true
+  },
+  {
+    "case_index": 238,
+    "case_id": "TE00238",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997689723968506,
+    "passes": true
+  },
+  {
+    "case_index": 239,
+    "case_id": "TE00239",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998912811279297,
+    "passes": true
+  },
+  {
+    "case_index": 240,
+    "case_id": "TE00240",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9989850521087646,
+    "passes": true
+  },
+  {
+    "case_index": 241,
+    "case_id": "TE00241",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997314810752869,
+    "passes": true
+  },
+  {
+    "case_index": 242,
+    "case_id": "TE00242",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997767210006714,
+    "passes": true
+  },
+  {
+    "case_index": 243,
+    "case_id": "TE00243",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997004270553589,
+    "passes": true
+  },
+  {
+    "case_index": 244,
+    "case_id": "TE00244",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997655153274536,
+    "passes": true
+  },
+  {
+    "case_index": 245,
+    "case_id": "TE00245",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996626973152161,
+    "passes": true
+  },
+  {
+    "case_index": 246,
+    "case_id": "TE00246",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998349547386169,
+    "passes": true
+  },
+  {
+    "case_index": 247,
+    "case_id": "TE00247",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997583627700806,
+    "passes": true
+  },
+  {
+    "case_index": 248,
+    "case_id": "TE00248",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999651312828064,
+    "passes": true
+  },
+  {
+    "case_index": 249,
+    "case_id": "TE00249",
+    "label": "fraud",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998475313186646,
+    "passes": true
+  },
+  {
+    "case_index": 250,
+    "case_id": "TE00250",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9768245220184326,
+    "passes": true
+  },
+  {
+    "case_index": 251,
+    "case_id": "TE00251",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9880144596099854,
+    "passes": true
+  },
+  {
+    "case_index": 252,
+    "case_id": "TE00252",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.946733832359314,
+    "passes": true
+  },
+  {
+    "case_index": 253,
+    "case_id": "TE00253",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.764971137046814,
+    "passes": true
+  },
+  {
+    "case_index": 254,
+    "case_id": "TE00254",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.7422806024551392,
+    "passes": true
+  },
+  {
+    "case_index": 255,
+    "case_id": "TE00255",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9844419956207275,
+    "passes": true
+  },
+  {
+    "case_index": 256,
+    "case_id": "TE00256",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9973040223121643,
+    "passes": true
+  },
+  {
+    "case_index": 257,
+    "case_id": "TE00257",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.6695873141288757,
+    "passes": true
+  },
+  {
+    "case_index": 258,
+    "case_id": "TE00258",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.15038451552391052,
+    "passes": false
+  },
+  {
+    "case_index": 259,
+    "case_id": "TE00259",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8111352920532227,
+    "passes": true
+  },
+  {
+    "case_index": 260,
+    "case_id": "TE00260",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9973405003547668,
+    "passes": true
+  },
+  {
+    "case_index": 261,
+    "case_id": "TE00261",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.968140721321106,
+    "passes": true
+  },
+  {
+    "case_index": 262,
+    "case_id": "TE00262",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.5034393668174744,
+    "passes": true
+  },
+  {
+    "case_index": 263,
+    "case_id": "TE00263",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.639253556728363,
+    "passes": true
+  },
+  {
+    "case_index": 264,
+    "case_id": "TE00264",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.2106902152299881,
+    "passes": false
+  },
+  {
+    "case_index": 265,
+    "case_id": "TE00265",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.011909081600606441,
+    "passes": false
+  },
+  {
+    "case_index": 266,
+    "case_id": "TE00266",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.994835615158081,
+    "passes": true
+  },
+  {
+    "case_index": 267,
+    "case_id": "TE00267",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.39972129464149475,
+    "passes": false
+  },
+  {
+    "case_index": 268,
+    "case_id": "TE00268",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9924852252006531,
+    "passes": true
+  },
+  {
+    "case_index": 269,
+    "case_id": "TE00269",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9979972839355469,
+    "passes": true
+  },
+  {
+    "case_index": 270,
+    "case_id": "TE00270",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9873819351196289,
+    "passes": true
+  },
+  {
+    "case_index": 271,
+    "case_id": "TE00271",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9950968027114868,
+    "passes": true
+  },
+  {
+    "case_index": 272,
+    "case_id": "TE00272",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8911540508270264,
+    "passes": true
+  },
+  {
+    "case_index": 273,
+    "case_id": "TE00273",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9839935302734375,
+    "passes": true
+  },
+  {
+    "case_index": 274,
+    "case_id": "TE00274",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9934021830558777,
+    "passes": true
+  },
+  {
+    "case_index": 275,
+    "case_id": "TE00275",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9964275360107422,
+    "passes": true
+  },
+  {
+    "case_index": 276,
+    "case_id": "TE00276",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9887731075286865,
+    "passes": true
+  },
+  {
+    "case_index": 277,
+    "case_id": "TE00277",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9092188477516174,
+    "passes": true
+  },
+  {
+    "case_index": 278,
+    "case_id": "TE00278",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9988735914230347,
+    "passes": true
+  },
+  {
+    "case_index": 279,
+    "case_id": "TE00279",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9925703406333923,
+    "passes": true
+  },
+  {
+    "case_index": 280,
+    "case_id": "TE00280",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9925441145896912,
+    "passes": true
+  },
+  {
+    "case_index": 281,
+    "case_id": "TE00281",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9969048500061035,
+    "passes": true
+  },
+  {
+    "case_index": 282,
+    "case_id": "TE00282",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9701513051986694,
+    "passes": true
+  },
+  {
+    "case_index": 283,
+    "case_id": "TE00283",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9694042801856995,
+    "passes": true
+  },
+  {
+    "case_index": 284,
+    "case_id": "TE00284",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.11490441858768463,
+    "passes": false
+  },
+  {
+    "case_index": 285,
+    "case_id": "TE00285",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.4315643310546875,
+    "passes": false
+  },
+  {
+    "case_index": 286,
+    "case_id": "TE00286",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9186357259750366,
+    "passes": true
+  },
+  {
+    "case_index": 287,
+    "case_id": "TE00287",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.77030348777771,
+    "passes": true
+  },
+  {
+    "case_index": 288,
+    "case_id": "TE00288",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8694448471069336,
+    "passes": true
+  },
+  {
+    "case_index": 289,
+    "case_id": "TE00289",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.4158024489879608,
+    "passes": false
+  },
+  {
+    "case_index": 290,
+    "case_id": "TE00290",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9092950224876404,
+    "passes": true
+  },
+  {
+    "case_index": 291,
+    "case_id": "TE00291",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8056140542030334,
+    "passes": true
+  },
+  {
+    "case_index": 292,
+    "case_id": "TE00292",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.7818700671195984,
+    "passes": true
+  },
+  {
+    "case_index": 293,
+    "case_id": "TE00293",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9893993139266968,
+    "passes": true
+  },
+  {
+    "case_index": 294,
+    "case_id": "TE00294",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9571177959442139,
+    "passes": true
+  },
+  {
+    "case_index": 295,
+    "case_id": "TE00295",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.995680034160614,
+    "passes": true
+  },
+  {
+    "case_index": 296,
+    "case_id": "TE00296",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9952951073646545,
+    "passes": true
+  },
+  {
+    "case_index": 297,
+    "case_id": "TE00297",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.6414167284965515,
+    "passes": true
+  },
+  {
+    "case_index": 298,
+    "case_id": "TE00298",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8506938815116882,
+    "passes": true
+  },
+  {
+    "case_index": 299,
+    "case_id": "TE00299",
+    "label": "fraud",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.832590639591217,
+    "passes": true
+  },
+  {
+    "case_index": 300,
+    "case_id": "TE00300",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999085664749146,
+    "passes": true
+  },
+  {
+    "case_index": 301,
+    "case_id": "TE00301",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999536871910095,
+    "passes": true
+  },
+  {
+    "case_index": 302,
+    "case_id": "TE00302",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995694756507874,
+    "passes": true
+  },
+  {
+    "case_index": 303,
+    "case_id": "TE00303",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997857213020325,
+    "passes": true
+  },
+  {
+    "case_index": 304,
+    "case_id": "TE00304",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999424815177917,
+    "passes": true
+  },
+  {
+    "case_index": 305,
+    "case_id": "TE00305",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993192553520203,
+    "passes": true
+  },
+  {
+    "case_index": 306,
+    "case_id": "TE00306",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996832609176636,
+    "passes": true
+  },
+  {
+    "case_index": 307,
+    "case_id": "TE00307",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998577833175659,
+    "passes": true
+  },
+  {
+    "case_index": 308,
+    "case_id": "TE00308",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999923050403595,
+    "passes": true
+  },
+  {
+    "case_index": 309,
+    "case_id": "TE00309",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999248206615448,
+    "passes": true
+  },
+  {
+    "case_index": 310,
+    "case_id": "TE00310",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999479651451111,
+    "passes": true
+  },
+  {
+    "case_index": 311,
+    "case_id": "TE00311",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9991536736488342,
+    "passes": true
+  },
+  {
+    "case_index": 312,
+    "case_id": "TE00312",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998584985733032,
+    "passes": true
+  },
+  {
+    "case_index": 313,
+    "case_id": "TE00313",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.99990314245224,
+    "passes": true
+  },
+  {
+    "case_index": 314,
+    "case_id": "TE00314",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994762539863586,
+    "passes": true
+  },
+  {
+    "case_index": 315,
+    "case_id": "TE00315",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997239708900452,
+    "passes": true
+  },
+  {
+    "case_index": 316,
+    "case_id": "TE00316",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998530745506287,
+    "passes": true
+  },
+  {
+    "case_index": 317,
+    "case_id": "TE00317",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994235038757324,
+    "passes": true
+  },
+  {
+    "case_index": 318,
+    "case_id": "TE00318",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996035695075989,
+    "passes": true
+  },
+  {
+    "case_index": 319,
+    "case_id": "TE00319",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996124505996704,
+    "passes": true
+  },
+  {
+    "case_index": 320,
+    "case_id": "TE00320",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999702513217926,
+    "passes": true
+  },
+  {
+    "case_index": 321,
+    "case_id": "TE00321",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997402429580688,
+    "passes": true
+  },
+  {
+    "case_index": 322,
+    "case_id": "TE00322",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999037384986877,
+    "passes": true
+  },
+  {
+    "case_index": 323,
+    "case_id": "TE00323",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998849034309387,
+    "passes": true
+  },
+  {
+    "case_index": 324,
+    "case_id": "TE00324",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999071955680847,
+    "passes": true
+  },
+  {
+    "case_index": 325,
+    "case_id": "TE00325",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997095465660095,
+    "passes": true
+  },
+  {
+    "case_index": 326,
+    "case_id": "TE00326",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997621774673462,
+    "passes": true
+  },
+  {
+    "case_index": 327,
+    "case_id": "TE00327",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997544884681702,
+    "passes": true
+  },
+  {
+    "case_index": 328,
+    "case_id": "TE00328",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9976181387901306,
+    "passes": true
+  },
+  {
+    "case_index": 329,
+    "case_id": "TE00329",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996371269226074,
+    "passes": true
+  },
+  {
+    "case_index": 330,
+    "case_id": "TE00330",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996321797370911,
+    "passes": true
+  },
+  {
+    "case_index": 331,
+    "case_id": "TE00331",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999056458473206,
+    "passes": true
+  },
+  {
+    "case_index": 332,
+    "case_id": "TE00332",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997878670692444,
+    "passes": true
+  },
+  {
+    "case_index": 333,
+    "case_id": "TE00333",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999129772186279,
+    "passes": true
+  },
+  {
+    "case_index": 334,
+    "case_id": "TE00334",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998714923858643,
+    "passes": true
+  },
+  {
+    "case_index": 335,
+    "case_id": "TE00335",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998193383216858,
+    "passes": true
+  },
+  {
+    "case_index": 336,
+    "case_id": "TE00336",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999154210090637,
+    "passes": true
+  },
+  {
+    "case_index": 337,
+    "case_id": "TE00337",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993210434913635,
+    "passes": true
+  },
+  {
+    "case_index": 338,
+    "case_id": "TE00338",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9992694854736328,
+    "passes": true
+  },
+  {
+    "case_index": 339,
+    "case_id": "TE00339",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999809861183167,
+    "passes": true
+  },
+  {
+    "case_index": 340,
+    "case_id": "TE00340",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997280836105347,
+    "passes": true
+  },
+  {
+    "case_index": 341,
+    "case_id": "TE00341",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993667602539062,
+    "passes": true
+  },
+  {
+    "case_index": 342,
+    "case_id": "TE00342",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997814893722534,
+    "passes": true
+  },
+  {
+    "case_index": 343,
+    "case_id": "TE00343",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996007680892944,
+    "passes": true
+  },
+  {
+    "case_index": 344,
+    "case_id": "TE00344",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999180436134338,
+    "passes": true
+  },
+  {
+    "case_index": 345,
+    "case_id": "TE00345",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996285438537598,
+    "passes": true
+  },
+  {
+    "case_index": 346,
+    "case_id": "TE00346",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998725056648254,
+    "passes": true
+  },
+  {
+    "case_index": 347,
+    "case_id": "TE00347",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999225914478302,
+    "passes": true
+  },
+  {
+    "case_index": 348,
+    "case_id": "TE00348",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9991977214813232,
+    "passes": true
+  },
+  {
+    "case_index": 349,
+    "case_id": "TE00349",
+    "label": "harassment",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9992584586143494,
+    "passes": true
+  },
+  {
+    "case_index": 350,
+    "case_id": "TE00350",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9991698861122131,
+    "passes": true
+  },
+  {
+    "case_index": 351,
+    "case_id": "TE00351",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996651411056519,
+    "passes": true
+  },
+  {
+    "case_index": 352,
+    "case_id": "TE00352",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.998969554901123,
+    "passes": true
+  },
+  {
+    "case_index": 353,
+    "case_id": "TE00353",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995343089103699,
+    "passes": true
+  },
+  {
+    "case_index": 354,
+    "case_id": "TE00354",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995579719543457,
+    "passes": true
+  },
+  {
+    "case_index": 355,
+    "case_id": "TE00355",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996083378791809,
+    "passes": true
+  },
+  {
+    "case_index": 356,
+    "case_id": "TE00356",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996427297592163,
+    "passes": true
+  },
+  {
+    "case_index": 357,
+    "case_id": "TE00357",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997842907905579,
+    "passes": true
+  },
+  {
+    "case_index": 358,
+    "case_id": "TE00358",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9713240265846252,
+    "passes": true
+  },
+  {
+    "case_index": 359,
+    "case_id": "TE00359",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996756911277771,
+    "passes": true
+  },
+  {
+    "case_index": 360,
+    "case_id": "TE00360",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998229742050171,
+    "passes": true
+  },
+  {
+    "case_index": 361,
+    "case_id": "TE00361",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995741248130798,
+    "passes": true
+  },
+  {
+    "case_index": 362,
+    "case_id": "TE00362",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997515082359314,
+    "passes": true
+  },
+  {
+    "case_index": 363,
+    "case_id": "TE00363",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.99937903881073,
+    "passes": true
+  },
+  {
+    "case_index": 364,
+    "case_id": "TE00364",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9980299472808838,
+    "passes": true
+  },
+  {
+    "case_index": 365,
+    "case_id": "TE00365",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9971619248390198,
+    "passes": true
+  },
+  {
+    "case_index": 366,
+    "case_id": "TE00366",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998524785041809,
+    "passes": true
+  },
+  {
+    "case_index": 367,
+    "case_id": "TE00367",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998615980148315,
+    "passes": true
+  },
+  {
+    "case_index": 368,
+    "case_id": "TE00368",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997172951698303,
+    "passes": true
+  },
+  {
+    "case_index": 369,
+    "case_id": "TE00369",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996153116226196,
+    "passes": true
+  },
+  {
+    "case_index": 370,
+    "case_id": "TE00370",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9978801012039185,
+    "passes": true
+  },
+  {
+    "case_index": 371,
+    "case_id": "TE00371",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998326897621155,
+    "passes": true
+  },
+  {
+    "case_index": 372,
+    "case_id": "TE00372",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999858558177948,
+    "passes": true
+  },
+  {
+    "case_index": 373,
+    "case_id": "TE00373",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995859265327454,
+    "passes": true
+  },
+  {
+    "case_index": 374,
+    "case_id": "TE00374",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995434880256653,
+    "passes": true
+  },
+  {
+    "case_index": 375,
+    "case_id": "TE00375",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998711943626404,
+    "passes": true
+  },
+  {
+    "case_index": 376,
+    "case_id": "TE00376",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997031092643738,
+    "passes": true
+  },
+  {
+    "case_index": 377,
+    "case_id": "TE00377",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997923970222473,
+    "passes": true
+  },
+  {
+    "case_index": 378,
+    "case_id": "TE00378",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994080662727356,
+    "passes": true
+  },
+  {
+    "case_index": 379,
+    "case_id": "TE00379",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997146725654602,
+    "passes": true
+  },
+  {
+    "case_index": 380,
+    "case_id": "TE00380",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998437166213989,
+    "passes": true
+  },
+  {
+    "case_index": 381,
+    "case_id": "TE00381",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996874332427979,
+    "passes": true
+  },
+  {
+    "case_index": 382,
+    "case_id": "TE00382",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9991075992584229,
+    "passes": true
+  },
+  {
+    "case_index": 383,
+    "case_id": "TE00383",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994476437568665,
+    "passes": true
+  },
+  {
+    "case_index": 384,
+    "case_id": "TE00384",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997249245643616,
+    "passes": true
+  },
+  {
+    "case_index": 385,
+    "case_id": "TE00385",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997289776802063,
+    "passes": true
+  },
+  {
+    "case_index": 386,
+    "case_id": "TE00386",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9992948174476624,
+    "passes": true
+  },
+  {
+    "case_index": 387,
+    "case_id": "TE00387",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994361996650696,
+    "passes": true
+  },
+  {
+    "case_index": 388,
+    "case_id": "TE00388",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.99968421459198,
+    "passes": true
+  },
+  {
+    "case_index": 389,
+    "case_id": "TE00389",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996640086174011,
+    "passes": true
+  },
+  {
+    "case_index": 390,
+    "case_id": "TE00390",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996572732925415,
+    "passes": true
+  },
+  {
+    "case_index": 391,
+    "case_id": "TE00391",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993140697479248,
+    "passes": true
+  },
+  {
+    "case_index": 392,
+    "case_id": "TE00392",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998675584793091,
+    "passes": true
+  },
+  {
+    "case_index": 393,
+    "case_id": "TE00393",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999646782875061,
+    "passes": true
+  },
+  {
+    "case_index": 394,
+    "case_id": "TE00394",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997426271438599,
+    "passes": true
+  },
+  {
+    "case_index": 395,
+    "case_id": "TE00395",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.99889075756073,
+    "passes": true
+  },
+  {
+    "case_index": 396,
+    "case_id": "TE00396",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998975992202759,
+    "passes": true
+  },
+  {
+    "case_index": 397,
+    "case_id": "TE00397",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997817873954773,
+    "passes": true
+  },
+  {
+    "case_index": 398,
+    "case_id": "TE00398",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999793529510498,
+    "passes": true
+  },
+  {
+    "case_index": 399,
+    "case_id": "TE00399",
+    "label": "harassment",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993600249290466,
+    "passes": true
+  },
+  {
+    "case_index": 400,
+    "case_id": "TE00400",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9521946907043457,
+    "passes": true
+  },
+  {
+    "case_index": 401,
+    "case_id": "TE00401",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9824893474578857,
+    "passes": true
+  },
+  {
+    "case_index": 402,
+    "case_id": "TE00402",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.961036205291748,
+    "passes": true
+  },
+  {
+    "case_index": 403,
+    "case_id": "TE00403",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9854745864868164,
+    "passes": true
+  },
+  {
+    "case_index": 404,
+    "case_id": "TE00404",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.789614200592041,
+    "passes": true
+  },
+  {
+    "case_index": 405,
+    "case_id": "TE00405",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.989387035369873,
+    "passes": true
+  },
+  {
+    "case_index": 406,
+    "case_id": "TE00406",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9887060523033142,
+    "passes": true
+  },
+  {
+    "case_index": 407,
+    "case_id": "TE00407",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9873757362365723,
+    "passes": true
+  },
+  {
+    "case_index": 408,
+    "case_id": "TE00408",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.18869905173778534,
+    "passes": false
+  },
+  {
+    "case_index": 409,
+    "case_id": "TE00409",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9909794330596924,
+    "passes": true
+  },
+  {
+    "case_index": 410,
+    "case_id": "TE00410",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9910022020339966,
+    "passes": true
+  },
+  {
+    "case_index": 411,
+    "case_id": "TE00411",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9499956369400024,
+    "passes": true
+  },
+  {
+    "case_index": 412,
+    "case_id": "TE00412",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9268911480903625,
+    "passes": true
+  },
+  {
+    "case_index": 413,
+    "case_id": "TE00413",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9686927795410156,
+    "passes": true
+  },
+  {
+    "case_index": 414,
+    "case_id": "TE00414",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.985235333442688,
+    "passes": true
+  },
+  {
+    "case_index": 415,
+    "case_id": "TE00415",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9242612719535828,
+    "passes": true
+  },
+  {
+    "case_index": 416,
+    "case_id": "TE00416",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9982888698577881,
+    "passes": true
+  },
+  {
+    "case_index": 417,
+    "case_id": "TE00417",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.6703831553459167,
+    "passes": true
+  },
+  {
+    "case_index": 418,
+    "case_id": "TE00418",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9788533449172974,
+    "passes": true
+  },
+  {
+    "case_index": 419,
+    "case_id": "TE00419",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.958213210105896,
+    "passes": true
+  },
+  {
+    "case_index": 420,
+    "case_id": "TE00420",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.6163530349731445,
+    "passes": true
+  },
+  {
+    "case_index": 421,
+    "case_id": "TE00421",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9980559945106506,
+    "passes": true
+  },
+  {
+    "case_index": 422,
+    "case_id": "TE00422",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.49606987833976746,
+    "passes": false
+  },
+  {
+    "case_index": 423,
+    "case_id": "TE00423",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.974361002445221,
+    "passes": true
+  },
+  {
+    "case_index": 424,
+    "case_id": "TE00424",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9927528500556946,
+    "passes": true
+  },
+  {
+    "case_index": 425,
+    "case_id": "TE00425",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.21197707951068878,
+    "passes": false
+  },
+  {
+    "case_index": 426,
+    "case_id": "TE00426",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9750915169715881,
+    "passes": true
+  },
+  {
+    "case_index": 427,
+    "case_id": "TE00427",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9855071902275085,
+    "passes": true
+  },
+  {
+    "case_index": 428,
+    "case_id": "TE00428",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.31066733598709106,
+    "passes": false
+  },
+  {
+    "case_index": 429,
+    "case_id": "TE00429",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9961116313934326,
+    "passes": true
+  },
+  {
+    "case_index": 430,
+    "case_id": "TE00430",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9930133819580078,
+    "passes": true
+  },
+  {
+    "case_index": 431,
+    "case_id": "TE00431",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9711580276489258,
+    "passes": true
+  },
+  {
+    "case_index": 432,
+    "case_id": "TE00432",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9795498847961426,
+    "passes": true
+  },
+  {
+    "case_index": 433,
+    "case_id": "TE00433",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9893972277641296,
+    "passes": true
+  },
+  {
+    "case_index": 434,
+    "case_id": "TE00434",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.778851330280304,
+    "passes": true
+  },
+  {
+    "case_index": 435,
+    "case_id": "TE00435",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9773860573768616,
+    "passes": true
+  },
+  {
+    "case_index": 436,
+    "case_id": "TE00436",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9491147994995117,
+    "passes": true
+  },
+  {
+    "case_index": 437,
+    "case_id": "TE00437",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9114475250244141,
+    "passes": true
+  },
+  {
+    "case_index": 438,
+    "case_id": "TE00438",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9849328398704529,
+    "passes": true
+  },
+  {
+    "case_index": 439,
+    "case_id": "TE00439",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9341833591461182,
+    "passes": true
+  },
+  {
+    "case_index": 440,
+    "case_id": "TE00440",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8267225027084351,
+    "passes": true
+  },
+  {
+    "case_index": 441,
+    "case_id": "TE00441",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9780627489089966,
+    "passes": true
+  },
+  {
+    "case_index": 442,
+    "case_id": "TE00442",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9898746609687805,
+    "passes": true
+  },
+  {
+    "case_index": 443,
+    "case_id": "TE00443",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.011832952499389648,
+    "passes": false
+  },
+  {
+    "case_index": 444,
+    "case_id": "TE00444",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9775395393371582,
+    "passes": true
+  },
+  {
+    "case_index": 445,
+    "case_id": "TE00445",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9866603016853333,
+    "passes": true
+  },
+  {
+    "case_index": 446,
+    "case_id": "TE00446",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.5911632180213928,
+    "passes": true
+  },
+  {
+    "case_index": 447,
+    "case_id": "TE00447",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.952111005783081,
+    "passes": true
+  },
+  {
+    "case_index": 448,
+    "case_id": "TE00448",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9121308922767639,
+    "passes": true
+  },
+  {
+    "case_index": 449,
+    "case_id": "TE00449",
+    "label": "harassment",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.19711948931217194,
+    "passes": false
+  },
+  {
+    "case_index": 450,
+    "case_id": "TE00450",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9971599578857422,
+    "passes": true
+  },
+  {
+    "case_index": 451,
+    "case_id": "TE00451",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996346235275269,
+    "passes": true
+  },
+  {
+    "case_index": 452,
+    "case_id": "TE00452",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997373819351196,
+    "passes": true
+  },
+  {
+    "case_index": 453,
+    "case_id": "TE00453",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999553561210632,
+    "passes": true
+  },
+  {
+    "case_index": 454,
+    "case_id": "TE00454",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999696016311646,
+    "passes": true
+  },
+  {
+    "case_index": 455,
+    "case_id": "TE00455",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997292757034302,
+    "passes": true
+  },
+  {
+    "case_index": 456,
+    "case_id": "TE00456",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996340870857239,
+    "passes": true
+  },
+  {
+    "case_index": 457,
+    "case_id": "TE00457",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9712443351745605,
+    "passes": true
+  },
+  {
+    "case_index": 458,
+    "case_id": "TE00458",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999008774757385,
+    "passes": true
+  },
+  {
+    "case_index": 459,
+    "case_id": "TE00459",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998031258583069,
+    "passes": true
+  },
+  {
+    "case_index": 460,
+    "case_id": "TE00460",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998499751091003,
+    "passes": true
+  },
+  {
+    "case_index": 461,
+    "case_id": "TE00461",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999846875667572,
+    "passes": true
+  },
+  {
+    "case_index": 462,
+    "case_id": "TE00462",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997960925102234,
+    "passes": true
+  },
+  {
+    "case_index": 463,
+    "case_id": "TE00463",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999141097068787,
+    "passes": true
+  },
+  {
+    "case_index": 464,
+    "case_id": "TE00464",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999473094940186,
+    "passes": true
+  },
+  {
+    "case_index": 465,
+    "case_id": "TE00465",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999872624874115,
+    "passes": true
+  },
+  {
+    "case_index": 466,
+    "case_id": "TE00466",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998818039894104,
+    "passes": true
+  },
+  {
+    "case_index": 467,
+    "case_id": "TE00467",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998749494552612,
+    "passes": true
+  },
+  {
+    "case_index": 468,
+    "case_id": "TE00468",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998770356178284,
+    "passes": true
+  },
+  {
+    "case_index": 469,
+    "case_id": "TE00469",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999739408493042,
+    "passes": true
+  },
+  {
+    "case_index": 470,
+    "case_id": "TE00470",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996746778488159,
+    "passes": true
+  },
+  {
+    "case_index": 471,
+    "case_id": "TE00471",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999390840530396,
+    "passes": true
+  },
+  {
+    "case_index": 472,
+    "case_id": "TE00472",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9992040395736694,
+    "passes": true
+  },
+  {
+    "case_index": 473,
+    "case_id": "TE00473",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997318983078003,
+    "passes": true
+  },
+  {
+    "case_index": 474,
+    "case_id": "TE00474",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998552203178406,
+    "passes": true
+  },
+  {
+    "case_index": 475,
+    "case_id": "TE00475",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998583793640137,
+    "passes": true
+  },
+  {
+    "case_index": 476,
+    "case_id": "TE00476",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998476505279541,
+    "passes": true
+  },
+  {
+    "case_index": 477,
+    "case_id": "TE00477",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998464584350586,
+    "passes": true
+  },
+  {
+    "case_index": 478,
+    "case_id": "TE00478",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996752142906189,
+    "passes": true
+  },
+  {
+    "case_index": 479,
+    "case_id": "TE00479",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994869232177734,
+    "passes": true
+  },
+  {
+    "case_index": 480,
+    "case_id": "TE00480",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999009370803833,
+    "passes": true
+  },
+  {
+    "case_index": 481,
+    "case_id": "TE00481",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999661445617676,
+    "passes": true
+  },
+  {
+    "case_index": 482,
+    "case_id": "TE00482",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998683333396912,
+    "passes": true
+  },
+  {
+    "case_index": 483,
+    "case_id": "TE00483",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997051954269409,
+    "passes": true
+  },
+  {
+    "case_index": 484,
+    "case_id": "TE00484",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999613165855408,
+    "passes": true
+  },
+  {
+    "case_index": 485,
+    "case_id": "TE00485",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998977780342102,
+    "passes": true
+  },
+  {
+    "case_index": 486,
+    "case_id": "TE00486",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999083280563354,
+    "passes": true
+  },
+  {
+    "case_index": 487,
+    "case_id": "TE00487",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999829888343811,
+    "passes": true
+  },
+  {
+    "case_index": 488,
+    "case_id": "TE00488",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996331930160522,
+    "passes": true
+  },
+  {
+    "case_index": 489,
+    "case_id": "TE00489",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998359680175781,
+    "passes": true
+  },
+  {
+    "case_index": 490,
+    "case_id": "TE00490",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999515414237976,
+    "passes": true
+  },
+  {
+    "case_index": 491,
+    "case_id": "TE00491",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998947978019714,
+    "passes": true
+  },
+  {
+    "case_index": 492,
+    "case_id": "TE00492",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996921420097351,
+    "passes": true
+  },
+  {
+    "case_index": 493,
+    "case_id": "TE00493",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999910831451416,
+    "passes": true
+  },
+  {
+    "case_index": 494,
+    "case_id": "TE00494",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998860955238342,
+    "passes": true
+  },
+  {
+    "case_index": 495,
+    "case_id": "TE00495",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999910831451416,
+    "passes": true
+  },
+  {
+    "case_index": 496,
+    "case_id": "TE00496",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999627470970154,
+    "passes": true
+  },
+  {
+    "case_index": 497,
+    "case_id": "TE00497",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9992986917495728,
+    "passes": true
+  },
+  {
+    "case_index": 498,
+    "case_id": "TE00498",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9992849230766296,
+    "passes": true
+  },
+  {
+    "case_index": 499,
+    "case_id": "TE00499",
+    "label": "cybercrime",
+    "tier": "easy",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999305605888367,
+    "passes": true
+  },
+  {
+    "case_index": 500,
+    "case_id": "TE00500",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998482465744019,
+    "passes": true
+  },
+  {
+    "case_index": 501,
+    "case_id": "TE00501",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997766017913818,
+    "passes": true
+  },
+  {
+    "case_index": 502,
+    "case_id": "TE00502",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999606192111969,
+    "passes": true
+  },
+  {
+    "case_index": 503,
+    "case_id": "TE00503",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997878074645996,
+    "passes": true
+  },
+  {
+    "case_index": 504,
+    "case_id": "TE00504",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996833801269531,
+    "passes": true
+  },
+  {
+    "case_index": 505,
+    "case_id": "TE00505",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999768853187561,
+    "passes": true
+  },
+  {
+    "case_index": 506,
+    "case_id": "TE00506",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9721344709396362,
+    "passes": true
+  },
+  {
+    "case_index": 507,
+    "case_id": "TE00507",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9874887466430664,
+    "passes": true
+  },
+  {
+    "case_index": 508,
+    "case_id": "TE00508",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996665120124817,
+    "passes": true
+  },
+  {
+    "case_index": 509,
+    "case_id": "TE00509",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999902606010437,
+    "passes": true
+  },
+  {
+    "case_index": 510,
+    "case_id": "TE00510",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.99974524974823,
+    "passes": true
+  },
+  {
+    "case_index": 511,
+    "case_id": "TE00511",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999613344669342,
+    "passes": true
+  },
+  {
+    "case_index": 512,
+    "case_id": "TE00512",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998312592506409,
+    "passes": true
+  },
+  {
+    "case_index": 513,
+    "case_id": "TE00513",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998457431793213,
+    "passes": true
+  },
+  {
+    "case_index": 514,
+    "case_id": "TE00514",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.993927001953125,
+    "passes": true
+  },
+  {
+    "case_index": 515,
+    "case_id": "TE00515",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994319677352905,
+    "passes": true
+  },
+  {
+    "case_index": 516,
+    "case_id": "TE00516",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9977230429649353,
+    "passes": true
+  },
+  {
+    "case_index": 517,
+    "case_id": "TE00517",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998844265937805,
+    "passes": true
+  },
+  {
+    "case_index": 518,
+    "case_id": "TE00518",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994373321533203,
+    "passes": true
+  },
+  {
+    "case_index": 519,
+    "case_id": "TE00519",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.999822735786438,
+    "passes": true
+  },
+  {
+    "case_index": 520,
+    "case_id": "TE00520",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996655583381653,
+    "passes": true
+  },
+  {
+    "case_index": 521,
+    "case_id": "TE00521",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997896552085876,
+    "passes": true
+  },
+  {
+    "case_index": 522,
+    "case_id": "TE00522",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997879266738892,
+    "passes": true
+  },
+  {
+    "case_index": 523,
+    "case_id": "TE00523",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995868802070618,
+    "passes": true
+  },
+  {
+    "case_index": 524,
+    "case_id": "TE00524",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998392462730408,
+    "passes": true
+  },
+  {
+    "case_index": 525,
+    "case_id": "TE00525",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997036457061768,
+    "passes": true
+  },
+  {
+    "case_index": 526,
+    "case_id": "TE00526",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9999315738677979,
+    "passes": true
+  },
+  {
+    "case_index": 527,
+    "case_id": "TE00527",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9950820803642273,
+    "passes": true
+  },
+  {
+    "case_index": 528,
+    "case_id": "TE00528",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996843934059143,
+    "passes": true
+  },
+  {
+    "case_index": 529,
+    "case_id": "TE00529",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995378255844116,
+    "passes": true
+  },
+  {
+    "case_index": 530,
+    "case_id": "TE00530",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9994979500770569,
+    "passes": true
+  },
+  {
+    "case_index": 531,
+    "case_id": "TE00531",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9699476957321167,
+    "passes": true
+  },
+  {
+    "case_index": 532,
+    "case_id": "TE00532",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996759295463562,
+    "passes": true
+  },
+  {
+    "case_index": 533,
+    "case_id": "TE00533",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996734261512756,
+    "passes": true
+  },
+  {
+    "case_index": 534,
+    "case_id": "TE00534",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998182058334351,
+    "passes": true
+  },
+  {
+    "case_index": 535,
+    "case_id": "TE00535",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.992978572845459,
+    "passes": true
+  },
+  {
+    "case_index": 536,
+    "case_id": "TE00536",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995911121368408,
+    "passes": true
+  },
+  {
+    "case_index": 537,
+    "case_id": "TE00537",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9995662569999695,
+    "passes": true
+  },
+  {
+    "case_index": 538,
+    "case_id": "TE00538",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9990950226783752,
+    "passes": true
+  },
+  {
+    "case_index": 539,
+    "case_id": "TE00539",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998838305473328,
+    "passes": true
+  },
+  {
+    "case_index": 540,
+    "case_id": "TE00540",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998037815093994,
+    "passes": true
+  },
+  {
+    "case_index": 541,
+    "case_id": "TE00541",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998818039894104,
+    "passes": true
+  },
+  {
+    "case_index": 542,
+    "case_id": "TE00542",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998939037322998,
+    "passes": true
+  },
+  {
+    "case_index": 543,
+    "case_id": "TE00543",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998685121536255,
+    "passes": true
+  },
+  {
+    "case_index": 544,
+    "case_id": "TE00544",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998018145561218,
+    "passes": true
+  },
+  {
+    "case_index": 545,
+    "case_id": "TE00545",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9997892379760742,
+    "passes": true
+  },
+  {
+    "case_index": 546,
+    "case_id": "TE00546",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998434782028198,
+    "passes": true
+  },
+  {
+    "case_index": 547,
+    "case_id": "TE00547",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9993085861206055,
+    "passes": true
+  },
+  {
+    "case_index": 548,
+    "case_id": "TE00548",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9998607635498047,
+    "passes": true
+  },
+  {
+    "case_index": 549,
+    "case_id": "TE00549",
+    "label": "cybercrime",
+    "tier": "mixed",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9922550916671753,
+    "passes": true
+  },
+  {
+    "case_index": 550,
+    "case_id": "TE00550",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9968251585960388,
+    "passes": true
+  },
+  {
+    "case_index": 551,
+    "case_id": "TE00551",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9959881901741028,
+    "passes": true
+  },
+  {
+    "case_index": 552,
+    "case_id": "TE00552",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8597992062568665,
+    "passes": true
+  },
+  {
+    "case_index": 553,
+    "case_id": "TE00553",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9747093319892883,
+    "passes": true
+  },
+  {
+    "case_index": 554,
+    "case_id": "TE00554",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9826287627220154,
+    "passes": true
+  },
+  {
+    "case_index": 555,
+    "case_id": "TE00555",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9952027201652527,
+    "passes": true
+  },
+  {
+    "case_index": 556,
+    "case_id": "TE00556",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9974628686904907,
+    "passes": true
+  },
+  {
+    "case_index": 557,
+    "case_id": "TE00557",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9973217248916626,
+    "passes": true
+  },
+  {
+    "case_index": 558,
+    "case_id": "TE00558",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9971621036529541,
+    "passes": true
+  },
+  {
+    "case_index": 559,
+    "case_id": "TE00559",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8884313702583313,
+    "passes": true
+  },
+  {
+    "case_index": 560,
+    "case_id": "TE00560",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.982631266117096,
+    "passes": true
+  },
+  {
+    "case_index": 561,
+    "case_id": "TE00561",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9985085725784302,
+    "passes": true
+  },
+  {
+    "case_index": 562,
+    "case_id": "TE00562",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9436979293823242,
+    "passes": true
+  },
+  {
+    "case_index": 563,
+    "case_id": "TE00563",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9409741759300232,
+    "passes": true
+  },
+  {
+    "case_index": 564,
+    "case_id": "TE00564",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9846006631851196,
+    "passes": true
+  },
+  {
+    "case_index": 565,
+    "case_id": "TE00565",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9684937596321106,
+    "passes": true
+  },
+  {
+    "case_index": 566,
+    "case_id": "TE00566",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8602237701416016,
+    "passes": true
+  },
+  {
+    "case_index": 567,
+    "case_id": "TE00567",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9452290534973145,
+    "passes": true
+  },
+  {
+    "case_index": 568,
+    "case_id": "TE00568",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9870855212211609,
+    "passes": true
+  },
+  {
+    "case_index": 569,
+    "case_id": "TE00569",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9713588356971741,
+    "passes": true
+  },
+  {
+    "case_index": 570,
+    "case_id": "TE00570",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9944616556167603,
+    "passes": true
+  },
+  {
+    "case_index": 571,
+    "case_id": "TE00571",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9964861273765564,
+    "passes": true
+  },
+  {
+    "case_index": 572,
+    "case_id": "TE00572",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9864110946655273,
+    "passes": true
+  },
+  {
+    "case_index": 573,
+    "case_id": "TE00573",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8053675293922424,
+    "passes": true
+  },
+  {
+    "case_index": 574,
+    "case_id": "TE00574",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9233303666114807,
+    "passes": true
+  },
+  {
+    "case_index": 575,
+    "case_id": "TE00575",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9996591806411743,
+    "passes": true
+  },
+  {
+    "case_index": 576,
+    "case_id": "TE00576",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9846374988555908,
+    "passes": true
+  },
+  {
+    "case_index": 577,
+    "case_id": "TE00577",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9945749044418335,
+    "passes": true
+  },
+  {
+    "case_index": 578,
+    "case_id": "TE00578",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.953413724899292,
+    "passes": true
+  },
+  {
+    "case_index": 579,
+    "case_id": "TE00579",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9971815347671509,
+    "passes": true
+  },
+  {
+    "case_index": 580,
+    "case_id": "TE00580",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9757286310195923,
+    "passes": true
+  },
+  {
+    "case_index": 581,
+    "case_id": "TE00581",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.5476229786872864,
+    "passes": true
+  },
+  {
+    "case_index": 582,
+    "case_id": "TE00582",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9699624180793762,
+    "passes": true
+  },
+  {
+    "case_index": 583,
+    "case_id": "TE00583",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8973144888877869,
+    "passes": true
+  },
+  {
+    "case_index": 584,
+    "case_id": "TE00584",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8088609576225281,
+    "passes": true
+  },
+  {
+    "case_index": 585,
+    "case_id": "TE00585",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.932565450668335,
+    "passes": true
+  },
+  {
+    "case_index": 586,
+    "case_id": "TE00586",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.8943235278129578,
+    "passes": true
+  },
+  {
+    "case_index": 587,
+    "case_id": "TE00587",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.18354332447052002,
+    "passes": false
+  },
+  {
+    "case_index": 588,
+    "case_id": "TE00588",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9965757727622986,
+    "passes": true
+  },
+  {
+    "case_index": 589,
+    "case_id": "TE00589",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9980652928352356,
+    "passes": true
+  },
+  {
+    "case_index": 590,
+    "case_id": "TE00590",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9882231950759888,
+    "passes": true
+  },
+  {
+    "case_index": 591,
+    "case_id": "TE00591",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.6617568731307983,
+    "passes": true
+  },
+  {
+    "case_index": 592,
+    "case_id": "TE00592",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9855788350105286,
+    "passes": true
+  },
+  {
+    "case_index": 593,
+    "case_id": "TE00593",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9761658906936646,
+    "passes": true
+  },
+  {
+    "case_index": 594,
+    "case_id": "TE00594",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9926866888999939,
+    "passes": true
+  },
+  {
+    "case_index": 595,
+    "case_id": "TE00595",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.6646410822868347,
+    "passes": true
+  },
+  {
+    "case_index": 596,
+    "case_id": "TE00596",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.983549177646637,
+    "passes": true
+  },
+  {
+    "case_index": 597,
+    "case_id": "TE00597",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": true,
+    "prob_drop": 0.9978173971176147,
+    "passes": true
+  },
+  {
+    "case_index": 598,
+    "case_id": "TE00598",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.01765105314552784,
+    "passes": false
+  },
+  {
+    "case_index": 599,
+    "case_id": "TE00599",
+    "label": "cybercrime",
+    "tier": "subtle",
+    "model": "xgb",
+    "correct": false,
+    "prob_drop": 0.4808957874774933,
+    "passes": false
+  }
+]

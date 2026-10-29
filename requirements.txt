@@ -1,0 +1,14 @@
+# UniForensic N1 - exact versions verified together on Python 3.12 (Oct 2026).
+# Install with:  pip install -r requirements.txt
+# Linux only: install the CPU build of torch FIRST to avoid a 3 GB CUDA download:
+#   pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+torch==2.14.1
+captum==0.9.0
+shap==0.54.1
+xgboost==3.4.1
+matplotlib==3.11.2
+PyYAML==6.0.3

@@ -1,0 +1,9 @@
+# UniForensic Workbench = everything from N1-N5 (unchanged versions) + one small package.
+# fastapi and uvicorn are already installed by requirements_n4.txt (Flower depends on them);
+# they are pinned here to the exact versions that set resolves to, so nothing changes.
+# Verified together on Python 3.12 (Oct 2026); "pip check" reports no conflicts.
+# Install with:  pip install -r requirements_app.txt
+-r requirements_n5.txt
+fastapi==0.138.2
+uvicorn==0.49.0
+python-multipart==0.0.32      # file upload (carve a SQLite file you upload)

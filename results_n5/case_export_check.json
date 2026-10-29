@@ -1,0 +1,34 @@
+[
+  {
+    "version_id": "TE00155|1|0",
+    "label": "fraud",
+    "recovered_objects": 66,
+    "max_diff_B": 1.4210854715202004e-14,
+    "max_diff_C_recovered_channel": 0.0,
+    "conforms": true
+  },
+  {
+    "version_id": "TE00332|1|0",
+    "label": "harassment",
+    "recovered_objects": 81,
+    "max_diff_B": 5.551115123125783e-17,
+    "max_diff_C_recovered_channel": 3.552713678800501e-15,
+    "conforms": true
+  },
+  {
+    "version_id": "TE00472|1|0",
+    "label": "cybercrime",
+    "recovered_objects": 63,
+    "max_diff_B": 1.7763568394002505e-15,
+    "max_diff_C_recovered_channel": 0.0,
+    "conforms": true
+  },
+  {
+    "version_id": "TE00068|0|1",
+    "label": "benign",
+    "recovered_objects": 45,
+    "max_diff_B": 1.4210854715202004e-14,
+    "max_diff_C_recovered_channel": 0.0,
+    "conforms": true
+  }
+]

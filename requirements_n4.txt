@@ -1,0 +1,6 @@
+# UniForensic N4 = everything from N1 (unchanged versions) + Flower + CASE tools.
+# Verified together on Python 3.12 (Oct 2026); "pip check" reports no conflicts.
+# Install with:  pip install -r requirements_n4.txt
+-r requirements.txt
+flwr==1.40.0
+case-utils==0.18.0

@@ -1,0 +1,19 @@
+# =====================================================================
+# UniForensic Workbench - the end-to-end demonstration app (FastAPI + React).
+# The app READS the outputs of N1-N5 and the teammate's N3 code; it never
+# changes them. Everything it writes goes to app_data/.
+# =====================================================================
+
+app_data: app_data               # live runs, uploads, CASE exports, logs
+
+# Model the case workbench starts with (any trained N5 model can be picked in the UI)
+default_model: {variant: C, rho: 0.25, seed: 2026}
+
+# Explanation acceptance check = N1 Level 2 (config.yaml 'acceptance'):
+# KernelSHAP (primary) vs Integrated Gradients (secondary), top-5 agreement, confidence tau.
+# tau comes from results/acceptance_summary.json (calibrated by N1 on N1's own model).
+kernelshap_background_rows: 50   # = N1 explainers.kernelshap.background_size
+
+# Live runs
+max_parallel_jobs: 1             # heavy jobs run one at a time (a laptop has few cores)
+upload_max_mb: 50                # largest SQLite file accepted for carving

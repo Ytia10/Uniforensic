@@ -1,0 +1,55 @@
+# =====================================================================
+# UniForensic - N4: Federated triage across agencies on one shared schema
+# N4 REUSES N1's outputs (data/, models/mlp.pt, config.yaml) and never
+# changes them. All N4 outputs go to the *_n4 folders below.
+# =====================================================================
+
+paths:
+  data: data_n4
+  models: models_n4
+  results: results_n4
+  figures: figures_n4
+
+run_seeds: [2026, 2027, 2028]   # every experiment is repeated with these seeds
+                                # (2026 = N1's seed, so the centralised model
+                                #  for seed 2026 is exactly N1's model)
+
+# ---------------- Step 3: CASE/UCO export and round trip -------------
+case_export:
+  cases_per_class_tier: 5       # test cases exported (4 classes x 3 tiers x 5 = 60)
+  validate_cases: 2             # cases checked with the official CASE validator (slow)
+  case_version: case-1.5.0      # ontology version case_validate checks against
+
+# ---------------- Step 4: agencies and non-IID splits -----------------
+agencies: 8                     # cross-silo: 8 simulated agencies / forensic labs
+alphas: [0.1, 0.5, 1.0, 100.0]  # Dirichlet concentration: 0.1 = very skewed,
+                                # 100 = practically identical (IID) case mixes
+min_cases_per_agency: 30        # resample a split until every agency has this many
+
+# ---------------- Steps 5-6: training --------------------------------
+local_only:
+  holdout: 0.2                  # each agency keeps 20% of its cases for early stopping
+
+federated:
+  rounds: 40                    # communication rounds
+  local_epochs: 2               # epochs each agency trains per round
+  fedprox_mu: 0.01              # FedProx proximal strength (Li et al., 2020)
+  methods: [fedavg, fedprox]
+
+# ---------------- Step 7: poisoning ----------------------------------
+poisoning:
+  alpha: 0.5                    # case mix used for the attack experiments
+  attacker: most_fraud          # the malicious agency (1 of 8): the one holding the most
+                                # fraud cases = the most damaging plausible insider.
+                                # Or put an agency number (0-7) here.
+  attacks: [none, label_flip, scaled_update]
+  label_flip: {from: fraud, to: benign}    # insider hides fraud
+  scaled_update: {factor: -5.0}            # sends the opposite of its real update, x5
+  aggregators: [fedavg, fedmedian, fedtrimmedavg, krum]
+  trimmed_proportion: 0.2       # FedTrimmedAvg: cut 20% at each end
+  krum_num_malicious: 1         # Krum assumes at most 1 attacker
+
+# ---------------- Step 8: scoring ------------------------------------
+scoring:
+  explainers: [integrated_gradients, feature_ablation]   # fast, both validated in N1
+  good_explanation_recall: 0.66 # same definition as N1

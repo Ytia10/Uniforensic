@@ -1,0 +1,16 @@
+{
+  "cases": 60,
+  "objects": 32601,
+  "feature_mismatches": [],
+  "validation": [
+    {
+      "case_id": "TE00000",
+      "conforms": true
+    },
+    {
+      "case_id": "TE00001",
+      "conforms": true
+    }
+  ],
+  "case_version": "case-1.5.0"
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "file": "fed_fedavg_a0.1_s2026.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 0.1,
+    "seed": 2026,
+    "sha256": "51f79546443571a7ec6770927031959d9d552f8ec36aaca939fcb305d579a063"
+  },
+  {
+    "file": "fed_fedprox_a0.1_s2026.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 0.1,
+    "seed": 2026,
+    "sha256": "aa08c8b588828e1163352566d194112deee16d9e49a5ea6db5c42f5a5f4329c8"
+  },
+  {
+    "file": "fed_fedavg_a0.1_s2027.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 0.1,
+    "seed": 2027,
+    "sha256": "435708a3992f054bd68564549982985a6bf75beb5603babbd098fdef4485e52b"
+  },
+  {
+    "file": "fed_fedprox_a0.1_s2027.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 0.1,
+    "seed": 2027,
+    "sha256": "046d97597a8bac259d1d8f1541f0eaf832ffb1a5bcb142671d8107d673bf0c83"
+  },
+  {
+    "file": "fed_fedavg_a0.1_s2028.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 0.1,
+    "seed": 2028,
+    "sha256": "d698b5f5bfb6f73645560c0c2118adcba5aaf428669a1ef6ca25f9f78d73cd9e"
+  },
+  {
+    "file": "fed_fedprox_a0.1_s2028.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 0.1,
+    "seed": 2028,
+    "sha256": "1ef32ae73a9e1f1fc9c000f50fc3dd36673aad08f84bc586200c66710d5e3a3f"
+  },
+  {
+    "file": "fed_fedavg_a0.5_s2026.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 0.5,
+    "seed": 2026,
+    "sha256": "4b465a31596fbd4ec38c955ebe63355d308975e834f72ad42eca8ae9ba9e14c1"
+  },
+  {
+    "file": "fed_fedprox_a0.5_s2026.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 0.5,
+    "seed": 2026,
+    "sha256": "5743c4eebb3dd713005a7d2ebec5eb3d49bcf63d025697cdeffc02c3430b230f"
+  },
+  {
+    "file": "fed_fedavg_a0.5_s2027.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 0.5,
+    "seed": 2027,
+    "sha256": "d5f2569eb27b1aeef56fff5fe6411928597d0a83be9446a8f311e128520eecdd"
+  },
+  {
+    "file": "fed_fedprox_a0.5_s2027.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 0.5,
+    "seed": 2027,
+    "sha256": "241c5d13d9486deb16aae2d4691859349b7ef06c16154f32a5c05916553cf8e7"
+  },
+  {
+    "file": "fed_fedavg_a0.5_s2028.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 0.5,
+    "seed": 2028,
+    "sha256": "5688c3e9cd5bbe8d0a0dcea0adbb4ac7d42bd79ce032e37f40d9324bf8f216f0"
+  },
+  {
+    "file": "fed_fedprox_a0.5_s2028.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 0.5,
+    "seed": 2028,
+    "sha256": "d07b5dedd50b49040a2150188c1e947b8700c2eabbddb045176d5699368f5c3c"
+  },
+  {
+    "file": "fed_fedavg_a1.0_s2026.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 1.0,
+    "seed": 2026,
+    "sha256": "93af7d65387d80f7ced86e95df8c47d0652fb6f6d87fddcd1146f95ec52d814a"
+  },
+  {
+    "file": "fed_fedprox_a1.0_s2026.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 1.0,
+    "seed": 2026,
+    "sha256": "36e3710d5529422a1182733f7aae5891f39cb47a5041c4130fcc4eff46b80c36"
+  },
+  {
+    "file": "fed_fedavg_a1.0_s2027.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 1.0,
+    "seed": 2027,
+    "sha256": "0171f62de0e76b0ef40604264701be52e4b17561e09189c3cfc2f3140982753a"
+  },
+  {
+    "file": "fed_fedprox_a1.0_s2027.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 1.0,
+    "seed": 2027,
+    "sha256": "dc6595c767fb0a6e3a08217e3829eacb2417a577df8e60b20de573487534b924"
+  },
+  {
+    "file": "fed_fedavg_a1.0_s2028.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 1.0,
+    "seed": 2028,
+    "sha256": "409c49d3a721b40b33c79ee8eb8725a92bcc1862e05cb8a19a5ca81e318d4a78"
+  },
+  {
+    "file": "fed_fedprox_a1.0_s2028.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 1.0,
+    "seed": 2028,
+    "sha256": "73739e1cf7860e7142317892bd0ec69dd3d8c5e7a3b55a6b794af6d3cb49b216"
+  },
+  {
+    "file": "fed_fedavg_a100.0_s2026.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 100.0,
+    "seed": 2026,
+    "sha256": "80eeb9c351d085b0874a3190ca3cfcba9586784afe2627c5b4b43b553bd29df1"
+  },
+  {
+    "file": "fed_fedprox_a100.0_s2026.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 100.0,
+    "seed": 2026,
+    "sha256": "81edfd4e32bdb9f498b18d977af7b4b299a4ba1db52c1162aded33f5e871a5b3"
+  },
+  {
+    "file": "fed_fedavg_a100.0_s2027.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 100.0,
+    "seed": 2027,
+    "sha256": "c3afb348d537a81d1f2de5e03cfbc4255e54600c15c2b6fc069a2e572b6ad197"
+  },
+  {
+    "file": "fed_fedprox_a100.0_s2027.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 100.0,
+    "seed": 2027,
+    "sha256": "58a5806440aaa710820df45782a421c0da068f22ae96bae61299a228127f7445"
+  },
+  {
+    "file": "fed_fedavg_a100.0_s2028.pt",
+    "kind": "federated",
+    "method": "fedavg",
+    "alpha": 100.0,
+    "seed": 2028,
+    "sha256": "84da8dd56638dc91420d2e27feee9312cb03abfcc0d38241181ec75afdab00dc"
+  },
+  {
+    "file": "fed_fedprox_a100.0_s2028.pt",
+    "kind": "federated",
+    "method": "fedprox",
+    "alpha": 100.0,
+    "seed": 2028,
+    "sha256": "988daa4287da6fb4f5599a2be877171cdcd408c5d950f60f84c4c1a5472851db"
+  }
+]

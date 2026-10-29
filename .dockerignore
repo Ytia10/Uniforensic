@@ -1,0 +1,6 @@
+# The image only needs the requirement files; the folder is mounted at run time.
+*
+!requirements.txt
+!requirements_n4.txt
+!requirements_n5.txt
+!requirements_app.txt

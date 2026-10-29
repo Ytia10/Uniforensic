@@ -1,0 +1,31 @@
+{
+  "l2_reg": 0.01,
+  "weights": [
+    0.39119166515120257,
+    0.16583379784657037,
+    2.348966267573534,
+    0.13367541635283556,
+    0.582331200199431,
+    0.5428062461714352,
+    0.4027192384604373,
+    0.06895195852564474
+  ],
+  "bias": -5.362926806503368,
+  "platt_a": -2.946387963364372,
+  "platt_b": -2.8504130944769246,
+  "feature_names": [
+    "f1_varint_valid",
+    "f2_serial_legal",
+    "f3_schema_match",
+    "f4_length_fit",
+    "f5_text_validity",
+    "f6_value_sanity",
+    "f7_entropy_score",
+    "f8_freeblock_alignment"
+  ],
+  "n_train_vectors": 604,
+  "n_positive": 57,
+  "ece_in_sample": 0.02364573781689193,
+  "brier_in_sample": 0.04176622772060646,
+  "numpy_seed": 2026
+}

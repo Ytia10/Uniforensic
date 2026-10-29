@@ -1,0 +1,64 @@
+# =====================================================================
+# UniForensic - N5: Carry recovery confidence and provenance into triage,
+# explanations and reports.
+# N5 REUSES N1 (data/, models/, config.yaml), N4 (ufn4, config_n4.yaml) and the
+# teammate's N3 code (folder n3_team/, unchanged). It never changes their files.
+# All N5 outputs go to the *_n5 folders below.
+# =====================================================================
+
+paths:
+  data: data_n5
+  models: models_n5
+  results: results_n5
+  figures: figures_n5
+
+seed: 2026                       # = N1's seed
+n3_numpy_seed: 2026              # seeds numpy before N3's training step (N3 itself does not)
+workers: 2                       # parallel processes for building + carving databases
+
+# ---------------- Step 3-4: deletion scenarios on real SQLite databases ----------
+scenario:
+  levels: [0.0, 0.1, 0.25, 0.5, 1.0]   # share of each case's planted evidence the suspect deleted
+  background_delete_prob: 0.10   # everyone deletes ordinary records too (all cases, all levels)
+  background_delay_days: 30      # an ordinary record is deleted 0-30 days after it was created
+  immediate_share: 0.5           # per case: 'immediate' deleter (else 'clean-up' before seizure)
+  evidence_delay_hours: 72       # immediate: evidence deleted 0-72 h after it was created
+  cleanup_hours: 48              # clean-up: evidence deleted in the last 48 h before seizure
+  foreign_patterns: 2            # foreign residue: 2 planted patterns of one offence class...
+  foreign_intensity: [6, 12]     # ...at N1's 'mixed' evidence strength, belonging to someone else
+
+# ---------------- Step 5: calibration of the N3 confidence on N1 databases -----
+calibration:
+  method: isotonic               # sklearn IsotonicRegression, one per table, fit on val_fit
+  ece_bins: 10                   # same binning as the teammate's evaluate_calibration
+  report_threshold: 0.5          # the teammate's N3ProposedCarver threshold (variant A)
+
+# ---------------- Step 6: triage variants ----------------------------------------
+# L  live only              - what N1 sees when nobody carves (deleted = gone)
+# A  merge                  - recovered records with N3 p >= 0.5 treated exactly like live ones
+# Af merge, teammate filter - as A, but with the teammate's fuzzy live-row filter
+# B  confidence-weighted    - every recovered record counts with its calibrated confidence
+# C  two-channel            - 27 live features + the 9 decisive features' recovered channel
+variants: [L, A, Af, B, C]
+train_seeds: [2026, 2027, 2028]
+foreign_rate_train: [0.0, 0.25]  # share of benign TRAINING cases with foreign residue
+                                 # (0 = the analyst never saw residue; 0.25 = a realistic prior)
+foreign_rates_test: [0.0, 0.1, 0.25, 0.5]   # share of benign TEST cases with foreign residue
+
+# ---------------- Step 8: explanations and the recovery-dependence flag ---------
+explain:
+  method: integrated_gradients   # validated in N1 (Step 9) and used in N4
+  n_steps: 64
+flag:
+  attribution_share: 0.5         # attribution flag: recovered channel holds >= 50% of the
+                                 # decisive-feature attribution mass (variant C)
+
+# ---------------- Step 9: conformal prediction sets ------------------------------
+conformal:
+  alpha: 0.10                    # target coverage 90%
+  score: lac                     # 1 - p(true class)  (Sadinle et al., 2019)
+
+# ---------------- Step 10: N4 alignment (federated training of variant C) --------
+federated:
+  dirichlet_alpha: 0.5           # N4's main non-IID setting, same partition file
+  seed: 2026
