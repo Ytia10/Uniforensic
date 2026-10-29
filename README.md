@@ -108,7 +108,3 @@ re-run on the same machine reproduces the result files byte for byte. The altern
     results*/ figures*/  every result table and figure
     config*.yaml         all settings (seeds, thresholds)
     app_data/            created on first start: live runs, uploads (not in Git)
-
-## Licence
-
-<licence name>; see LICENSE. The N3 code in n3_team/ is by <teammate name>, used with permission.
