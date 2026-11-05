@@ -36,3 +36,7 @@ data_n3/
 Thumbs.db
 desktop.ini
 *.log
+
+ext_sqlite_forensic/
+data_n3/
+data_n5b/
