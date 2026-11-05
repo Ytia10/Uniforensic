@@ -1,0 +1,9 @@
+# UniForensic N3 = everything from N1 and N4 (unchanged versions) + two small packages.
+# Verified together on Python 3.12 (Oct 2026); "pip check" reports no conflicts.
+# Install with:  pip install -r requirements_n3.txt
+-r requirements_n4.txt
+apsw==3.53.4.0            # builds the test databases with its own bundled SQLite 3.53.4
+sqlite-dissect==1.0.0     # external baseline tool (DC3 SQLite Dissect)
+openpyxl==3.1.5           # \
+et-xmlfile==2.0.0         #  > dependencies of sqlite-dissect, pinned
+ConfigArgParse==1.8.0     # /
