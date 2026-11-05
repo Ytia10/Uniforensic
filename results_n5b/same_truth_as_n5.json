@@ -1,0 +1,16 @@
+{
+  "checked": true,
+  "n5_rows": 143544,
+  "n5b_rows": 143544,
+  "columns_compared": [
+    "artifact_id",
+    "behaviour",
+    "case_id",
+    "owner",
+    "pattern_id",
+    "role",
+    "table",
+    "version_id"
+  ],
+  "identical": true
+}

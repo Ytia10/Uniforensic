@@ -1,0 +1,197 @@
+{
+  "python": "3.12.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "sklearn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "yaml": "6.0.3",
+    "joblib": "1.6.0",
+    "apsw": "3.53.4.0",
+    "sqlite_bundled": "3.53.4"
+  },
+  "config_n3": {
+    "paths": {
+      "data": "data_n3",
+      "models": "models_n3",
+      "results": "results_n3",
+      "figures": "figures_n3"
+    },
+    "seed": 2026,
+    "cases_per_split": {
+      "train": 480,
+      "calib": 240,
+      "test": 480
+    },
+    "databases": [
+      "sms",
+      "call",
+      "web",
+      "pay"
+    ],
+    "conditions": {
+      "rollback_plain": {
+        "page_size": 4096,
+        "journal": "DELETE",
+        "secure_delete": "OFF",
+        "auto_vacuum": "NONE"
+      },
+      "secure_fast": {
+        "page_size": 4096,
+        "journal": "DELETE",
+        "secure_delete": "FAST",
+        "auto_vacuum": "NONE"
+      },
+      "secure_on": {
+        "page_size": 4096,
+        "journal": "DELETE",
+        "secure_delete": "ON",
+        "auto_vacuum": "NONE"
+      },
+      "autovacuum_full": {
+        "page_size": 4096,
+        "journal": "DELETE",
+        "secure_delete": "OFF",
+        "auto_vacuum": "FULL"
+      },
+      "small_pages": {
+        "page_size": 1024,
+        "journal": "DELETE",
+        "secure_delete": "OFF",
+        "auto_vacuum": "NONE"
+      },
+      "wal_open": {
+        "page_size": 4096,
+        "journal": "WAL",
+        "secure_delete": "OFF",
+        "auto_vacuum": "NONE"
+      },
+      "wal_secure": {
+        "page_size": 4096,
+        "journal": "WAL",
+        "secure_delete": "ON",
+        "auto_vacuum": "NONE"
+      },
+      "journal_persist": {
+        "page_size": 4096,
+        "journal": "PERSIST",
+        "secure_delete": "OFF",
+        "auto_vacuum": "NONE"
+      }
+    },
+    "wal_checkpoint_at": [
+      0.3,
+      0.9
+    ],
+    "deletion": {
+      "evidence_delete_prob": 0.7,
+      "other_delete_prob": [
+        0.0,
+        0.15
+      ],
+      "delay_hours": [
+        1,
+        120
+      ],
+      "transaction_size": [
+        1,
+        20
+      ]
+    },
+    "carver": {
+      "max_candidates_per_region": 400
+    },
+    "ranker": {
+      "max_iter": 300,
+      "learning_rate": 0.1,
+      "max_leaf_nodes": 31,
+      "min_samples_leaf": 20,
+      "calibration": "isotonic",
+      "report_threshold": 0.5,
+      "target_precision": 0.95,
+      "ece_bins": 15
+    },
+    "nemetz": {
+      "categories": [
+        "07",
+        "0C",
+        "0D",
+        "0E"
+      ],
+      "robustness": [
+        "17",
+        "18"
+      ]
+    },
+    "dissect_sample_per_condition": 30
+  },
+  "ranker": {
+    "features": [
+      "n_copies",
+      "n_pages",
+      "owner_known",
+      "n_tables_same_width",
+      "rowid_known",
+      "rowid_is_live",
+      "rowid_above_live_max",
+      "payload_ok",
+      "size_pinned",
+      "fits_region",
+      "overrun",
+      "slack_after",
+      "affinity_match",
+      "null_share",
+      "printable",
+      "text_share",
+      "record_len_log",
+      "header_len",
+      "entropy",
+      "zero_share",
+      "overflow_followed",
+      "competitors",
+      "end_at_boundary",
+      "hyp_old_cell",
+      "hyp_cell",
+      "hyp_record",
+      "hyp_freeblock",
+      "hyp_stale_freeblock",
+      "src_current",
+      "src_freelist",
+      "src_orphan",
+      "src_superseded_main",
+      "src_superseded_wal",
+      "src_wal_uncommitted",
+      "src_wal_stale",
+      "src_beyond_eof",
+      "src_journal",
+      "reg_freeblock",
+      "reg_unallocated",
+      "reg_cell_area",
+      "reg_raw_page"
+    ],
+    "calibration": "isotonic",
+    "report_threshold": 0.5,
+    "t95": 0.16666666666666666,
+    "target_precision": 0.95,
+    "n_iter": 96,
+    "sklearn": "1.9.1",
+    "train_candidates": 274357,
+    "calib_candidates": 141700,
+    "train_positive_share": 0.03595315592458002
+  },
+  "sha256": {
+    "models_n3\\ranker.json": "c0b06c438dc2e35568727ce4ede2d29eee4726d0d65e539d1ba329815237cef8",
+    "results_n3\\confidence_profile.csv": "524009f31f342243d28b0507fc192bc0b7a6eff609b199aab68875fccf76c733",
+    "results_n3\\corpora_databases.csv": "0d9d6a6cc205aca6d02de1f159766e91cf10932084954e175c214219b4cc4e2d",
+    "results_n3\\corpora_summary.csv": "313a69f1f875f2d2b24dfd93116b7823e0f11c47f1565b486cbdae4c8bfc3f96",
+    "results_n3\\dissect_synthetic.csv": "12971deb29918252c4e4ca921b81be1c6e1129e36b4e3f639d544f410a7786f2",
+    "results_n3\\evidence_recovery.csv": "20ef8667dc167a9fefdd1dc3df12ff9a9b4f7b29b2a5504a064c891a316de52b",
+    "results_n3\\feature_importance.csv": "7c1eda75f99b914cef8a64525f48f419baa600f15c71b21d5abf2d57ff91c6e7",
+    "results_n3\\reliability_test.csv": "7e11dc914d27019e2dbecb556711c3930947da7ed79bc7d09e8d5b856a2c8124",
+    "results_n3\\shift_holdout.csv": "2437ed8d8ab3ca264e541ae757b6ceb05fbcb7b4adc69d581ac99077aaa9067e",
+    "results_n3\\test_by_condition.csv": "2df1184a00a56cde9a3bf7dab11957f5604b9f94fafbcdcade3a02b31e547c3d",
+    "results_n3\\test_by_database.csv": "b3a15b3a436ba250a8ea00e63632fefd8df5cd2006dbd3292d242a2669025ca7",
+    "results_n3\\test_methods.csv": "4612c29fd2edf96ca469b7bdae96095eaa759899766a370bf2bd64506127ed13"
+  }
+}

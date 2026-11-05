@@ -1,0 +1,47 @@
+corpus,group,id,deleted,present,dissect_error,dissect_seconds
+nemetz,07,07-01,0,0,,0.79
+nemetz,07,07-02,0,0,,0.61
+nemetz,07,07-03,1,1,IndexError: string index out of range,0.58
+nemetz,07,07-04,0,0,,0.54
+nemetz,0C,0C-01,7,7,,0.54
+nemetz,0C,0C-02,10,10,,0.52
+nemetz,0C,0C-03,7,7,"TypeError: can only concatenate str (not ""bytes"") to str",0.59
+nemetz,0C,0C-04,10,10,"TypeError: can only concatenate str (not ""bytes"") to str",0.52
+nemetz,0C,0C-05,10,10,,0.56
+nemetz,0C,0C-06,7,7,,0.55
+nemetz,0C,0C-07,10,10,,0.62
+nemetz,0C,0C-08,10,10,,0.57
+nemetz,0C,0C-09,10,10,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 102: character maps to <undefined>,0.61
+nemetz,0C,0C-10,20,20,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 83: character maps to <undefined>,0.57
+nemetz,0D,0D-01,5,1,,0.54
+nemetz,0D,0D-02,5,1,,0.7
+nemetz,0D,0D-03,5,0,,0.67
+nemetz,0D,0D-04,5,2,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 91: character maps to <undefined>,0.57
+nemetz,0D,0D-05,5,0,,0.58
+nemetz,0D,0D-06,10,5,UnicodeEncodeError: 'charmap' codec can't encode characters in position 101-105: character maps to <undefined>,0.53
+nemetz,0D,0D-07,5,5,,0.59
+nemetz,0D,0D-08,5,5,,0.57
+nemetz,0E,0E-01,7,3,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 577: character maps to <undefined>,0.56
+nemetz,0E,0E-02,5,0,,0.55
+nemetz,17,17-01,15,0,timeout after 180s,180.15
+nemetz,17,17-02,15,0,timeout after 180s,180.08
+nemetz,17,17-03,15,0,timeout after 180s,180.16
+nemetz,17,17-04,15,0,timeout after 180s,180.17
+nemetz,17,17-05,15,0,timeout after 180s,180.1
+nemetz,17,17-06,15,0,,1.77
+nemetz,17,17-07,15,0,,1.05
+nemetz,17,17-08,15,0,,1.05
+nemetz,17,17-09,15,0,,1.2
+nemetz,17,17-10,15,0,exit code 1,1.19
+nemetz,17,17-11,15,0,exit code 1,1.19
+nemetz,17,17-12,15,0,exit code 1,1.11
+nemetz,17,17-13,15,0,exit code 1,1.21
+nemetz,18,18-01,7,0,,0.85
+nemetz,18,18-02,240,0,RecursionError: maximum recursion depth exceeded,2.33
+nemetz,18,18-03,240,0,RecursionError: maximum recursion depth exceeded,2.24
+nemetz,18,18-04,240,0,KeyError: 15663104,0.87
+nemetz,18,18-05,240,0,KeyError: 380,0.86
+nist_sft03,SFT-03_PERSIST_android,SFT-03_PERSIST_android.sqlite,100,100,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 105: character maps to <undefined>,1.09
+nist_sft03,SFT-03_PERSIST_ios,SFT-03_PERSIST_ios.sqlite,100,100,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 105: character maps to <undefined>,1.06
+nist_sft03,sft-03-WAL_android,sft-03-WAL_android.sqlite,100,100,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 107: character maps to <undefined>,1.19
+nist_sft03,sft-03-WAL_ios,sft-03-WAL_ios.sqlite,100,100,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 107: character maps to <undefined>,1.25

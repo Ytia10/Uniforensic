@@ -1,0 +1,241 @@
+case_id,db,condition,tp,fp,live_fp,deleted,error,seconds
+TE00016,sms,autovacuum_full,0,1,53,3,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 174: character maps to <undefined>,0.9
+TE00047,sms,autovacuum_full,0,1,54,3,,0.9
+TE00055,web,autovacuum_full,0,4,195,16,,0.99
+TE00062,pay,autovacuum_full,0,0,0,0,,0.91
+TE00097,web,autovacuum_full,22,10,263,62,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 114: character maps to <undefined>,0.99
+TE00098,sms,autovacuum_full,1,3,53,11,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 162: character maps to <undefined>,0.91
+TE00100,pay,autovacuum_full,0,0,0,4,,0.91
+TE00159,call,autovacuum_full,1,0,0,10,,0.9
+TE00168,call,autovacuum_full,1,0,0,1,,0.94
+TE00191,sms,autovacuum_full,5,1,52,28,,1.26
+TE00196,sms,autovacuum_full,8,4,61,40,,0.82
+TE00231,call,autovacuum_full,0,0,0,6,,0.71
+TE00294,pay,autovacuum_full,0,0,0,20,,0.64
+TE00335,pay,autovacuum_full,0,0,0,0,,0.73
+TE00342,sms,autovacuum_full,1,1,0,21,,0.68
+TE00343,pay,autovacuum_full,2,0,0,2,,0.62
+TE00354,sms,autovacuum_full,4,1,52,12,,0.67
+TE00356,sms,autovacuum_full,1,1,52,13,,0.71
+TE00378,web,autovacuum_full,17,6,209,104,,0.72
+TE00388,call,autovacuum_full,2,0,0,21,,0.66
+TE00413,web,autovacuum_full,16,2,191,35,,0.75
+TE00432,sms,autovacuum_full,6,1,47,22,,0.87
+TE00448,web,autovacuum_full,14,7,206,76,,0.52
+TE00460,call,autovacuum_full,1,0,0,8,,0.51
+TE00478,call,autovacuum_full,1,0,0,7,,0.48
+TE00497,pay,autovacuum_full,0,0,0,2,,0.49
+TE00523,pay,autovacuum_full,0,0,0,2,,0.45
+TE00529,sms,autovacuum_full,0,1,54,1,,0.49
+TE00542,call,autovacuum_full,0,0,0,2,,0.47
+TE00587,sms,autovacuum_full,3,1,50,22,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 176: character maps to <undefined>,0.51
+TE00001,web,journal_persist,1,1,58,23,UnicodeEncodeError: 'charmap' codec can't encode characters in position 121-123: character maps to <undefined>,0.49
+TE00038,sms,journal_persist,1,1,54,7,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 187: character maps to <undefined>,0.5
+TE00065,call,journal_persist,1,0,0,4,,0.44
+TE00105,call,journal_persist,0,0,0,1,,0.5
+TE00107,pay,journal_persist,0,0,0,4,,0.58
+TE00135,call,journal_persist,1,0,0,11,,0.6
+TE00140,pay,journal_persist,0,0,0,6,,0.54
+TE00172,sms,journal_persist,1,2,49,29,,0.62
+TE00181,sms,journal_persist,10,2,48,31,UnicodeEncodeError: 'charmap' codec can't encode characters in position 181-183: character maps to <undefined>,0.57
+TE00212,sms,journal_persist,3,1,51,16,UnicodeEncodeError: 'charmap' codec can't encode characters in position 195-196: character maps to <undefined>,0.59
+TE00215,pay,journal_persist,6,0,0,14,,0.6
+TE00216,sms,journal_persist,3,2,60,28,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 212: character maps to <undefined>,0.73
+TE00222,web,journal_persist,8,3,76,48,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 80: character maps to <undefined>,0.66
+TE00230,sms,journal_persist,3,3,60,9,UnicodeEncodeError: 'charmap' codec can't encode characters in position 200-201: character maps to <undefined>,0.69
+TE00257,pay,journal_persist,0,0,0,14,,0.67
+TE00291,sms,journal_persist,0,1,50,10,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 173: character maps to <undefined>,0.6
+TE00313,call,journal_persist,3,0,0,35,,0.7
+TE00324,web,journal_persist,2,3,194,13,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 106: character maps to <undefined>,0.78
+TE00394,web,journal_persist,2,2,57,30,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 100: character maps to <undefined>,0.63
+TE00399,pay,journal_persist,0,0,0,0,,0.8
+TE00417,call,journal_persist,4,0,0,13,,0.97
+TE00437,web,journal_persist,4,5,56,45,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 141: character maps to <undefined>,0.75
+TE00464,pay,journal_persist,0,0,0,4,,0.64
+TE00494,call,journal_persist,0,0,0,0,,0.78
+TE00508,sms,journal_persist,1,3,50,10,UnicodeEncodeError: 'charmap' codec can't encode characters in position 187-188: character maps to <undefined>,0.73
+TE00510,pay,journal_persist,0,0,0,8,,0.69
+TE00522,pay,journal_persist,0,0,0,4,,0.64
+TE00572,sms,journal_persist,1,1,52,4,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 171: character maps to <undefined>,0.69
+TE00587,call,journal_persist,0,0,0,6,,0.66
+TE00599,web,journal_persist,1,1,56,33,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 142: character maps to <undefined>,0.56
+TE00032,pay,rollback_plain,0,0,0,0,,0.65
+TE00052,call,rollback_plain,0,0,0,0,,0.67
+TE00066,call,rollback_plain,0,0,0,14,,0.64
+TE00115,web,rollback_plain,0,0,0,32,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 128: character maps to <undefined>,0.67
+TE00137,call,rollback_plain,0,0,0,4,,0.63
+TE00171,pay,rollback_plain,4,0,0,20,,0.62
+TE00184,call,rollback_plain,1,0,0,5,,0.67
+TE00192,pay,rollback_plain,5,0,0,32,,0.63
+TE00198,web,rollback_plain,15,2,191,44,,0.77
+TE00213,sms,rollback_plain,3,1,48,24,UnicodeEncodeError: 'charmap' codec can't encode characters in position 165-170: character maps to <undefined>,0.68
+TE00217,call,rollback_plain,0,0,0,0,,0.61
+TE00241,web,rollback_plain,4,4,195,10,,0.66
+TE00255,call,rollback_plain,1,1,90,19,UnicodeEncodeError: 'charmap' codec can't encode characters in position 97-99: character maps to <undefined>,0.66
+TE00284,call,rollback_plain,0,0,0,2,,0.64
+TE00292,sms,rollback_plain,0,3,63,6,,0.65
+TE00311,sms,rollback_plain,1,3,0,19,,0.59
+TE00343,web,rollback_plain,2,2,54,9,,0.71
+TE00373,call,rollback_plain,4,0,0,23,,0.7
+TE00402,pay,rollback_plain,0,0,0,8,,0.7
+TE00408,call,rollback_plain,1,0,0,14,,0.62
+TE00409,web,rollback_plain,0,2,196,0,,0.61
+TE00417,sms,rollback_plain,2,2,59,11,,0.7
+TE00419,call,rollback_plain,1,1,91,5,,1.14
+TE00424,sms,rollback_plain,1,2,66,7,,0.77
+TE00448,sms,rollback_plain,0,1,49,0,,0.87
+TE00452,web,rollback_plain,19,8,188,57,,0.9
+TE00480,pay,rollback_plain,0,0,0,4,,0.6
+TE00542,web,rollback_plain,5,4,192,22,,0.53
+TE00567,call,rollback_plain,1,0,0,2,,0.5
+TE00581,web,rollback_plain,14,2,190,42,,0.56
+TE00032,call,secure_fast,0,0,0,4,,0.46
+TE00034,pay,secure_fast,0,0,0,2,,0.47
+TE00080,call,secure_fast,0,0,0,11,,0.48
+TE00089,web,secure_fast,0,0,0,18,,0.53
+TE00101,pay,secure_fast,0,0,0,8,,0.58
+TE00109,web,secure_fast,0,0,0,43,,0.51
+TE00136,web,secure_fast,0,0,0,6,,0.55
+TE00143,web,secure_fast,0,0,0,8,,0.53
+TE00166,pay,secure_fast,0,0,0,30,,0.61
+TE00299,call,secure_fast,0,0,0,11,,0.56
+TE00315,pay,secure_fast,0,0,0,2,,0.76
+TE00318,web,secure_fast,0,0,0,32,,0.82
+TE00319,call,secure_fast,0,0,0,45,,0.65
+TE00334,sms,secure_fast,0,0,0,13,,0.72
+TE00361,call,secure_fast,0,0,0,24,,0.77
+TE00371,sms,secure_fast,0,0,0,10,,0.76
+TE00383,call,secure_fast,0,0,0,20,,0.71
+TE00384,web,secure_fast,0,0,0,59,,0.78
+TE00451,call,secure_fast,0,0,0,4,,0.7
+TE00456,sms,secure_fast,0,0,0,19,,0.72
+TE00468,sms,secure_fast,0,0,0,6,,0.57
+TE00470,pay,secure_fast,0,0,0,0,,0.58
+TE00489,sms,secure_fast,0,0,0,1,,0.59
+TE00503,pay,secure_fast,0,0,0,8,,0.68
+TE00506,sms,secure_fast,0,0,0,10,,0.7
+TE00517,sms,secure_fast,0,0,0,0,,0.7
+TE00537,web,secure_fast,0,0,0,58,,0.78
+TE00546,sms,secure_fast,0,0,0,21,,0.76
+TE00572,web,secure_fast,0,1,0,79,,0.66
+TE00582,call,secure_fast,0,0,0,5,,0.6
+TE00051,call,secure_on,0,0,0,8,,0.53
+TE00067,call,secure_on,0,0,0,6,,0.55
+TE00118,web,secure_on,0,0,0,106,,0.71
+TE00128,pay,secure_on,0,0,0,14,,0.6
+TE00161,pay,secure_on,0,0,0,26,,0.54
+TE00197,call,secure_on,0,0,0,7,,0.63
+TE00204,web,secure_on,0,0,0,25,,0.68
+TE00225,pay,secure_on,0,0,0,12,,0.64
+TE00255,sms,secure_on,0,0,0,4,,0.65
+TE00294,sms,secure_on,0,0,0,22,,0.68
+TE00304,web,secure_on,0,0,0,49,,0.71
+TE00305,call,secure_on,0,0,0,36,,0.66
+TE00340,web,secure_on,0,0,0,35,,0.71
+TE00348,pay,secure_on,0,0,0,6,,0.7
+TE00368,pay,secure_on,0,0,0,6,,0.7
+TE00384,call,secure_on,0,0,0,25,,0.6
+TE00415,web,secure_on,0,0,0,13,,0.82
+TE00426,web,secure_on,0,0,0,22,,1.19
+TE00437,sms,secure_on,0,0,0,17,,0.84
+TE00449,call,secure_on,0,0,0,4,,0.99
+TE00461,sms,secure_on,0,0,0,8,,0.61
+TE00466,web,secure_on,0,0,0,71,,0.61
+TE00470,sms,secure_on,0,0,0,12,,0.69
+TE00503,call,secure_on,0,0,0,13,,0.54
+TE00533,web,secure_on,0,0,0,60,,0.62
+TE00540,web,secure_on,0,0,0,110,,0.54
+TE00551,pay,secure_on,0,0,0,0,,0.51
+TE00563,call,secure_on,0,0,0,5,,0.53
+TE00570,web,secure_on,0,0,0,46,,0.55
+TE00580,web,secure_on,0,0,0,53,,0.51
+TE00018,sms,small_pages,0,2,14,2,,0.46
+TE00024,sms,small_pages,0,0,12,1,,0.58
+TE00041,call,small_pages,2,3,21,12,,0.5
+TE00060,sms,small_pages,1,0,12,1,,0.49
+TE00060,web,small_pages,2,25,24,88,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 95: character maps to <undefined>,0.48
+TE00077,call,small_pages,0,1,22,0,,0.52
+TE00082,web,small_pages,3,23,22,62,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 93: character maps to <undefined>,0.46
+TE00092,sms,small_pages,3,1,16,7,,0.52
+TE00121,pay,small_pages,0,0,0,2,,0.47
+TE00128,web,small_pages,0,24,25,69,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 91: character maps to <undefined>,0.51
+TE00137,sms,small_pages,7,1,10,7,,0.48
+TE00144,pay,small_pages,0,1,24,0,,0.5
+TE00151,sms,small_pages,18,2,8,28,,0.48
+TE00161,sms,small_pages,8,6,5,30,,0.48
+TE00190,web,small_pages,0,26,26,33,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 98: character maps to <undefined>,0.48
+TE00193,pay,small_pages,0,1,24,14,,0.54
+TE00233,web,small_pages,0,22,24,22,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 96: character maps to <undefined>,0.47
+TE00247,sms,small_pages,0,1,13,20,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 162: character maps to <undefined>,0.53
+TE00328,sms,small_pages,7,4,16,17,,0.47
+TE00331,sms,small_pages,19,0,11,29,,0.49
+TE00397,pay,small_pages,0,0,0,8,,0.46
+TE00404,web,small_pages,0,1,26,23,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 93: character maps to <undefined>,0.48
+TE00408,pay,small_pages,0,0,0,0,,0.46
+TE00435,sms,small_pages,18,1,15,24,,0.49
+TE00462,call,small_pages,1,0,0,8,,0.46
+TE00467,call,small_pages,0,1,21,0,,0.45
+TE00504,pay,small_pages,2,1,24,10,,0.46
+TE00514,pay,small_pages,0,0,0,4,,0.46
+TE00577,call,small_pages,0,1,22,3,,0.53
+TE00597,pay,small_pages,2,0,0,2,,0.49
+TE00043,web,wal_open,1,3,77,23,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 111: character maps to <undefined>,0.55
+TE00074,sms,wal_open,4,3,74,9,,0.55
+TE00094,call,wal_open,0,0,0,0,,0.49
+TE00096,call,wal_open,2,0,0,8,,0.53
+TE00096,pay,wal_open,0,0,0,0,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.43
+TE00118,sms,wal_open,5,3,47,11,,0.59
+TE00126,call,wal_open,0,0,34,0,,0.47
+TE00146,web,wal_open,9,4,54,47,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 133: character maps to <undefined>,0.55
+TE00149,pay,wal_open,0,0,0,0,,0.47
+TE00159,web,wal_open,6,6,196,13,,0.72
+TE00178,sms,wal_open,8,7,67,19,,0.63
+TE00249,web,wal_open,8,6,193,19,,0.91
+TE00264,pay,wal_open,0,0,0,0,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.46
+TE00277,sms,wal_open,14,1,50,20,,0.6
+TE00319,pay,wal_open,4,0,0,10,,0.45
+TE00323,pay,wal_open,0,0,0,0,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.52
+TE00353,pay,wal_open,0,0,0,4,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.45
+TE00387,web,wal_open,13,7,79,58,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 78: character maps to <undefined>,0.68
+TE00392,pay,wal_open,0,0,0,4,,0.47
+TE00397,web,wal_open,2,1,56,79,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 140: character maps to <undefined>,0.65
+TE00398,sms,wal_open,11,7,51,16,,0.6
+TE00404,sms,wal_open,6,3,63,22,,0.58
+TE00414,pay,wal_open,0,0,0,6,,0.51
+TE00421,sms,wal_open,4,2,72,10,,0.6
+TE00448,pay,wal_open,2,0,0,4,,0.48
+TE00457,web,wal_open,22,11,58,41,,0.61
+TE00486,call,wal_open,0,0,0,2,,0.48
+TE00526,web,wal_open,3,1,53,56,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 142: character maps to <undefined>,0.56
+TE00531,web,wal_open,42,22,228,117,,0.88
+TE00590,web,wal_open,11,66,299,20,UnicodeEncodeError: 'charmap' codec can't encode character '\ufffd' in position 96: character maps to <undefined>,1.15
+TE00019,sms,wal_secure,8,0,0,13,,0.57
+TE00036,web,wal_secure,15,1,1,59,,0.77
+TE00053,sms,wal_secure,1,0,0,10,,0.49
+TE00081,web,wal_secure,7,0,0,51,,0.68
+TE00096,web,wal_secure,3,0,0,10,,0.51
+TE00097,pay,wal_secure,0,0,0,2,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.48
+TE00104,sms,wal_secure,2,0,0,4,,0.59
+TE00133,web,wal_secure,26,0,0,46,,0.86
+TE00141,sms,wal_secure,0,0,0,1,,0.52
+TE00147,pay,wal_secure,0,0,0,0,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.43
+TE00150,call,wal_secure,0,0,42,0,,0.48
+TE00153,sms,wal_secure,11,0,0,29,,0.49
+TE00163,sms,wal_secure,8,0,0,26,,0.51
+TE00194,web,wal_secure,15,0,0,39,,0.5
+TE00206,web,wal_secure,13,1,0,19,,0.99
+TE00213,web,wal_secure,0,0,0,2,,0.58
+TE00222,call,wal_secure,7,0,0,14,,0.53
+TE00244,call,wal_secure,1,0,0,3,,0.51
+TE00264,web,wal_secure,8,0,0,8,,1.18
+TE00292,pay,wal_secure,2,0,0,8,,0.5
+TE00330,pay,wal_secure,0,0,0,6,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.45
+TE00354,web,wal_secure,54,1,0,83,,0.92
+TE00381,sms,wal_secure,4,0,0,11,,0.65
+TE00383,sms,wal_secure,5,0,0,19,,0.51
+TE00458,web,wal_secure,11,0,0,74,,0.57
+TE00459,web,wal_secure,7,0,0,39,,0.6
+TE00476,sms,wal_secure,2,0,0,12,,0.51
+TE00488,pay,wal_secure,0,0,0,0,"sqlite_dissect.exception.WalCommitRecordParsingError: The schema cookie was modified but the previous value: 3 is greater than the new value: 1 which cannot occur in version: 1 on updated pages: [1, 2",0.48
+TE00545,pay,wal_secure,0,0,0,0,,0.46
+TE00555,sms,wal_secure,0,0,0,5,,0.54
